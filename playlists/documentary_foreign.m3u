@@ -1,0 +1,582 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/main/lg_epg_us.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://raw.githubusercontent.com/vraomoturi/DistroTV/master/distrotv.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/main/lg_epg_us.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://raw.githubusercontent.com/vraomoturi/DistroTV/master/distrotv.xml.gz"
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD" tvg-name="30A Darcizzle Offshore" tvg-logo="https://i.imgur.com/Q4l2uao.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="Crime360.us@SD" tvg-name="A&E: Crime 360" tvg-logo="https://i.imgur.com/IjtaG1m.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",A&E: Crime 360
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="KIIOLD104.us@SD" tvg-name="AABC TV" tvg-logo="https://i.imgur.com/Spu4s89.png" tvg-country="US" tvg-language="hye;eng" group-title="🌍 Документальні | EN",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
+#EXTINF:-1 tvg-id="ABCEntertains.au@Sydney" tvg-name="ABC Entertains" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png" tvg-country="AU" tvg-language="eng" group-title="🌍 Документальні | EN",ABC Entertains
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="AMP2.us@SD" tvg-name="Access Media Productions Community Channel" tvg-logo="https://i.imgur.com/nfur3FR.png" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Документальні | EN",Access Media Productions Community Channel
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="AdventureEarth.de@SD" tvg-name="Adventure Earth" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us@SD" tvg-name="AKC TV" tvg-logo="https://i.imgur.com/XRTfoSp.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",AKC TV
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us@SD" tvg-name="AKC TV Meet The Breeds" tvg-logo="https://i.imgur.com/66avgdk.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us@SD" tvg-name="AKC TV Puppies 24/7" tvg-logo="https://i.imgur.com/2nzRS60.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",AKC TV Puppies 24/7
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us@SD" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",American Heroes Channel
+http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.us@East" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 tvg-id="Atlas.us@SD" tvg-name="Atlas" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
+#EXTINF:-1 tvg-id="ATXN3.us@SD" tvg-name="ATXN3" tvg-logo="https://i.imgur.com/tSMtDlz.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",ATXN3
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
+#EXTINF:-1 tvg-id="AutenticHistory.de@SD" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 tvg-id="Backstage.us@SD" tvg-name="Backstage" tvg-logo="https://i.imgur.com/qcTNvNU.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Backstage
+https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8
+#EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-name="BATV Educational Channel" tvg-logo="https://i.imgur.com/eDoJqtg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",BATV Educational Channel
+https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg" tvg-country="UK" tvg-language="eng" group-title="🌍 Документальні | EN",BBC Earth
+https://amg00793-amg00793c6-vizio-us-2670.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearthaall-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" tvg-country="UK" tvg-language="eng" group-title="🌍 Документальні | EN",BBC Four
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us@SD" tvg-name="Beach TV Florida & Alabama" tvg-logo="https://i.imgur.com/weypM9C.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Beach TV Florida & Alabama
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us@SD" tvg-name="Beach TV Key West & Florida Keys" tvg-logo="https://i.imgur.com/XhDBdff.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Beach TV Key West & Florida Keys
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us@SD" tvg-name="Beach TV Myrtle Beach & The Grand Strand" tvg-logo="https://i.imgur.com/aLYz7Bv.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Beach TV Myrtle Beach & The Grand Strand
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD" tvg-name="Beach TV Panama City" tvg-logo="https://i.imgur.com/HCQDvEe.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Beach TV Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergOriginals.us@Poland" tvg-name="Bloomberg Originals" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Bloomberg Originals
+https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="CVCEducation.us@SD" tvg-name="Bolton Community Voice Channel (CVC) Education (Bolton CT)" tvg-logo="https://i.imgur.com/tUgEAUJ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Bolton Community Voice Channel (CVC) Education (Bolton CT)
+https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="BritBoxMysteries.us@SD" tvg-name="BritBox Mysteries" tvg-logo="https://i.imgur.com/PJdzoLN.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",BritBox Mysteries
+https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
+#EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-country="PL" tvg-language="pol;eng" group-title="🌍 Документальні | EN",BTB Info
+https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
+#EXTINF:-1 tvg-id="BUTV10.us@SD" tvg-name="BUTV10 (Boston University)" tvg-logo="https://i.imgur.com/Iv1Fe67.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",BUTV10 (Boston University)
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-name="CGTN Documentary" tvg-logo="https://i.imgur.com/JHv0WxM.png" tvg-country="CN" tvg-language="eng" group-title="🌍 Документальні | EN",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="ChinaTravel.cn@SD" tvg-name="China Travel" tvg-logo="https://i.imgur.com/vSgY3CD.png" tvg-country="CN" tvg-language="zho;eng" group-title="🌍 Документальні | EN",China Travel
+https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us@SD" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/M6FFkc3.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Classic Arts Showcase
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-name="CNA Originals" tvg-logo="https://i.imgur.com/hlFQTrB.png" tvg-country="SG" tvg-language="eng" group-title="🌍 Документальні | EN",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-name="Court TV" tvg-logo="https://i.imgur.com/jOKA735.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Court TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="Create.us@SD" tvg-name="Create" tvg-logo="https://en-academic.com/pictures/enwiki/67/Createtv.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Create
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="CuriosityNOW.de@EN" tvg-name="Curiosity Now" tvg-logo="https://i.imgur.com/gJ9eMaG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Curiosity Now
+https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-name="Da Vinci Asia Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" tvg-country="DE" tvg-language="vie;eng" group-title="🌍 Документальні | EN",Da Vinci Asia Vietnam
+https://vmttv.dpdns.org/tv360?id=davinci-hd
+#EXTINF:-1 tvg-id="DangerTV.us@SD" tvg-name="DangerTV" tvg-logo="https://i.imgur.com/4aTk45R.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",DangerTV
+https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us@SD" tvg-name="Dateline 24/7" tvg-logo="https://i.imgur.com/8mAJuut.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Dateline 24/7
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
+#EXTINF:-1 tvg-id="DKN.us@SD" tvg-name="DC.gov DKN (Washington DC)" tvg-logo="https://i.imgur.com/DIau0GB.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",DC.gov DKN (Washington DC)
+https://video.oct.dc.gov/out/u/DKN.m3u8
+#EXTINF:-1 tvg-id="DeadlyWomen.us@UK" tvg-name="Deadly Women" tvg-logo="https://i.imgur.com/dDVZ5Vd.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Deadly Women
+https://d1mgh147xpmgs8.cloudfront.net/DeadlyWomen_GB.m3u8
+#EXTINF:-1 tvg-id="DerryTV23.us@SD" tvg-name="DerryTV 23" tvg-logo="https://i.imgur.com/MRR6UL3.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",DerryTV 23
+https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DestinationAmerica.us@SD" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Destination America
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-name="Discovering China" tvg-logo="https://i.imgur.com/wr2bLaA.png" tvg-country="CN" tvg-language="zho;eng" group-title="🌍 Документальні | EN",Discovering China
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-id="DocuBayTV.in@SD" tvg-name="DocuBay TV" tvg-logo="https://i.imgur.com/OGyeLLR.png" tvg-country="IN" tvg-language="eng" group-title="🌍 Документальні | EN",DocuBay TV
+https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
+#EXTINF:-1 tvg-id="DocuBox.nl@SD" tvg-name="DocuBox" tvg-logo="https://i.imgur.com/pX4U9OG.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Документальні | EN",DocuBox
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="DocumentaryPlus.us@US" tvg-name="Documentary+" tvg-logo="https://i.imgur.com/x57klfS.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Documentary+
+https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DroneTV.us@SD" tvg-name="DroneTV" tvg-logo="https://i.ibb.co/S71C9RJC/dronetv.webp" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",DroneTV
+https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DuckHuntingTV.us@SD" tvg-name="Duck Hunting TV" tvg-logo="https://image.roku.com/developer_channels/prod/b2a80f0a20fc338f22a8289f23d20d19d958470ff1b8df3845c57cbc54ec1245.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 tvg-id="EBS.us@HD" tvg-name="EBS HD" tvg-logo="https://i.imgur.com/zqbK2IB.png" tvg-country="US" tvg-language="amh;eng" group-title="🌍 Документальні | EN",EBS HD
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-name="EET TV" tvg-logo="https://i.imgur.com/rntSEDZ.png" tvg-country="CA" tvg-language="tam;eng" group-title="🌍 Документальні | EN",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-name="FBI Files" tvg-logo="https://i.imgur.com/vzYDSLo.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-id="FlowersTVUSA.us@SD" tvg-name="Flowers TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png" tvg-country="US" tvg-language="mal;eng" group-title="🌍 Документальні | EN",Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="FNX.us@SD" tvg-name="FNX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgk7_TfPsHId-ynXuGaTMc13M2gcc4SG7cVw&s" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",FNX
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us@SD" tvg-name="Fox Soul" tvg-logo="https://i.imgur.com/YIamDGn.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Fox Soul
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us@SD" tvg-name="Fun Roads" tvg-logo="https://i.imgur.com/2Q6TENm.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Fun Roads
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+#EXTINF:-1 tvg-id="Getfactual.us@UK" tvg-name="Get.Factual" tvg-logo="https://i.imgur.com/4oVcjLd.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Get.Factual
+https://d1nhni5l2n8hjt.cloudfront.net/gf.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us@SD" tvg-name="Gillette Public Access Television Channel 189" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="H2.bg@SD" tvg-name="H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="BG" tvg-language="eng;bul" group-title="🌍 Документальні | EN",H2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 tvg-id="History.pl@SD" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="PL" tvg-language="eng" group-title="🌍 Документальні | EN",History
+http://92.114.85.87:8015/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",History
+http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="HistoryAsia.us@SD" tvg-name="History Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",History Asia
+https://freem3u.xyz/api/live/play.m3u8?vid=9856
+#EXTINF:-1 tvg-id="HistoryHit.uk@SD" tvg-name="History Hit" tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-country="UK" tvg-language="eng" group-title="🌍 Документальні | EN",History Hit
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InkMaster.us@CA" tvg-name="Ink Master" tvg-logo="https://i.imgur.com/DiBojYh.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Ink Master
+https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
+#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-name="InTravel" tvg-logo="https://cdn.uc.assets.prezly.com/394f887e-bb39-4228-b126-93914e375b13/-/preview/2000x2000/-/resize/1600/INTRAVEL_PortraitColor.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Документальні | EN",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-name="INTROUBLE" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Документальні | EN",INTROUBLE
+https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu@SD" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="HU" tvg-language="ces;eng;hun" group-title="🌍 Документальні | EN",Investigation Discovery
+http://88.212.7.14/live/id_hun/index.m3u8
+#EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-name="INWILD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Документальні | EN",INWILD
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="InWonder.nl@SD" tvg-name="InWonder" tvg-logo="https://cdn.uc.assets.prezly.com/1e0b2617-b145-4489-9d63-ba8438489f26/InWonder_portrait-black.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Документальні | EN",InWonder
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="JewishLifeTelevision.us@SD" tvg-name="Jewish Life Television" tvg-logo="https://yt3.googleusercontent.com/i6ETvgNzA8vvGCo-Ih6eo2XZUwz2VVMnstLyNZVXBlwa4uOeUIEl-3tzphB8phJaibe-FPQ5Fw=s512-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Jewish Life Television
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-id="Journy.us@SD" tvg-name="JOURNY TV" tvg-logo="https://i.imgur.com/1JNrLxq.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",JOURNY TV
+https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="KIIOLD101.us@HD" tvg-name="KIIO-LD 10.1" tvg-logo="https://i.imgur.com/wkzwXFO.png" tvg-country="US" tvg-language="hye;eng" group-title="🌍 Документальні | EN",KIIO-LD 10.1
+http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 tvg-id="PBS.us@KQED" tvg-name="KQED-DT2" tvg-logo="https://i.ibb.co/2KqyGjL/PBS-logo.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",KQED-DT2
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us@SD" tvg-name="Law & Crime" tvg-logo="https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Law & Crime
+https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="LeominsterTVEducational.us@SD" tvg-name="Leominster TV Educational" tvg-logo="https://i.imgur.com/Cy94oLl.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Leominster TV Educational
+https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LovePets.ca@US" tvg-name="Love Pets" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/LovePets_Logo_SecondaryColor.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Документальні | EN",Love Pets
+https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveThePlanet.es@EN" tvg-name="Love the Planet" tvg-logo="https://i.imgur.com/RBcD49X.png" tvg-country="ES" tvg-language="eng" group-title="🌍 Документальні | EN",Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="LuckyDog.us@SD" tvg-name="Lucky Dog" tvg-logo="https://i.imgur.com/1j4gwL3.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Lucky Dog
+https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+#EXTINF:-1 tvg-id="MagellanTVNow.us@SD" tvg-name="MagellanTV Now" tvg-logo="https://i.imgur.com/gEraSp5.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",MagellanTV Now
+https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us@SD" tvg-name="MBC America" tvg-logo="https://i.imgur.com/RRc23ra.png" tvg-country="US" tvg-language="kor;eng" group-title="🌍 Документальні | EN",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+#EXTINF:-1 tvg-id="MCN6ArtsChannel.us@SD" tvg-name="MCN6 Arts Channel" tvg-logo="https://i.imgur.com/j6IiysJ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us@SD" tvg-name="Midpen Media Center Arts Issues and Lifestyles Channel 30" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Midpen Media Center Arts Issues and Lifestyles Channel 30
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us@SD" tvg-name="Midpen Media Center Diversity and Culture Channel 75" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Midpen Media Center Diversity and Culture Channel 75
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us@SD" tvg-name="Midpen Media Center Youth Education and Sports Channel 28" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Midpen Media Center Youth Education and Sports Channel 28
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistory.us@SD" tvg-name="Military History" tvg-logo="https://i.imgur.com/S1SnpoA.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Military History
+#EXTVLCOPT:http-referrer=https://bhoomtv.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/154.0.0.0 Safari/537.36
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
+#EXTINF:-1 tvg-id="MonsterJam.us@SD" tvg-name="Monster Jam" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Monster Jam
+https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca@SD" tvg-name="Montreal Greek TV" tvg-logo="https://i.imgur.com/Y5YnUit.png" tvg-country="CA" tvg-language="ell;fra;eng" group-title="🌍 Документальні | EN",Montreal Greek TV
+http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 tvg-id="NashuaETV.us@SD" tvg-name="Nashua ETV Channel 22 Nashua NH" tvg-logo="https://i.imgur.com/iv9Vfcb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Nashua ETV Channel 22 Nashua NH
+https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NatickEducationChannel.us@SD" tvg-name="Natick Education Channel" tvg-logo="https://i.imgur.com/VKU9qwy.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Natick Education Channel
+https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="BG" tvg-language="bul;eng" group-title="🌍 Документальні | EN",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0ct
+#EXTINF:-1 tvg-id="NationalGeographic.pl@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="PL" tvg-language="eng" group-title="🌍 Документальні | EN",National Geographic
+http://92.114.85.87:8006/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",National Geographic
+http://212.5.144.156:8080/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NatureTime.ca@AU" tvg-name="NatureTime" tvg-logo="https://i.imgur.com/72JmyjM.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Документальні | EN",NatureTime
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="KNOVCD411.us@HD" tvg-name="NOTV New Orleans TV" tvg-logo="https://i.imgur.com/D7Lzqyl.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",NOTV New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="KOCTChannel19.us@SD" tvg-name="Oceanside Community Television (KOCT) Education and Government Channel 19" tvg-logo="https://i.imgur.com/6C71KwP.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Oceanside Community Television (KOCT) Education and Government Channel 19
+https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-id="Olelo53.us@SD" tvg-name="Olelo Community Media Channel 53" tvg-logo="https://i.imgur.com/xDuUrj9.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Olelo Community Media Channel 53
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
+#EXTINF:-1 tvg-id="OnTheCase.us@UK" tvg-name="On the Case" tvg-logo="https://i.imgur.com/TAmVjUL.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",On the Case
+https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us@SD" tvg-name="Outdoor America" tvg-logo="https://i.imgur.com/UKfimFD.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Outdoor America
+https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-name="Outside TV" tvg-logo="https://i.imgur.com/0UMmG41.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PalmBeachesTV.us@SD" tvg-name="Palm Beaches TV" tvg-logo="https://i.imgur.com/kBol4Pf.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Palm Beaches TV
+https://live.feed.thepalmbeaches.tv/index.m3u8
+#EXTINF:-1 tvg-id="PamirTV.ca@SD" tvg-name="Pamir TV" tvg-logo="https://i.imgur.com/sCBbBOj.png" tvg-country="CA" tvg-language="pus;tgk;eng" group-title="🌍 Документальні | EN",Pamir TV
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="PardesiTV.ca@SD" tvg-name="Pardesi TV" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-language="eng" group-title="🌍 Документальні | EN",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-name="PBS Kids" tvg-logo="https://i.imgur.com/fg8c9WK.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",PBS Kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" tvg-name="PBS Kids Alaska" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",PBS Kids Alaska
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-name="PBS Kids Hawaii" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",PBS Kids Hawaii
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-name="PBS Kids Mountain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",PBS Kids Mountain
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-name="PBS Kids Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",PBS Kids Pacific
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it@SD" tvg-name="Peer TV South Tyrol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" tvg-country="IT" tvg-language="eng" group-title="🌍 Документальні | EN",Peer TV South Tyrol
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de@GB" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV Alien Invasion
+https://jmp2.uk/plu-6462190b7cb4b1000862dd60.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de@GB" tvg-name="Pluto TV American True Crime" tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV American True Crime
+https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBritainatWar.de@GB" tvg-name="Pluto TV Britain at War" tvg-logo="https://images.pluto.tv/channels/625e8cb585ef320007806caf/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV Britain at War
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+#EXTINF:-1 tvg-id="PlutoTVConspiracy.de@GB" tvg-name="Pluto TV Conspiracy" tvg-logo="https://i.imgur.com/sr0kYSH.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV Conspiracy
+https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDokumentar.se@DK" tvg-name="Pluto TV Dokumentar" tvg-logo="https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Документальні | EN",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistory.us@US" tvg-name="Pluto TV History" tvg-logo="https://i.imgur.com/XkQD5kM.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@CA" tvg-name="Pluto TV Paranormal" tvg-logo="https://i.imgur.com/ApN6nfw.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV Paranormal
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPetrolHeads.de@GB" tvg-name="Pluto TV PetrolHeads" tvg-logo="https://images.pluto.tv/channels/65a7b0814a10d800085ff2df/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV PetrolHeads
+https://jmp2.uk/plu-65a7b0814a10d800085ff2df.m3u8
+#EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-name="Pluto TV Science" tvg-logo="https://i.imgur.com/uhunRoU.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV Science
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVToughJobs.de@GB" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV Tough Jobs
+https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@CA" tvg-name="Pluto TV True Crime" tvg-logo="https://i.imgur.com/lNfaxiv.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Pluto TV True Crime
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVarldskrigen.se@SE" tvg-name="Pluto TV Världskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Документальні | EN",Pluto TV Världskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-id="PoconoTelevisionNetwork.us@HD" tvg-name="Pocono Television Network" tvg-logo="https://i.imgur.com/et6giFo.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Pocono Television Network
+https://dfoiz3dv1euv7.cloudfront.net/ptnlive-s3/live1.m3u8
+#EXTINF:-1 tvg-id="PursuitUP.us@SD" tvg-name="Pursuit UP" tvg-logo="https://i.imgur.com/5Vzwqts.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Pursuit UP
+https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RedApple21.us@SD" tvg-name="Red Apple 21 (Fairfax County Public Schools)" tvg-logo="https://i.imgur.com/ICcQUCH.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Red Apple 21 (Fairfax County Public Schools)
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-name="Red Bull TV AU" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-country="AT" tvg-language="eng" group-title="🌍 Документальні | EN",Red Bull TV AU
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzFamousInfamous.us@HD" tvg-name="REELZ Famous & Infamous" tvg-logo="https://i.imgur.com/czrTtNK.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",REELZ Famous & Infamous
+https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SMCTVChannel24.us@SD" tvg-name="Santa Maria Community Television Education Channel" tvg-logo="https://i.imgur.com/4Autljp.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Santa Maria Community Television Education Channel
+https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SensingMurder.us@UK" tvg-name="Sensing Murder" tvg-logo="https://i.imgur.com/HYEABSt.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Sensing Murder
+https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-name="Smithsonian Channel Selects" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Smithsonian Channel Selects
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 tvg-id="SpikeOutdoors.us@SD" tvg-name="Spike Outdoors" tvg-logo="https://i.imgur.com/cdCD2A2.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Spike Outdoors
+https://jmp2.uk/plu-5c393cad2de254456f7ef8c2.m3u8
+#EXTINF:-1 tvg-id="SpikePlutoTV.us@SD" tvg-name="Spike Pluto TV" tvg-logo="https://i.imgur.com/woY8Ecb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Spike Pluto TV
+https://jmp2.uk/plu-5812bcc8237a6ff45d16c407.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at@SD" tvg-name="Swamiji TV American" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="eng" group-title="🌍 Документальні | EN",Swamiji TV American
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at@SD" tvg-name="Swamiji TV Australian" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="eng" group-title="🌍 Документальні | EN",Swamiji TV Australian
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at@SD" tvg-name="Swamiji TV European" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="eng" group-title="🌍 Документальні | EN",Swamiji TV European
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeenMom.us@SD" tvg-name="Teen Mom" tvg-logo="https://i.imgur.com/8o3ClCV.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Teen Mom
+https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
+#EXTINF:-1 tvg-id="Telepace2.it@SD" tvg-name="Telepace 2" tvg-logo="https://i.imgur.com/qvcf6QC.png" tvg-country="IT" tvg-language="ita;eng;fra" group-title="🌍 Документальні | EN",Telepace 2
+https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheNest.us@SD" tvg-name="The Nest" tvg-logo="https://iili.io/JGqD21e.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",The Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-name="Total Crime" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Документальні | EN",Total Crime
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.pl@SD" tvg-name="Travel Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-country="PL" tvg-language="eng" group-title="🌍 Документальні | EN",Travel Channel
+http://92.114.85.87:8011/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="TUTV.us@SD" tvg-name="TUTV" tvg-logo="https://i.imgur.com/At0BPeA.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",TUTV
+https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSTravelNetwork.us@SD" tvg-name="TVS Travel Network" tvg-logo="https://i.imgur.com/vSFf5Ce.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",TVS Travel Network
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 tvg-id="UCTV.us@SD" tvg-name="UCTV University of California" tvg-logo="https://i.imgur.com/ehMz9T5.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",UCTV University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Unidentified.us@SD" tvg-name="Unidentified" tvg-logo="https://i.imgur.com/naYszow.jpg" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Unidentified
+https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="WaterBear.ch@SD" tvg-name="WaterBear" tvg-logo="https://framerusercontent.com/images/41VQQ7F0fYlp1MX1N4Ixog5QnPI.png" tvg-country="CH" tvg-language="eng" group-title="🌍 Документальні | EN",WaterBear
+https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg01415-waterbearnetwor-waterbear-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us@SD" tvg-name="Waypoint TV" tvg-logo="https://i.imgur.com/9vvlJN9.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",Waypoint TV
+https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WedoBigStories.ch@SD" tvg-name="Wedo Big Stories" tvg-logo="https://provider-static.plex.tv/epg/cms/production/49cf6309-0a4a-4d39-bdcc-fa48e4ef84a7/WEDOBIGSTORIES_LIGHTTHEME_-_Sorin_Stoian.png" tvg-country="CH" tvg-language="eng" group-title="🌍 Документальні | EN",Wedo Big Stories
+https://amg00735-videosolutionsa-wedobigdocs-ono-0urlz.amagi.tv/playlist/amg00735-videosolutionsa-wedobigdocs-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-name="WildEarth" tvg-logo="https://i.imgur.com/Vhv5gjN.png" tvg-country="ZA" tvg-language="eng" group-title="🌍 Документальні | EN",WildEarth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="WorldChannel.us@SD" tvg-name="World Channel" tvg-logo="https://i.imgur.com/DMN8DOO.png" tvg-country="US" tvg-language="eng" group-title="🌍 Документальні | EN",World Channel
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="zenith.fr@HD" tvg-name="zenith" tvg-logo="https://znth.tv/images/logo.png" tvg-country="FR" tvg-language="fra;eng" group-title="🌍 Документальні | EN",zenith
+https://live.azenagroup.com/zenith/index.ll.m3u8
+#EXTINF:-1 tvg-chno="10" tvg-id="CCTV9.cn" tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-country="CN" tvg-language="zho" group-title="🌍 Документальні | Інші мови",CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-chno="27" tvg-id="ViasatHistory.hu" tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-country="HU" tvg-language="hun" group-title="🌍 Документальні | Інші мови",Viasat History
+http://141.94.193.53:80/Viasat_History_HD/index.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="KotiTV.fi" tvg-name="OnniTV" tvg-logo="https://i.imgur.com/HzILf2H.png" tvg-country="FI" tvg-language="fin;swe" group-title="🌍 Документальні | Інші мови",OnniTV
+https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=83459409&suiteItemId=83459780
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-name="Al Arabiya Programs" tvg-logo="https://i.imgur.com/Hoc3cfO.png" tvg-country="AE" tvg-language="ara" group-title="🌍 Документальні | Інші мови",Al Arabiya Programs
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-country="AR" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Alterna TV
+https://tv.alterna.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-name="Animaux" tvg-logo="https://i.imgur.com/FM9FVAG.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Animaux
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ArchivosForenses.us@Spain" tvg-name="Archivos Forenses" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Archivos Forenses
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de@SD" tvg-name="ARD-alpha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa@SD" tvg-name="Asharq Discovery" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-country="SA" tvg-language="ara" group-title="🌍 Документальні | Інші мови",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa@SD" tvg-name="Asharq Documentary" tvg-logo="https://i.imgur.com/v6VsFEt.png" tvg-country="SA" tvg-language="ara" group-title="🌍 Документальні | Інші мови",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AuroraArte.it@SD" tvg-name="Aurora Arte" tvg-logo="https://i.imgur.com/Y1Yq3iV.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-name="C Malayalam TV" tvg-logo="https://i.imgur.com/rpg0bQA.png" tvg-country="CA" tvg-language="mal" group-title="🌍 Документальні | Інші мови",C Malayalam TV
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF:-1 tvg-id="CacciaePesca.it@SD" tvg-name="Caccia e Pesca" tvg-logo="https://i.imgur.com/uZr0cXB.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Caccia e Pesca
+http://102.129.186.182:81/cacciapesca/index.m3u8
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-name="CCTV-Weapon & Technology" tvg-logo="https://i.imgur.com/QlF96eS.png" tvg-country="CN" tvg-language="zho" group-title="🌍 Документальні | Інші мови",CCTV-Weapon & Technology
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="ChannelOne.us@SD" tvg-name="Channel One" tvg-logo="https://i.imgur.com/igskUo0.png" tvg-country="US" tvg-language="fas" group-title="🌍 Документальні | Інші мови",Channel One
+https://pemirateshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-name="Crimen & Historia" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Crimen & Historia
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1 tvg-id="DeParintiro.ro@SD" tvg-name="DeParinti.ro" tvg-logo="https://assets.antenaplay.ro/2023/11/21/EO57SfnF8caVPEaQFs4Z.png" tvg-country="RO" tvg-language="ron" group-title="🌍 Документальні | Інші мови",DeParinti.ro
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
+#EXTINF:-1 tvg-id="DetetivesMedicos.us@BR" tvg-name="Detetives Médicos" tvg-logo="https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Detetives Médicos
+https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us@SD" tvg-name="Discovery Science Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Discovery Science Latin America
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de@SD" tvg-name="Dokusat" tvg-logo="https://i.imgur.com/GadfTwF.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="DossiersFBI.us@France" tvg-name="Dossiers FBI" tvg-logo="https://i.imgur.com/8Zx6dA7.png" tvg-country="US" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Dossiers FBI
+https://jmp2.uk/plu-5f8edad922b10b000753bc37.m3u8
+#EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-name="Doyel TV" tvg-logo="https://i.imgur.com/8pR8Q4J.png" tvg-country="CA" tvg-language="ben" group-title="🌍 Документальні | Інші мови",Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1 tvg-id="DukhNivaran.ca@SD" tvg-name="Dukh Nivaran" tvg-logo="https://i.imgur.com/Zh60l1x.png" tvg-country="CA" tvg-language="pan" group-title="🌍 Документальні | Інші мови",Dukh Nivaran
+http://cdn12.henico.net:8080/live/dncal/index.m3u8
+#EXTINF:-1 tvg-id="EawazTV.ca@SD" tvg-name="Eawaz TV" tvg-logo="https://i.imgur.com/vB4yzen.png" tvg-country="CA" tvg-language="urd" group-title="🌍 Документальні | Інші мови",Eawaz TV
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-name="Ecovisión" tvg-logo="https://imgur.com/a/pUlIJZX.png" tvg-country="DO" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Ecovisión
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="El33.es@Originals" tvg-name="El 33 Originals" tvg-logo="https://i.imgur.com/frKCBTN.png" tvg-country="ES" tvg-language="cat" group-title="🌍 Документальні | Інші мови",El 33 Originals
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="EpicCrimes.in@SD" tvg-name="Epic Crimes" tvg-logo="https://i.imgur.com/a5kaqDc.png" tvg-country="IN" tvg-language="hin" group-title="🌍 Документальні | Інші мови",Epic Crimes
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+#EXTINF:-1 tvg-id="EPlanetTV.ir@SD" tvg-name="EPlanet TV" tvg-logo="" tvg-country="IR" tvg-language="fas" group-title="🌍 Документальні | Інші мови",EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-name="ETV2" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-country="EE" tvg-language="est" group-title="🌍 Документальні | Інші мови",ETV2
+https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD" tvg-name="Forensic Files" tvg-logo="https://i.imgur.com/V5vvuLK.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Forensic Files
+https://jmp2.uk/plu-6181241c1a35d50007874c27.m3u8
+#EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-name="GikTVMX" tvg-logo="https://i.imgur.com/Gwz78jZ.png" tvg-country="MX" tvg-language="spa" group-title="🌍 Документальні | Інші мови",GikTVMX
+https://pistream.ddns.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" tvg-name="Hamaika Telebista" tvg-logo="https://i.imgur.com/HR3G3Ie.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Hamaika Telebista
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoireTV.fr@SD" tvg-name="Histoire TV" tvg-logo="https://i.imgur.com/hxuJXll.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Histoire TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="HistoriaYVida.es@SD" tvg-name="Historia y Vida" tvg-logo="https://i.imgur.com/3lbh2X6.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Historia y Vida
+https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8
+#EXTINF:-1 tvg-id="History.bg@SD" tvg-name="History" tvg-logo="" tvg-country="BG" tvg-language="bul" group-title="🌍 Документальні | Інші мови",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-id="History.cz@SD" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.15.50/live/test_history/playlist.m3u8
+#EXTINF:-1 tvg-id="History.hu@SD" tvg-name="History" tvg-logo="https://i.imgur.com/OWIK7FJ.png" tvg-country="HU" tvg-language="hun" group-title="🌍 Документальні | Інші мови",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="History.br@SD" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="BR" tvg-language="por" group-title="🌍 Документальні | Інші мови",History
+http://170.83.16.50/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-name="History 2 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",History 2 Latin America
+http://138.121.15.230:9002/HISTORY-2/index.m3u8
+#EXTINF:-1 tvg-id="HistoryLatinAmerica.us@Panregional" tvg-name="History Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",History Latin America
+http://15.204.246.24:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="HmongStarTV.us@SD" tvg-name="Hmong Star TV" tvg-logo="https://i.imgur.com/dRsacao.png" tvg-country="US" tvg-language="hmn;vie" group-title="🌍 Документальні | Інші мови",Hmong Star TV
+https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HmongTVNetwork.us@SD" tvg-name="Hmong TV Network" tvg-logo="https://yt3.googleusercontent.com/aj3kdBQTgfxP-bDnleou4m1ykjPRFexvfTZZuvWlNc75Hn9-NTqXYEdEJ_KOcTSsbKj24K1B9BM=s512-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="hmn;vie" group-title="🌍 Документальні | Інші мови",Hmong TV Network
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HyderTV.ca@SD" tvg-name="Hyder TV" tvg-logo="https://i.imgur.com/reHjjRZ.png" tvg-country="CA" tvg-language="hin" group-title="🌍 Документальні | Інші мови",Hyder TV
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ID.bg@SD" tvg-name="ID" tvg-logo="" tvg-country="BG" tvg-language="bul" group-title="🌍 Документальні | Інші мови",ID
+http://213.91.179.28:8000/play/a0c0
+#EXTINF:-1 tvg-id="InvestigationDiscovery.fr@SD" tvg-name="Investigation Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://192.99.186.30/stream/81/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-name="Investigation Discovery Latin America South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Investigation Discovery Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/qrn6tUO.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Italiana.it@SD" tvg-name="Italiana" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Italiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 tvg-id="JinTV.nl@SD" tvg-name="Jin TV" tvg-logo="https://i.imgur.com/37ajg2j.png" tvg-country="NL" tvg-language="kur" group-title="🌍 Документальні | Інші мови",Jin TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="kabeleinsDoku.de@SD" tvg-name="kabel eins Doku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",kabel eins Doku
+https://s6.hopslan.com/dokuX/index.m3u8
+#EXTINF:-1 tvg-id="KajouTV.us@SD" tvg-name="Kajou TV" tvg-logo="https://i.imgur.com/2XzghdT.png" tvg-country="US" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Kajou TV
+https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
+#EXTINF:-1 tvg-id="KarbalaDocumentary.iq@HD" tvg-name="Karbala Documentary" tvg-logo="https://www.karbala-tv.iq/documentary/static/img/logo.png" tvg-country="IQ" tvg-language="ara" group-title="🌍 Документальні | Інші мови",Karbala Documentary
+https://ktvlive.online/stream/hls/ch3.m3u8
+#EXTINF:-1 tvg-id="KomalaTV.se@SD" tvg-name="Komala TV" tvg-logo="https://i.imgur.com/D6KBLB8.png" tvg-country="SE" tvg-language="kur" group-title="🌍 Документальні | Інші мови",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de@SD" tvg-name="KulturMD" tvg-logo="https://i.imgur.com/io7cJ1Z.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",KulturMD
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4KCzechia" tvg-name="Love Nature 4K Czechia" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" tvg-country="CA" tvg-language="ces" group-title="🌍 Документальні | Інші мови",Love Nature 4K Czechia
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="MRTVFarmer.mm@SD" tvg-name="MRTV Farmer" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" tvg-country="MM" tvg-language="mya" group-title="🌍 Документальні | Інші мови",MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1 tvg-id="NatGeoPeople.pl@SD" tvg-name="Nat Geo People" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/960px-New_NatGeo_People_logo.svg.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Документальні | Інші мови",Nat Geo People
+http://92.114.85.87:8016/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.cz@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_ngc/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="HU" tvg-language="hun" group-title="🌍 Документальні | Інші мови",National Geographic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="MX" tvg-language="spa" group-title="🌍 Документальні | Інші мови",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-name="National Geographic Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",National Geographic Latin America
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="BG" tvg-language="bul" group-title="🌍 Документальні | Інші мови",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0cu
+#EXTINF:-1 tvg-id="NationalGeographicWild.cz@SD" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_ngw/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="HU" tvg-language="hun" group-title="🌍 Документальні | Інші мови",National Geographic Wild
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro@SD" tvg-name="National Geographic Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-country="RO" tvg-language="ron" group-title="🌍 Документальні | Інші мови",National Geographic Wild
+#EXTVLCOPT:http-referrer=https://cool-tv.net/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1 tvg-id="NRWision.de@SD" tvg-name="NRWision" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",NRWision
+https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OEncantadordeCaes.us@Brazil" tvg-name="O Encantador de Cães" tvg-logo="https://i.imgur.com/sQn6vvh.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:-1 tvg-id="OzbekistonTarixi.uz@SD" tvg-name="O'zbekiston Tarixi" tvg-logo="https://i.imgur.com/iTTd3Ir.png" tvg-country="UZ" tvg-language="uzb" group-title="🌍 Документальні | Інші мови",O'zbekiston Tarixi
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-name="ORF III HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" tvg-country="AT" tvg-language="deu" group-title="🌍 Документальні | Інші мови",ORF III HD
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="OrlerTV.it@SD" tvg-name="Orler TV" tvg-logo="https://i.imgur.com/Ia7iULa.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Orler TV
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PaciContemporaryChannel.it@SD" tvg-name="Paci Contemporary Channel" tvg-logo="https://i.imgur.com/RtOvD2M.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Paci Contemporary Channel
+https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us@SD" tvg-name="Payam Javan TV" tvg-logo="https://i.imgur.com/GYfsHh9.png" tvg-country="US" tvg-language="fas" group-title="🌍 Документальні | Інші мови",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-name="Peer TV Alto Adige" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Peer TV Alto Adige
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-name="Peer TV Südtirol" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" tvg-country="IT" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Peer TV Südtirol
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PersianaDocs.fr@HD" tvg-name="Persiana Docs" tvg-logo="" tvg-country="FR" tvg-language="fas" group-title="🌍 Документальні | Інші мови",Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaMedical.fr@SD" tvg-name="Persiana Medical" tvg-logo="" tvg-country="FR" tvg-language="fas" group-title="🌍 Документальні | Інші мови",Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PersianaTravel.fr@SD" tvg-name="Persiana Travel" tvg-logo="" tvg-country="FR" tvg-language="fas" group-title="🌍 Документальні | Інші мови",Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PescaeCaccia.it@SD" tvg-name="Pesca e Caccia" tvg-logo="https://i.imgur.com/nW5dJBl.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Pesca e Caccia
+http://102.129.186.182:81/pescacaccia/index.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-name="Platzi TV" tvg-logo="https://i.imgur.com/vEzeqHP.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Platzi TV
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAlienInvasion.se@DK" tvg-name="Pluto TV Alien Invasion" tvg-logo="https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Документальні | Інші мови",Pluto TV Alien Invasion
+https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-name="Pluto TV Aliens" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimais.us@BR" tvg-name="Pluto TV Animais" tvg-logo="https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Animais
+https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de@DACH" tvg-name="Pluto TV Animals" tvg-logo="https://i.imgur.com/N00seOn.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Pluto TV Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimaux.de@FR" tvg-name="Pluto TV Animaux" tvg-logo="https://i.imgur.com/jxYlLsd.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Pluto TV Animaux
+https://jmp2.uk/plu-60925a44f0350600075a1fdc.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAventure.de@FR" tvg-name="Pluto TV Aventure" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.de@IT" tvg-name="Pluto TV Documentari" tvg-logo="https://i.imgur.com/o7KVAIH.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Pluto TV Documentari
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="PlutoTVExplore.de@DACH" tvg-name="Pluto TV Explore" tvg-logo="https://i.imgur.com/Fhrcxje.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Pluto TV Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFishing.se@DK" tvg-name="Pluto TV Fishing" tvg-logo="https://i.imgur.com/ZaHOk8j.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Документальні | Інші мови",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-name="Pluto TV Food" tvg-logo="https://i.imgur.com/HTLo1GG.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoire.de@FR" tvg-name="Pluto TV Histoire" tvg-logo="https://i.imgur.com/JE5xcCV.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Pluto TV Histoire
+https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistoria.de@ES" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Pluto TV Historia
+https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.us@BR" tvg-name="Pluto TV Investigação" tvg-logo="https://i.imgur.com/JlQq0YJ.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us@BR" tvg-name="Pluto TV Mistérios" tvg-logo="https://i.imgur.com/gwxX1Y3.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMystery.de@DACH" tvg-name="Pluto TV Mystery" tvg-logo="https://i.imgur.com/oXpLEXI.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Pluto TV Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNatura.de@IT" tvg-name="Pluto TV Natura" tvg-logo="https://i.imgur.com/bGZkH6b.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Pluto TV Natura
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us@LatAm" tvg-name="Pluto TV Naturaleza" tvg-logo="https://i.imgur.com/vUHAWAJ.png" tvg-country="US" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Pluto TV Naturaleza
+https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNatureza.us@BR" tvg-name="Pluto TV Natureza" tvg-logo="https://i.imgur.com/RuyQQ6M.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNegocioFechado.us@BR" tvg-name="Pluto TV Negócio Fechado" tvg-logo="https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Negócio Fechado
+https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
+#EXTINF:-1 tvg-id="PlutoTVPolicial.us@BR" tvg-name="Pluto TV Policial" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Policial
+https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.de@DACH" tvg-name="Pluto TV Space" tvg-logo="https://i.imgur.com/hQwS3ui.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Pluto TV Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSpace.se@DK" tvg-name="Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Документальні | Інші мови",Pluto TV Space
+https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVStoria.de@IT" tvg-name="Pluto TV Storia" tvg-logo="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Pluto TV Storia
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-name="Pluto TV Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVerdenskrigene.se@DK" tvg-name="Pluto TV Verdenskrigene" tvg-logo="https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Документальні | Інші мови",Pluto TV Verdenskrigene
+https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@BR" tvg-name="Pluto TV Vida Real" tvg-logo="https://i.imgur.com/dRbBbxP.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD" tvg-name="Polsat Viasat Explore" tvg-logo="https://i.imgur.com/gDlqO9h.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Документальні | Інші мови",Polsat Viasat Explore
+http://92.114.85.87:8014/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" tvg-name="Polsat Viasat History" tvg-logo="https://i.imgur.com/X16UGUf.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Документальні | Інші мови",Polsat Viasat History
+http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD" tvg-name="Polsat Viasat Nature" tvg-logo="https://i.imgur.com/TUcM0oS.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Документальні | Інші мови",Polsat Viasat Nature
+http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us@Brazil" tvg-name="Pronto-socorro: Histórias De Emergência" tvg-logo="https://i.imgur.com/0PkyJ3U.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Pronto-socorro: Histórias De Emergência
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-id="Radio3.es@SD" tvg-name="Radio 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/RNE_Radio_3_2026.svg/500px-RNE_Radio_3_2026.svg.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Документальні | Інші мови",Radio 3
+https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
+#EXTINF:-1 tvg-id="RLPROTV.cd@SD" tvg-name="RL PRO TV" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" tvg-country="CD" tvg-language="fra" group-title="🌍 Документальні | Інші мови",RL PRO TV
+https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in@SD" tvg-name="Safari TV" tvg-logo="https://dtil.tmsimg.com/assets/s143739_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="mal" group-title="🌍 Документальні | Інші мови",Safari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/410/master.m3u8
+#EXTINF:-1 tvg-id="Salto2.nl@SD" tvg-name="Salto 2" tvg-logo="https://i.imgur.com/6H3ycdL.png" tvg-country="NL" tvg-language="nld" group-title="🌍 Документальні | Інші мови",Salto 2
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" tvg-name="Schladming-Dachstein TV" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" tvg-country="AT" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ScienceVieTV.fr@SD" tvg-name="Science & Vie TV" tvg-logo="https://i.imgur.com/9ELsSMI.png" tvg-country="FR" tvg-language="fra;tur" group-title="🌍 Документальні | Інші мови",Science & Vie TV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Документальні | Інші мови",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-id="Spektrum.cz@SD" tvg-name="Spektrum" tvg-logo="https://i.imgur.com/F5Uosum.png" tvg-country="CZ" tvg-language="ces;slk" group-title="🌍 Документальні | Інші мови",Spektrum
+http://88.212.15.50/live/test_spektrum/playlist.m3u8
+#EXTINF:-1 tvg-id="Spektrum.hu@SD" tvg-name="Spektrum" tvg-logo="https://i.imgur.com/GmFRQ82.png" tvg-country="HU" tvg-language="hun" group-title="🌍 Документальні | Інші мови",Spektrum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="CuriosityChannel.de@SD" tvg-name="SPIEGEL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Curiosity_Channel_Logo_2023.svg/960px-Curiosity_Channel_Logo_2023.svg.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",SPIEGEL TV
+https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+#EXTINF:-1 tvg-id="StorieCriminali.es@IT" tvg-name="Storie Criminali" tvg-logo="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" tvg-country="ES" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Storie Criminali
+https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+#EXTINF:-1 tvg-id="Telepace3.it@SD" tvg-name="Telepace 3" tvg-logo="https://i.imgur.com/hE4i2ft.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Документальні | Інші мови",Telepace 3
+https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraMaterWILD.de@German" tvg-name="Terra Mater WILD" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/terramaterwild_white.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Документальні | Інші мови",Terra Mater WILD
+https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.cz@SD" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",TV Paprika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" tvg-name="UMSA TVU Internacional" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" tvg-country="BO" tvg-language="spa" group-title="🌍 Документальні | Інші мови",UMSA TVU Internacional
+https://edge.enhdtv.com/8026/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-name="Viasat Explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" tvg-country="BG" tvg-language="bul" group-title="🌍 Документальні | Інші мови",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.cz@SD" tvg-name="Viasat Explore" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",Viasat Explore
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.bg@SD" tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" tvg-country="BG" tvg-language="bul" group-title="🌍 Документальні | Інші мови",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.cz@SD" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.bg@SD" tvg-name="Viasat Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" tvg-country="BG" tvg-language="bul" group-title="🌍 Документальні | Інші мови",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/ViasatNature_HD/index.m3u8
+#EXTINF:-1 tvg-id="ViasatNature.cz@SD" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IntoCrime.fr@SD" tvg-name="Zylo Into Crime" tvg-logo="https://i.imgur.com/43at4M2.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Документальні | Інші мови",Zylo Into Crime
+https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2.cz@SD" tvg-name="ČT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Документальні | Інші мови",ČT 2
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8

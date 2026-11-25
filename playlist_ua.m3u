@@ -1,0 +1,351 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/main/lg_epg_us.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://raw.githubusercontent.com/vraomoturi/DistroTV/master/distrotv.xml.gz" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz,https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml,https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml,https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/main/lg_epg_us.xml,https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz,https://raw.githubusercontent.com/vraomoturi/DistroTV/master/distrotv.xml.gz"
+#EXTINF:-1 tvg-chno="2" tvg-id="24Kanal.ua" tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",24 Kanal
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="SuspilneDnipro.ua" tvg-name="Суспільне Дніпро" tvg-logo="https://i.imgur.com/nMHd9FK.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Дніпро
+http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="SuspilneZhytomyr.ua" tvg-name="Суспільне Житомир" tvg-logo="https://i.imgur.com/lCv1Xaq.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Житомир
+http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="SuspilneOdesa.ua" tvg-name="Суспільне Одеса" tvg-logo="https://i.imgur.com/giTdUK9.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Одеса
+http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="SuspilneSport.ua" tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Suspilne Sport
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="SuspilneSumy.ua" tvg-name="Суспільне Суми" tvg-logo="https://i.imgur.com/U5GQiUz.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Суми
+http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="ICTV2.ua" tvg-name="ICTV2" tvg-logo="https://i.imgur.com/J4zlRGv.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",ICTV2
+http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="SuspilneKhmelnytskyi.ua" tvg-name="Суспільне Хмельницький" tvg-logo="https://i.imgur.com/uoTcTbU.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Хмельницький
+http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="ICTVSerialy.ua" tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Україна",ICTV Serialy
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="SuspilneChernivtsi.ua" tvg-name="Суспільне Чернівці" tvg-logo="https://i.imgur.com/mzYRGp2.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Чернівці
+http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
+#EXTINF:-1 tvg-chno="8" tvg-id="SuspilneKropyvnytskyi.ua" tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Kropyvnytskyi
+http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="PervyygorodskoyOdessa.ua" tvg-name="Pervyy gorodskoy Odessa" tvg-logo="https://i.imgur.com/8qdc6aO.png" tvg-country="UA" tvg-language="ukr;rus" group-title="🇺🇦 Україна",Pervyy gorodskoy Odessa
+https://live.1tv.od.ua/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-chno="11" tvg-id="SuspilneTernopil.ua" tvg-name="Суспільне Тернопіль" tvg-logo="https://i.imgur.com/rxXyCY7.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Тернопіль
+http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="NTKTV.ua" tvg-name="NTK TV" tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",NTK TV
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="SuspilneChernihiv.ua" tvg-name="Суспільне Чернігів" tvg-logo="https://i.imgur.com/WBChVXj.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Суспільне Чернігів
+http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="TVA.ua" tvg-name="TVA" tvg-logo="https://i.imgur.com/PtTQ5lv.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",TVA
+https://hls.cdn.ua/tva.ua_live/livestream/chunklist_.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="XSport.ua" tvg-name="XSport" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",XSport
+http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+#EXTINF:-1 tvg-id="1Plus1International.ua@HD" tvg-name="1+1 International HD" tvg-logo="https://i.imgur.com/LOY0rtp.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",1+1 International HD
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="1Plus1Marafon.ua@SD" tvg-name="1+1 Marafon" tvg-logo="https://i.imgur.com/smQKa2G.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",1+1 Marafon
+https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua@SD" tvg-name="100% News" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-country="UA" tvg-language="rus;ukr" group-title="🇺🇦 Україна",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="Channel24.ua@SD" tvg-name="24 Канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",24 Канал
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="366TV.ua@SD" tvg-name="36.6 TV" tvg-logo="https://i.imgur.com/sC0K5BZ.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ApostropheTV.ua@SD" tvg-name="Apostrophe TV" tvg-logo="https://i.imgur.com/LCXvbQX.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Apostrophe TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 tvg-id="ArmyTV.ua@SD" tvg-name="Army TV" tvg-logo="https://i.imgur.com/pGByjbh.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Army TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 tvg-id="Avers.ua@SD" tvg-name="Avers" tvg-logo="https://i.imgur.com/rHHz94D.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Avers
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-id="BlackSeaTV.ua@SD" tvg-name="Black Sea TV" tvg-logo="https://i.imgur.com/D8YJzHV.png" tvg-country="UA" tvg-language="ukr;rus" group-title="🇺🇦 Україна",Black Sea TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 tvg-id="Channel5.ua@SD" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/a9JJXPk.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Channel 5
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" tvg-name="Channel 7 Ukraine" tvg-logo="https://i.imgur.com/9Ll0BIo.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Channel 7 Ukraine
+https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel8.ua@SD" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/6Sr5vJD.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Channel 8
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1 tvg-id="Cherniveckiypromin.ua@SD" tvg-name="Cherniveckiy promin" tvg-logo="https://i.imgur.com/O9nQ5po.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cherniveckiy promin
+https://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 tvg-id="CinePlus.ua@SD" tvg-name="Cine+" tvg-logo="https://i.imgur.com/SAtdShq.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cine+
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR
+#EXTINF:-1 tvg-id="CinePlusHit.ua@SD" tvg-name="Cine+ Hit" tvg-logo="https://i.imgur.com/b3FcLU1.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cine+ Hit
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==
+#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-name="Cine+ Kids" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cine+ Kids
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=540&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ==
+#EXTINF:-1 tvg-id="CinePlusLegend.ua@SD" tvg-name="Cine+ Legend" tvg-logo="https://i.imgur.com/QtOfzSH.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cine+ Legend
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
+#EXTINF:-1 tvg-id="Dacha.ua@SD" tvg-name="Dacha" tvg-logo="https://i.imgur.com/xq6p9BZ.png" tvg-country="UA" tvg-language="ukr;rus" group-title="🇺🇦 Україна",Dacha
+https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="DIM.ua@SD" tvg-name="DIM" tvg-logo="https://i.imgur.com/3cjaXIF.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",DIM
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-id="DniproTV.ua@SD" tvg-name="DniproTV" tvg-logo="https://i.imgur.com/mbPTVh1.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",DniproTV
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EkoTV.ua@SD" tvg-name="Eko TV" tvg-logo="https://i.imgur.com/WovATGb.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Eko TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV" tvg-logo="https://i.imgur.com/xNatV8K.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Espreso TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+#EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-name="FilmUA Live" tvg-logo="https://i.imgur.com/kizTBgS.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-name="FilmUADrama" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-country="UA" tvg-language="rus;ukr" group-title="🇺🇦 Україна",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FREEDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-country="UA" tvg-language="rus" group-title="🇺🇦 Україна",FREEDOM
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" tvg-name="Happy Radio TV" tvg-logo="https://i.imgur.com/PAw36qJ.png" tvg-country="UA" tvg-language="eng" group-title="🇺🇦 Україна",Happy Radio TV
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 tvg-id="InterPlus.ua@SD" tvg-name="Inter+" tvg-logo="https://i.imgur.com/Y392Hh4.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Inter+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IRT.ua@SD" tvg-name="IRT" tvg-logo="https://i.imgur.com/tDTUIRm.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",IRT
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
+#EXTINF:-1 tvg-id="Islandia.ua@SD" tvg-name="Islandia" tvg-logo="https://i.imgur.com/9ql4jXv.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Islandia
+https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ITV.ua@SD" tvg-name="ITV HD" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",ITV HD
+http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="IzmailTV.ua@SD" tvg-name="Izmail TV" tvg-logo="https://i.imgur.com/CxsUpGz.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Izmail TV
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="K2.ua@SD" tvg-name="K2" tvg-logo="https://i.imgur.com/NMhydr5.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",K2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="KonkurentUkraine.ua@SD" tvg-name="Konkurent Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_%282025%29.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Konkurent Ukraine
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==
+#EXTINF:-1 tvg-id="KusKus.ua@SD" tvg-name="Kus-Kus" tvg-logo="https://i.imgur.com/4a4qX0P.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Kus-Kus
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kyiv.ua@SD" tvg-name="Kyiv" tvg-logo="https://i.imgur.com/TVuCY4N.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Kyiv
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 tvg-id="Lale.ua@SD" tvg-name="Lale" tvg-logo="https://i.imgur.com/CNhqVHd.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Lale
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+#EXTINF:-1 tvg-id="LuxTV.ua@SD" tvg-name="Lux TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Lux_TV_2.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Lux TV
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
+#EXTINF:-1 tvg-id="Mega.ua@SD" tvg-name="Mega" tvg-logo="https://i.imgur.com/Hsr0EvO.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Mega
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MegogoMusic.ua@SD" tvg-name="Megogo Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Megogo Music
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1 tvg-id="Muzvar.ua@SD" tvg-name="Muzvar" tvg-logo="https://i.imgur.com/Klu5k9U.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Muzvar
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD" tvg-name="My Ukraina+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg/250px-%D0%9C%D0%B8-%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0%2B_%282024%29.svg.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",My Ukraina+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 tvg-id="NASHEMusic.ua@SD" tvg-name="NASHE Music" tvg-logo="https://i.imgur.com/ienkbOc.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",NASHE Music
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="NTN.ua@SD" tvg-name="NTN" tvg-logo="https://i.imgur.com/AmyCNJv.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",NTN
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.ua@SD" tvg-name="OTV" tvg-logo="https://i.imgur.com/TkGGGAj.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",OTV
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+#EXTINF:-1 tvg-id="Pershyi.ua@SD" tvg-name="Pershyi" tvg-logo="https://i.imgur.com/osTQLED.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Pershyi
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-id="PixelTV.ua@SD" tvg-name="Pixel TV" tvg-logo="https://i.imgur.com/ECro8Ah.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-name="PTV" tvg-logo="https://i.imgur.com/WDHoSVz.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",PTV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-name="Rada TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" tvg-country="UA" tvg-language="rus;eng;ukr" group-title="🇺🇦 Україна",Rada TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RAZ3.ua@SD" tvg-name="RAZ 3" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",RAZ 3
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD" tvg-name="RAZ 3 International" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f4/RAZ_3.jpg/revision/latest?cb=20260831213225" tvg-country="UA" tvg-language="rus;ukr" group-title="🇺🇦 Україна",RAZ 3 International
+https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RenomeTV.ua@SD" tvg-name="Renome" tvg-logo="https://i.imgur.com/qL1uNlW.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 tvg-id="Rybalka.ua@SD" tvg-name="Rybalka" tvg-logo="https://i.imgur.com/NafW0xT.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Rybalka
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="SK1.ua@SD" tvg-name="SK 1" tvg-logo="https://i.imgur.com/XiXwr5h.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",SK 1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sonce.ua@SD" tvg-name="Sonce" tvg-logo="https://i.imgur.com/MrkQLTp.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Sonce
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 tvg-id="SoncePlus.ua@SD" tvg-name="Sonce+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sonce%2B_%28logo%29_2024.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Sonce+
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn
+#EXTINF:-1 tvg-id="Svarozhychy.ua@SD" tvg-name="Svarozhychy" tvg-logo="https://i.imgur.com/VnAgQA4.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Svarozhychy
+http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD" tvg-name="Telekanal RAI" tvg-logo="https://i.imgur.com/Ouv51WB.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Telekanal RAI
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-id="Rivne1.ua@SD" tvg-name="TV Rivne 1" tvg-logo="https://i.imgur.com/ytz7jYV.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",TV Rivne 1
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" tvg-name="Viasat Explore" tvg-logo="https://i.imgur.com/RBqKj6R.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Viasat Explore
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=79&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw==
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Viasat History
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-name="Viasat Kino Action" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-country="UA" tvg-language="rus;eng;lat" group-title="🇺🇦 Україна",Viasat Kino Action
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn
+#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-name="Viasat Kino Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-country="UA" tvg-language="bul" group-title="🇺🇦 Україна",Viasat Kino Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-name="Viasat Kino Comedy" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-country="UA" tvg-language="rus;eng;lat" group-title="🇺🇦 Україна",Viasat Kino Comedy
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua@SD" tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="UA" tvg-language="rus" group-title="🇺🇦 Україна",Viasat Kino World
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
+#EXTINF:-1 tvg-id="ViasatNature.ua@SD" tvg-name="Viasat Nature" tvg-logo="https://i.imgur.com/YY0LfBA.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Viasat Nature
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw==
+#EXTINF:-1 tvg-id="ViasatSerial.ua@HD" tvg-name="Viasat Serial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-country="UA" tvg-language="rus" group-title="🇺🇦 Україна",Viasat Serial
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" tvg-name="Общественное Независимое Телевидение" tvg-logo="https://i.imgur.com/jFP50g2.png" tvg-country="UA" tvg-language="rus" group-title="🇺🇦 Україна",Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="OrbitaTV.ua@SD" tvg-name="Орбіта ТВ" tvg-logo="https://i.ibb.co/Bj4T9wB/logo-Orbita-fin14.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Орбіта ТВ
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 tvg-id="SferaTV.ua@SD" tvg-name="Сфера ТВ" tvg-logo="https://i.imgur.com/S1h1t0G.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Reporter.ua@SD" tvg-name="Телеканал Репортер Одесса" tvg-logo="https://i.imgur.com/LyA3kBR.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Телеканал Репортер Одесса
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 tvg-id="CinePlus.ua@SD" tvg-name="Cine+" tvg-logo="https://i.imgur.com/SAtdShq.png" tvg-country="UA" tvg-language="ukr" group-title="🎬 Фільми | UA",Cine+
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR
+#EXTINF:-1 tvg-id="CinePlusHit.ua@SD" tvg-name="Cine+ Hit" tvg-logo="https://i.imgur.com/b3FcLU1.png" tvg-country="UA" tvg-language="ukr" group-title="🎬 Фільми | UA",Cine+ Hit
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==
+#EXTINF:-1 tvg-id="CinePlusLegend.ua@SD" tvg-name="Cine+ Legend" tvg-logo="https://i.imgur.com/QtOfzSH.png" tvg-country="UA" tvg-language="ukr" group-title="🎬 Фільми | UA",Cine+ Legend
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
+#EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-name="FilmUA Live" tvg-logo="https://i.imgur.com/kizTBgS.png" tvg-country="UA" tvg-language="ukr" group-title="🎬 Фільми | UA",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-name="FilmUADrama" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-country="UA" tvg-language="rus;ukr" group-title="🎬 Фільми | UA",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-name="Viasat Kino Bulgaria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Viasat_Kino_Logo_2025.svg" tvg-country="UA" tvg-language="bul" group-title="🎬 Фільми | UA",Viasat Kino Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.100:5000
+#EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-name="Bollywood HD Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" tvg-country="RO" tvg-language="hin;rus" group-title="🎬 Фільми | RU озвучка",Bollywood HD Russia
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" tvg-name="Viasat Kino Action" tvg-logo="https://i.imgur.com/HwsNIDK.png" tvg-country="UA" tvg-language="rus;eng;lat" group-title="🎬 Фільми | RU озвучка",Viasat Kino Action
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-name="Viasat Kino Comedy" tvg-logo="https://i.imgur.com/qVYt8kP.png" tvg-country="UA" tvg-language="rus;eng;lat" group-title="🎬 Фільми | RU озвучка",Viasat Kino Comedy
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua@SD" tvg-name="Viasat Kino World" tvg-logo="https://i.imgur.com/GPiE2Rb.png" tvg-country="UA" tvg-language="rus" group-title="🎬 Фільми | RU озвучка",Viasat Kino World
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
+#EXTINF:-1 tvg-id="ViasatSerial.ua@HD" tvg-name="Viasat Serial" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg" tvg-country="UA" tvg-language="rus" group-title="🎬 Фільми | RU озвучка",Viasat Serial
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
+#EXTINF:-1 tvg-id="CTVDlaCiebieTV.ee@SD" tvg-name="CTV Dla Ciebie TV" tvg-logo="https://ukrtvr.org/images/%D0%A1%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B5/CTV%20-%20Dla%20Ciebie%20TV.png" tvg-country="EE" tvg-language="ukr;pol" group-title="📺 Серіали | UA",CTV Dla Ciebie TV
+http://90.183.52.46:4000/play/a065/index.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="Nickelodeon.pl" tvg-name="Nickelodeon (Poland) (576i)" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="PL" tvg-language="pol;ukr" group-title="🧸 Дитячі | UA",Nickelodeon (Poland) (576i)
+http://92.114.85.87:8013/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" tvg-name="Cine+ Kids" tvg-logo="https://i.imgur.com/lmfc2u4.png" tvg-country="UA" tvg-language="ukr" group-title="🧸 Дитячі | UA",Cine+ Kids
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=540&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ==
+#EXTINF:-1 tvg-id="Lale.ua@SD" tvg-name="Lale" tvg-logo="https://i.imgur.com/CNhqVHd.png" tvg-country="UA" tvg-language="ukr" group-title="🧸 Дитячі | UA",Lale
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+#EXTINF:-1 tvg-id="PixelTV.ua@SD" tvg-name="Pixel TV" tvg-logo="https://i.imgur.com/ECro8Ah.png" tvg-country="UA" tvg-language="ukr" group-title="🧸 Дитячі | UA",Pixel TV
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Aqlvoy.uz@SD" tvg-name="Aqlvoy" tvg-logo="https://i.imgur.com/ekF5cAi.png" tvg-country="UZ" tvg-language="uzb;rus;eng" group-title="🧸 Дитячі | RU озвучка",Aqlvoy
+https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine" tvg-name="Cartoon Network CEE Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="UK" tvg-language="rus" group-title="🧸 Дитячі | RU озвучка",Cartoon Network CEE Ukraine
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-name="Nickelodeon CIS" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-country="KZ" tvg-language="rus" group-title="🧸 Дитячі | RU озвучка",Nickelodeon CIS
+https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-id="EkoTV.ua@SD" tvg-name="Eko TV" tvg-logo="https://i.imgur.com/WovATGb.png" tvg-country="UA" tvg-language="ukr" group-title="🎥 Документальні | UA",Eko TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-id="Rybalka.ua@SD" tvg-name="Rybalka" tvg-logo="https://i.imgur.com/NafW0xT.png" tvg-country="UA" tvg-language="ukr" group-title="🎥 Документальні | UA",Rybalka
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" tvg-name="Viasat History" tvg-logo="https://i.imgur.com/39qZ68J.png" tvg-country="UA" tvg-language="ukr" group-title="🎥 Документальні | UA",Viasat History
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
+#EXTINF:-1 tvg-chno="53" tvg-id="kinoliving" tvg-name="Kinoliving" tvg-logo="https://iptvx.one/picons/kinoliving.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Kinoliving
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
+#EXTINF:-1 tvg-chno="54" tvg-id="kinowood" tvg-name="Kinowood" tvg-logo="https://iptvx.one/picons/kinowood.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Kinowood
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
+#EXTINF:-1 tvg-chno="56" tvg-id="bolt" tvg-name="Bolt" tvg-logo="https://iptvx.one/picons/bolt.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Bolt
+http://iptv.prosto.tv:7000/ch53/video.m3u8
+#EXTINF:-1 tvg-chno="59" tvg-id="filmua-drama" tvg-name="FilmUA Drama" tvg-logo="https://iptvx.one/picons/filmua-drama.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",FilmUA Drama
+http://iptv.prosto.tv:7000/ch59/video.m3u8
+#EXTINF:-1 tvg-chno="62" tvg-id="4ever-theater" tvg-name="4ever Theater" tvg-logo="https://iptvx.one/picons/4ever-theater.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",4ever Theater
+http://cdnua05.hls.tv/923/hls/8743361621b245838bee193c9ec28322/4837/stream.m3u8
+#EXTINF:-1 tvg-chno="64" tvg-id="tv1000-cee" tvg-name="Viasat Kino" tvg-logo="https://iptvx.one/picons/tv1000-cee.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Viasat Kino
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="tv1000-action-cee" tvg-name="Viasat Kino Action" tvg-logo="https://iptvx.one/picons/tv1000-action-cee.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Viasat Kino Action
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
+#EXTINF:-1 tvg-chno="66" tvg-id="vip-comedy-cee" tvg-name="Viasat Kino Comedy" tvg-logo="https://iptvx.one/picons/vip-comedy-cee.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Viasat Kino Comedy
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="https://iptvx.one/picons/tv1000-worldkino.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Viasat Kino World
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="cine-plus" tvg-name="Cine+" tvg-logo="https://iptvx.one/picons/cine-plus.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Cine+
+http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="continent-e" tvg-name="Continent E" tvg-logo="https://iptvx.one/picons/continent-e.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Continent E
+http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4834/stream.m3u8
+#EXTINF:-1 tvg-chno="75" tvg-id="vip-megahit" tvg-name="Viasat Kino Megahit" tvg-logo="https://iptvx.one/picons/vip-megahit.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Viasat Kino Megahit
+http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
+#EXTINF:-1 tvg-chno="78" tvg-id="kino-ta-serialy-ua" tvg-name="Кіно та Серіали" tvg-logo="https://iptvx.one/picons/kino-ta-serialy-ua.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Кіно (нестабільні)",Кіно та Серіали
+http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4867/stream.m3u8
+#EXTINF:-1 tvg-chno="88" tvg-id="kvartal-tv" tvg-name="RAZ 3" tvg-logo="https://iptvx.one/picons/kvartal-tv.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",RAZ 3
+http://iptv.prosto.tv:7000/ch65/video.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="simejny-melodramy-plus-ua" tvg-name="Сімейні мелодрами+" tvg-logo="https://iptvx.one/picons/simejny-melodramy-plus-ua.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",Сімейні мелодрами+
+http://cdnua05.hls.tv/617/hls/f62d71219200da4130d13b21d23fb23c/4892/stream.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="oper-za-vyklykom-plus-ua" tvg-name="Опер за викликом+" tvg-logo="https://iptvx.one/picons/oper-za-vyklykom-plus-ua.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",Опер за викликом+
+http://cdnua05.hls.tv/614/hls/f62d71219200da4130d13b21d23fb23c/4889/stream.m3u8
+#EXTINF:-1 tvg-chno="92" tvg-id="panyanka-selyanka-plus-ua" tvg-name="Панянка-селянка+" tvg-logo="https://iptvx.one/picons/panyanka-selyanka-plus-ua.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",Панянка-селянка+
+http://cdnua05.hls.tv/6135/hls/f62d71219200da4130d13b21d23fb23c/4890/stream.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-id="odruzheni-naoslip-plus" tvg-name="Одружені наосліп+" tvg-logo="" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",Одружені наосліп+
+http://cdnua05.hls.tv/619/hls/f62d71219200da4130d13b21d23fb23c/4893/stream.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="stosuietsia-kozhnoho" tvg-name="Стосується кожного" tvg-logo="" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",Стосується кожного
+http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4882/stream.m3u8
+#EXTINF:-1 tvg-chno="95" tvg-id="nevyhadani-istorii" tvg-name="Невигадані історії" tvg-logo="" tvg-country="UA" tvg-language="" group-title="🇺🇦 Серіали (нестабільні)",Невигадані історії
+http://cdnua05.hls.tv/210/hls/f62d71219200da4130d13b21d23fb23c/4902/stream.m3u8
+#EXTINF:-1 tvg-chno="132" tvg-id="pixel" tvg-name="Піксель TV" tvg-logo="https://iptvx.one/picons/pixel.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Дитячі (нестабільні)",Піксель TV
+http://iptv.prosto.tv:7000/ch67/video.m3u8
+#EXTINF:-1 tvg-chno="133" tvg-id="plusplus" tvg-name="PLUSPLUS" tvg-logo="https://iptvx.one/picons/plusplus.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Дитячі (нестабільні)",PLUSPLUS
+http://iptv.prosto.tv:7000/ch66/video.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-id="niki-kids" tvg-name="Niki Kids" tvg-logo="https://iptvx.one/picons/niki-kids.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Дитячі (нестабільні)",Niki Kids
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-id="niki-junior" tvg-name="Niki Junior" tvg-logo="https://iptvx.one/picons/niki-junior.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Дитячі (нестабільні)",Niki Junior
+http://iptv.prosto.tv:7000/ch72/video.m3u8
+#EXTINF:-1 tvg-chno="137" tvg-id="kus-kus" tvg-name="Кус-Кус" tvg-logo="https://iptvx.one/picons/kus-kus.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Дитячі (нестабільні)",Кус-Кус
+http://iptv.prosto.tv:7000/ch103/video.m3u8
+#EXTINF:-1 tvg-chno="107" tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="https://iptvx.one/picons/viasat-history.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Viasat History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="https://iptvx.one/picons/viasat-explore.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Viasat Explore
+http://iptv.prosto.tv:7000/ch85/video.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="https://iptvx.one/picons/viasat-nature.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Viasat Nature
+http://iptv.prosto.tv:7000/ch84/video.m3u8
+#EXTINF:-1 tvg-chno="110" tvg-id="nat-geo-wild-pl" tvg-name="National Geographic Wild" tvg-logo="https://iptvx.one/picons/nat-geo-wild-pl.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",National Geographic Wild
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="114" tvg-id="fauna" tvg-name="Фауна" tvg-logo="https://iptvx.one/picons/fauna.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Фауна
+http://iptv.prosto.tv:7000/ch95/video.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="terra" tvg-name="Терра" tvg-logo="https://iptvx.one/picons/tera.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Терра
+http://iptv.prosto.tv:7000/ch101/video.m3u8
+#EXTINF:-1 tvg-chno="116" tvg-id="one-planet" tvg-name="One Planet" tvg-logo="https://iptvx.one/picons/one-planet.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",One Planet
+http://cdnua05.hls.tv/915/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
+#EXTINF:-1 tvg-chno="118" tvg-id="svarozhichi" tvg-name="Сварожичі" tvg-logo="https://iptvx.one/picons/svarozhichi.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Сварожичі
+http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
+#EXTINF:-1 tvg-chno="121" tvg-id="zoosvit" tvg-name="Зоосвіт" tvg-logo="https://iptvx.one/picons/zoosvit.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Зоосвіт
+http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4865/stream.m3u8
+#EXTINF:-1 tvg-chno="122" tvg-id="zagubleny-svit-plus-ua" tvg-name="Загублений світ+" tvg-logo="https://iptvx.one/picons/zagubleny-svit-plus-ua.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Загублений світ+
+http://cdnua05.hls.tv/620/hls/f62d71219200da4130d13b21d23fb23c/4894/stream.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="svit-navyvorit-plus-ua" tvg-name="Світ навиворіт+" tvg-logo="https://iptvx.one/picons/svit-navyvorit-plus-ua.png" tvg-country="UA" tvg-language="" group-title="🇺🇦 Пізнавальні (нестабільні)",Світ навиворіт+
+http://cdnua05.hls.tv/611/hls/f62d71219200da4130d13b21d23fb23c/4886/stream.m3u8

@@ -1,1 +1,44 @@
+name: build-playlist
 
+on:
+  schedule:
+    - cron: "17 */6 * * *"      # кожні 6 год (UTC), не рівно о :00 — менше черги
+  workflow_dispatch:             # ручний запуск з вкладки Actions
+  push:
+    paths: ["config.yaml", "build.py"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-playlist
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build & health-check
+        run: python build.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "playlist-bot"
+          git config user.email "playlist-bot@users.noreply.github.com"
+          git add playlist.m3u playlist_ua.m3u playlists report.md state
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "auto: playlist $(date -u +'%d.%m.%Y %H:%M')"
+            git push
+          fi

@@ -1,0 +1,250 @@
+# ============================================================
+#  Конфіг збірки плейлиста. Після змін — запуск workflow вручну
+#  (Actions → build-playlist → Run workflow) або дочекатись cron.
+# ============================================================
+
+output:
+  main: playlist.m3u            # усе: спершу UA + озвучка (UA/RU), нижче зарубіжне з позначкою 🌍
+  ua_only: playlist_ua.m3u      # тільки UA-канали + фільми/серіали/дитячі/док з UA або RU озвучкою
+  per_group_dir: playlists      # окремі файли по групах (playlists/<file>.m3u)
+  report: report.md
+  state: state/health.json      # лічильники падінь для "grace period"
+
+# ---------- Джерела ----------
+iptv_org:
+  enabled: true
+  # iptv-org.github.io іноді недоступний -> беремо ту ж гілку gh-pages через raw
+  api_base: https://raw.githubusercontent.com/iptv-org/api/gh-pages
+  include_unlinked_streams: false   # стріми без channel-id (невідоме походження) — не беремо
+
+m3u_sources:                       # будь-які m3u; tvg-id матчиться з базою iptv-org
+  - name: free-tv
+    url: https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
+    enabled: true
+    priority: 1                    # менше = важливіше при дедупі (iptv-org = 2)
+    # group-title джерела -> категорія iptv-org (для каналів без метаданих)
+    group_categories:
+      "^VOD Movies": movies
+      "^VOD ": movies
+      "^News": news
+      "^Business": business
+  # ---- UA рестріми з CDN провайдерів (сіра зона, нестабільні) ----
+  # Агрегатор github.com/romirom11/ua-tv-playlist (2 рази на день). Беремо лише кіно/серіали/дитячі/пізнавальні,
+  # у власні групи "(нестабільні)"; URL, що вже є в iptv-org/Free-TV, відсікаються дедупом.
+  - name: ua-unstable
+    url: https://raw.githubusercontent.com/romirom11/ua-tv-playlist/main/playlist.m3u
+    enabled: true
+    priority: 8
+    isolated: true
+    default_country: UA
+    keep_only_matched: true
+    group_categories:
+      "^Кіно": movies
+      "^Серіали": series
+      "^Дитячі": kids
+      "^Пізнавальні": documentary
+
+  # ---- FAST (легальні безкоштовні сервіси з рекламою) ----
+  # Генератор: github.com/BuddyChewChew/app-m3u-generator (оновлюється щодня).
+  # isolated: такі канали йдуть лише в окремі групи "🌎 FAST ..." — бо з України частина гео-блокована.
+  # keep_only_matched: беремо тільки кіно/серіали/дитячі/документальні (за назвою), решту FAST відкидаємо.
+  - name: plex
+    url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plex_all.m3u
+    enabled: true
+    priority: 3
+    isolated: true
+    country_from_group: true
+    keep_only_matched: true
+    name_categories: &fast_names
+      '(?i)movie|film|cine|kino|cinema|flix|western|thriller|horror|hollywood|bollywood|spielfilm|peliculas|películas': movies
+      '(?i)series|serie|sitcom|drama|crime|comedy|novela|detective|mystery|\bcsi\b|baywatch|doctor who|star trek|walking dead': series
+      '(?i)kids|kinder|cartoon|anime|toon|junior|baby|enfants|niños|family': kids
+      '(?i)docu|history|nature|science|wild|animal|planet|travel|explore': documentary
+  - name: samsung-tv-plus
+    url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_all.m3u
+    enabled: true
+    priority: 4
+    isolated: true
+    country_from_group: true
+    keep_only_matched: true
+    name_categories: *fast_names
+  - name: pluto
+    url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_all.m3u
+    enabled: true
+    priority: 5
+    isolated: true
+    country_from_group: true
+    keep_only_matched: true
+    name_categories: *fast_names
+  - name: tubi
+    url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_all.m3u
+    enabled: true
+    priority: 6
+    isolated: true
+    default_country: US
+    keep_only_matched: true
+    name_categories: *fast_names
+  - name: roku
+    url: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/roku_all.m3u
+    enabled: true
+    priority: 7
+    isolated: true
+    default_country: US
+    keep_only_matched: true
+    name_categories: *fast_names
+  # FAST з жанровими group-title — категорія береться з групи, далі з назви
+  - name: rakuten-uk
+    url: https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/playlist.m3u
+    enabled: true
+    priority: 8
+    isolated: true
+    default_country: GB
+    keep_only_matched: true
+    group_categories: &fast_groups
+      '(?i)^movies$|tv & movies|westerns': movies
+      '(?i)crime|tv shows|action & drama|^drama$|comedy|classic tv|horror': series
+      '(?i)^kids$': kids
+      '(?i)docs|documentar|nature|history|animals': documentary
+    name_categories: *fast_names
+  - name: lg-channels
+    url: https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/main/lg_channels_us.m3u
+    enabled: true
+    priority: 9
+    isolated: true
+    default_country: US
+    keep_only_matched: true
+    group_categories: *fast_groups
+    name_categories: *fast_names
+  - name: xumo
+    url: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_playlist.m3u
+    enabled: true
+    priority: 10
+    isolated: true
+    default_country: US
+    keep_only_matched: true
+    group_categories: *fast_groups
+    name_categories: *fast_names
+  - name: distrotv
+    url: https://raw.githubusercontent.com/vraomoturi/DistroTV/master/distrotv.m3u
+    enabled: true
+    priority: 11
+    isolated: true
+    default_country: US
+    keep_only_matched: true
+    group_categories: *fast_groups
+    name_categories: *fast_names
+
+# ---------- Фільтри ----------
+filters:
+  exclude_countries: [RU, BY]       # BY прибери, якщо потрібні білоруські канали
+  exclude_categories: [religious, shop, xxx, interactive]
+  drop_labels: ["Geo-blocked"]      # мітки iptv-org; "Not 24/7" лишаємо
+  skip_dash: true                   # .mpd майже завжди з DRM
+  skip_youtube: true                # більшість плеєрів не грають youtube-лінки
+
+  # Російська мова дозволена лише в цих категоріях (фільми/серіали з озвучкою).
+  # Канали країни UA — без обмежень за мовою.
+  rus_allowed_categories: [movies, series, classic, comedy, kids, animation, family, documentary]
+
+  # Домени/фрагменти URL — російська інфраструктура рестрімів
+  url_block_patterns:
+    - '\.(ru|su|xn--p1ai)(:\d+)?(/|$)'
+    - 'mediavitrina'
+    - 'ngenix'
+    - 'cdnvideo'
+    - 'vgtrk'
+    - 'smotrim'
+    - 'limehd'
+    - 'peers\.tv'
+    - 'ott\.tricolor'
+
+  # Назви (regex, без урахування регістру): пропаганда, окуповані території тощо
+  name_block_patterns:
+    - '\bRT\b'
+    - 'russia today'
+    - 'росси[яи]'
+    - 'первый канал'
+    - '\bНТВ\b'
+    - 'звезда'
+    - 'соловь[её]в'
+    - 'крым'
+    - 'донбасс'
+    - '\bunion tv\b|юнион'
+    - 'oplot'
+
+  # Точкові tvg-id, які треба викинути (дописуй сюди, якщо щось пролізло)
+  id_blocklist: []
+
+# Які країни брати "загалом" (усі категорії).
+# Канали з topic_any_country беруться з будь-якої країни (крім exclude_countries).
+selection:
+  countries: [UA, PL, DE, GB, US, FR, IT, ES, CA, IE, NL, BE, AT, CH, CZ, SK, LT, LV, EE, MD, GE, FI, SE, NO, DK]
+  topic_any_country: [movies, series, classic, kids, animation, documentary]
+
+# ---------- Перевірка живості ----------
+health:
+  enabled: true
+  concurrency: 80
+  per_host: 4
+  timeout_sec: 12
+  segment_bytes: 65536             # скільки байтів сегмента читати для підтвердження
+  grace_fails: 3                   # канал, що колись працював, тримаємо ще N невдалих прогонів
+  min_alive: 300                   # запобіжник: якщо живих менше — старий плейлист не чіпаємо
+  max_candidates: 3                # скільки альтернативних стрімів пробувати на канал
+  user_agent: "VLC/3.0.20 LibVLC/3.0.20"
+
+# ---------- EPG ----------
+epg_urls:
+  - https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz
+  - https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz
+  - https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz
+  - https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
+  - https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
+  - https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
+  - https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz
+  - https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/all.xml.gz
+  - https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz
+  - https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz
+  - https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/tubi_epg.xml
+  - https://raw.githubusercontent.com/BuddyChewChew/RakutenTV/main/epg.xml
+  - https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/main/lg_epg_us.xml
+  - https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz
+  - https://raw.githubusercontent.com/vraomoturi/DistroTV/master/distrotv.xml.gz
+
+# ---------- Групи (порядок = порядок у плеєрі) ----------
+# Канал потрапляє в усі групи, що збіглися, але не більше max_groups_per_channel.
+# split_by_language: група ділиться на "| UA", "| RU озвучка", "| EN", "| Інші".
+max_groups_per_channel: 2
+fallback_group: {name: "🌍 Інше", file: other}
+# tier 0 = блок "UA + озвучка" (йде першим і потрапляє в playlist_ua.m3u), 1 = зарубіжне.
+# split_by_language: UA/RU-мовні канали -> "<name> | UA" / "<name> | RU озвучка" (tier 0),
+#                    решта -> "<foreign_name> | EN" / "| Інші мови" (tier 1).
+# foreign_only: канали країни UA сюди не дублюються (вони вже в "🇺🇦 Україна").
+groups:
+  - {name: "🇺🇦 Україна",     file: ua,          countries: [UA], tier: 0}
+  - {name: "🎬 Фільми",        foreign_name: "🌍 Фільми",        file: movies,      categories: [movies, classic], split_by_language: true}
+  - {name: "📺 Серіали",       foreign_name: "🌍 Серіали",       file: series,      categories: [series, comedy],  split_by_language: true}
+  - {name: "🧸 Дитячі",        foreign_name: "🌍 Дитячі",        file: kids,        categories: [kids, animation, family], split_by_language: true}
+  - {name: "🎥 Документальні", foreign_name: "🌍 Документальні", file: documentary, categories: [documentary, science, education, travel, outdoor, culture], split_by_language: true}
+  # UA нестабільні (лише з ua-unstable) — у блоці UA
+  - {name: "🇺🇦 Кіно (нестабільні)",       file: ua_unstable_movies, categories: [movies],      sources: [ua-unstable], tier: 0}
+  - {name: "🇺🇦 Серіали (нестабільні)",    file: ua_unstable_series, categories: [series],      sources: [ua-unstable], tier: 0}
+  - {name: "🇺🇦 Дитячі (нестабільні)",     file: ua_unstable_kids,   categories: [kids],        sources: [ua-unstable], tier: 0}
+  - {name: "🇺🇦 Пізнавальні (нестабільні)", file: ua_unstable_docs,  categories: [documentary], sources: [ua-unstable], tier: 0}
+  # Зарубіжні тематичні
+  - {name: "🌍 Новини",   file: news,          categories: [news, business, weather, legislative], foreign_only: true}
+  - {name: "🌍 Спорт",    file: sports,        categories: [sports, auto],                         foreign_only: true}
+  - {name: "🌍 Музика",   file: music,         categories: [music],                                foreign_only: true}
+  - {name: "🌍 Розваги",  file: entertainment, categories: [entertainment, lifestyle, cooking, relax], foreign_only: true}
+  - {name: "🌍 Загальні", file: general,       categories: [general, public],                      foreign_only: true}
+  # FAST-групи (лише з isolated-джерел)
+  - {name: "🌎 FAST Фільми",      file: fast_movies, categories: [movies], sources: &fast [plex, samsung-tv-plus, pluto, tubi, roku, rakuten-uk, lg-channels, xumo, distrotv]}
+  - {name: "🌎 FAST Серіали",     file: fast_series, categories: [series], sources: *fast}
+  - {name: "🌎 FAST Дитячі",      file: fast_kids,   categories: [kids],   sources: *fast}
+  - {name: "🌎 FAST Документальні", file: fast_docs, categories: [documentary], sources: *fast}
+
+language_labels:
+  ukr: UA
+  rus: RU озвучка
+  eng: EN
+  _other: Інші мови

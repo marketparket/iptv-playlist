@@ -59,6 +59,8 @@ https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 tvg-id="Choppertown.us@SD" tvg-name="Choppertown" tvg-logo="https://i.imgur.com/U6cu5Ms.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",Choppertown
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de@DACH" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Спорт",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de@DACH" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Спорт",DAZN Heldinnen x Pluto TV
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" tvg-name="Discovery Turbo" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Спорт",Discovery Turbo
@@ -99,6 +101,10 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Спорт",Eurosport 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-name="Eurosport 3 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" tvg-country="PL" tvg-language="pol" group-title="🌍 Спорт",Eurosport 3 Polska
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35
+#EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-name="Eurosport 4 Polska" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" tvg-country="PL" tvg-language="pol" group-title="🌍 Спорт",Eurosport 4 Polska
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72
 #EXTINF:-1 tvg-id="Eurosport4KCzechia.cz@UHD" tvg-name="Eurosport 4K Czechia" tvg-logo="https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg" tvg-country="CZ" tvg-language="ces" group-title="🌍 Спорт",Eurosport 4K Czechia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
@@ -210,6 +216,8 @@ https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFishing.se@DK" tvg-name="Pluto TV Fishing" tvg-logo="https://i.imgur.com/ZaHOk8j.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Спорт",Pluto TV Fishing
 https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHandbollHighlights.se@SE" tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Спорт",Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandbollLive.se@SE" tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Спорт",Pluto TV Handboll Live
 https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandboldHighlights.se@DK" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Спорт",Pluto TV Håndbold Highlights
@@ -218,16 +226,16 @@ https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMotor.de@ES" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Спорт",Pluto TV Motor
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMotor.se@DK" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Спорт",Pluto TV Motor
-https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMotor.se@NO" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Спорт",Pluto TV Motor
+https://jmp2.uk/plu-68ac52b05190a45dc990ee39.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se@DK" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Спорт",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.us@CA" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",Pluto TV Snooker 900
 https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSport.de@IT" tvg-name="Pluto TV Sport" tvg-logo="https://i.imgur.com/y22ElOr.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Спорт",Pluto TV Sport
 https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSport.se@DK" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Спорт",Pluto TV Sport
-https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.se@NO" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Спорт",Pluto TV Sport
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-name="Pluto TV Turbo" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Спорт",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us@US" tvg-name="PokerGO" tvg-logo="https://i.imgur.com/1603HED.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",PokerGO
@@ -257,6 +265,8 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-name="Setanta Sports+ Georgia" tvg-logo="https://i.imgur.com/ZtoZQUV.png" tvg-country="GE" tvg-language="eng;kat" group-title="🌍 Спорт",Setanta Sports+ Georgia
 http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it@SD" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Спорт",Sky Sport F1
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 #EXTINF:-1 tvg-id="SPEEDVISION.us@SD" tvg-name="Speedvision" tvg-logo="https://i.imgur.com/3CTudqH.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",Speedvision
 https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport1.sk@HD" tvg-name="Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Sport1_CEE_%282020-present%29.svg" tvg-country="SK" tvg-language="slk" group-title="🌍 Спорт",Sport 1

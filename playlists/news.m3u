@@ -126,7 +126,7 @@ https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-name="CBS News Bay Area" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBoston.us@SD" tvg-name="CBS News Boston" tvg-logo="https://i.imgur.com/9un7R3N.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Boston
-https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
+https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsChicago.us@SD" tvg-name="CBS News Chicago" tvg-logo="https://i.imgur.com/qGbVQir.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Chicago
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 #EXTINF:-1 tvg-id="CBSNewsColorado.us@SD" tvg-name="CBS News Colorado" tvg-logo="https://i.imgur.com/2oyYwBw.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Colorado
@@ -225,14 +225,14 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.pl@FAST" tvg-name="Euronews" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" tvg-country="PL" tvg-language="pol" group-title="🌍 Новини",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="deu" group-title="🌍 Новини",Euronews
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="Euronews English" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" tvg-country="FR" tvg-language="eng" group-title="🌍 Новини",Euronews English
-https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-name="Euronews French" tvg-logo="https://i.imgur.com/5A0Wnrv.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",Euronews French
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-country="GE" tvg-language="kat" group-title="🌍 Новини",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
-#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews German" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="deu" group-title="🌍 Новини",Euronews German
-https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="ell" group-title="🌍 Новини",Euronews Greek
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="hun" group-title="🌍 Новини",Euronews Hungarian
@@ -370,8 +370,8 @@ https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsoftheWorld.us@Spanish" tvg-name="NOW News Spanish" tvg-logo="https://i.imgur.com/MfyRQCs.png" tvg-country="US" tvg-language="spa" group-title="🌍 Новини",NOW News Spanish
 https://live.nowtelly.com/now_spanish/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NowMediaTelevision.us@HD" tvg-name="NowMedia Television" tvg-logo="https://i.imgur.com/8m8gy0n.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",NowMedia Television
-https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
+#EXTINF:-1 tvg-id="NowMediaTelevision.us@Spanish" tvg-name="NowMedia Television Spanish" tvg-logo="https://i.imgur.com/8m8gy0n.png" tvg-country="US" tvg-language="spa" group-title="🌍 Новини",NowMedia Television Spanish
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-name="NTD TV English UK" tvg-logo="https://i.imgur.com/26uv1ww.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",NTD TV English UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1 tvg-id="OANPlus.us@KPVMLD" tvg-name="OAN Plus KPVM-LD" tvg-logo="https://i.imgur.com/0xW69iu.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",OAN Plus KPVM-LD

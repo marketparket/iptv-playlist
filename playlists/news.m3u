@@ -127,6 +127,8 @@ https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-o
 https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Baltimore
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-name="CBS News Bay Area" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Bay Area
+https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBoston.us@SD" tvg-name="CBS News Boston" tvg-logo="https://i.imgur.com/9un7R3N.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Boston
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsChicago.us@SD" tvg-name="CBS News Chicago" tvg-logo="https://i.imgur.com/qGbVQir.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Chicago
@@ -138,7 +140,7 @@ https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us@SD" tvg-name="CBS News Los Angeles" tvg-logo="https://i.imgur.com/klULxMV.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Los Angeles
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us@SD" tvg-name="CBS News Miami" tvg-logo="https://i.imgur.com/DExbVa9.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Miami
-https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us@SD" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News New York
@@ -334,8 +336,6 @@ https://stream.vocl.com/hls/lindelltv/index.m3u8
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",LiveNOW from FOX
 https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-id="LemanBleu.ch@SD" tvg-name="Léman Bleu" tvg-logo="https://i.imgur.com/6ijbSTr.png" tvg-country="CH" tvg-language="fra" group-title="🌍 Новини",Léman Bleu
-http://livevideo.infomaniak.com/streaming/livecast/naxoo/playlist.m3u8
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD" tvg-name="M95 Televisión Marbella" tvg-logo="https://i.imgur.com/RzAkP1V.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Новини",M95 Televisión Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="MarkizaTNLive.sk@SD" tvg-name="Markiza TN Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/TNLive2026.svg/revision/latest?cb=20261015062138" tvg-country="SK" tvg-language="slk" group-title="🌍 Новини",Markiza TN Live

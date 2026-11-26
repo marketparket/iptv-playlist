@@ -60,8 +60,6 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel8.ua@SD" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/6Sr5vJD.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Channel 8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 tvg-id="Cherniveckiypromin.ua@SD" tvg-name="Cherniveckiy promin" tvg-logo="https://i.imgur.com/O9nQ5po.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cherniveckiy promin
-https://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 tvg-id="CinePlus.ua@SD" tvg-name="Cine+" tvg-logo="https://i.imgur.com/SAtdShq.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Cine+
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
@@ -89,8 +87,6 @@ http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-id="EspresoTV.ua@SD" tvg-name="Espreso TV" tvg-logo="https://i.imgur.com/xNatV8K.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",Espreso TV
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-name="FilmUA Live" tvg-logo="https://i.imgur.com/kizTBgS.png" tvg-country="UA" tvg-language="ukr" group-title="🇺🇦 Україна",FilmUA Live
-https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmUADrama.ua@SD" tvg-name="FilmUADrama" tvg-logo="https://i.imgur.com/Hnwsh5d.png" tvg-country="UA" tvg-language="rus;ukr" group-title="🇺🇦 Україна",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FREEDOM.ua@SD" tvg-name="FREEDOM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/960px-FreeDOMUAlogo.svg.png" tvg-country="UA" tvg-language="rus" group-title="🇺🇦 Україна",FREEDOM

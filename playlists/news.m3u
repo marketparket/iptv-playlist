@@ -41,6 +41,8 @@ http://88.212.15.50/live/test_trojka_25p/playlist.m3u8
 https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",ABC News Live
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us@SD" tvg-name="ABC News Live 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",ABC News Live 1
+https://abcnews-livestreams.akamaized.net/out/v1/42a9b78d0a1f4b6599bbdfb1ae512bc4/abcn-live-01-cmaf-manifest/abcn-live-01-index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive10.us@SD" tvg-name="ABC News Live 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",ABC News Live 10
 https://abcnews-livestreams.akamaized.net/out/v1/6a597119dbd5428a82dc11a2f514a1a2/abcn-live-10-cmaf-manifest/abcn-live-10-index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive6.us@SD" tvg-name="ABC News Live 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",ABC News Live 6
@@ -98,7 +100,7 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BFMLyon.fr@SD" tvg-name="BFM Lyon" tvg-logo="https://i.imgur.com/0uiiZRo.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",BFM Lyon
 https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-name="BFM TV" tvg-logo="https://i.imgur.com/YJCcczD.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",BFM TV
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/bfm_tv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-name="BFM2" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",BFM2
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="BlazeLive.us@SD" tvg-name="Blaze Live" tvg-logo="https://i.imgur.com/GwxneSQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Blaze Live
@@ -115,10 +117,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl@SD" tvg-name="BTB Info" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" tvg-country="PL" tvg-language="pol;eng" group-title="🌍 Новини",BTB Info
 https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8
-#EXTINF:-1 tvg-id="BPTV.us@SD" tvg-name="Buena Park Television" tvg-logo="https://i.imgur.com/ObNBL7L.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Buena Park Television
-https://buenapark.cablecast.tv/live/stream-1/live.m3u8
-#EXTINF:-1 tvg-id="BXInform.us@SD" tvg-name="BX Inform" tvg-logo="https://i.imgur.com/PF71rdZ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",BX Inform
-https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1 tvg-id="CameradeiDeputati.it@SD" tvg-name="Camera dei Deputati (via RR)" tvg-logo="https://i.imgur.com/hv4zi9N.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Новини",Camera dei Deputati (via RR)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="24Horas.es@SD" tvg-name="Canal 24 Horas" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Новини",Canal 24 Horas
@@ -134,19 +132,17 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Новини",CBC News Network
 https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News 24/7
-https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
+https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Baltimore
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-name="CBS News Bay Area" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Bay Area
 https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBoston.us@SD" tvg-name="CBS News Boston" tvg-logo="https://i.imgur.com/9un7R3N.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Boston
-https://jmp2.uk/plu-5eb1af2ad345340008fccd1e.m3u8
+https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsChicago.us@SD" tvg-name="CBS News Chicago" tvg-logo="https://i.imgur.com/qGbVQir.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Chicago
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 #EXTINF:-1 tvg-id="CBSNewsColorado.us@SD" tvg-name="CBS News Colorado" tvg-logo="https://i.imgur.com/2oyYwBw.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Colorado
 https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
-#EXTINF:-1 tvg-id="CBSNewsDetroit.us@SD" tvg-name="CBS News Detroit" tvg-logo="https://i.imgur.com/cMels2Y.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Detroit
-https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us@SD" tvg-name="CBS News Los Angeles" tvg-logo="https://i.imgur.com/klULxMV.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Los Angeles
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us@SD" tvg-name="CBS News Miami" tvg-logo="https://i.imgur.com/DExbVa9.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Miami
@@ -154,29 +150,21 @@ https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us@SD" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News New York
-https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
+https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD" tvg-name="CBS News Pittsburgh" tvg-logo="https://i.imgur.com/Un9IrUh.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
 #EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD" tvg-name="CBS News Sacramento" tvg-logo="https://i.imgur.com/0e1kSGX.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Sacramento
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:-1 tvg-id="CFMTVChannel98.us@SD" tvg-name="CFM TV Channel 98" tvg-logo="https://i.imgur.com/LGs524I.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CFM TV Channel 98
 https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTV.us@SD" tvg-name="Champaign Government Television (CGTV) (Champaign IL)" tvg-logo="https://champaignil.gov/wp-content/uploads/2011/06/cgtv-page-logo.jpg" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Champaign Government Television (CGTV) (Champaign IL)
-https://champaign-cablecast.cablecast.tv/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="Channel10.us@SD" tvg-name="Channel 10" tvg-logo="https://spcity.org/ImageRepository/Document?documentID=4246" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Channel 10
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel18GAC.us@SD" tvg-name="Channel 18 GAC" tvg-logo="https://i.imgur.com/au07aLr.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Channel 18 GAC
-https://reflect-channel18vod-springfield-il-us.cablecast.tv/live-13/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us@SD" tvg-name="Channel One" tvg-logo="https://i.imgur.com/igskUo0.png" tvg-country="US" tvg-language="fas" group-title="🌍 Новини",Channel One
 https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CheddarNews.us@SD" tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Cheddar News
 https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTVChannel341.us@SD" tvg-name="Chino Hills City TV Channel 3/41" tvg-logo="https://i.imgur.com/L0vaDea.png" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Новини",Chino Hills City TV Channel 3/41
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="CityofMonroeGovernmentChannel.us@SD" tvg-name="City of Monroe Government Channel" tvg-logo="https://i.imgur.com/U5fZkCN.jpeg" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",City of Monroe Government Channel
-https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
-#EXTINF:-1 tvg-id="CapitalCityConnectionMontgomery.us@SD" tvg-name="City TV Capital City Connection" tvg-logo="https://image.roku.com/developer_channels/prod/a2cb55884ff88035ebbbb32ef9c60a228314d0a2ac4c86722aff5ea1cb9abcd8.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",City TV Capital City Connection
-https://capitalcityconnection.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca@SD" tvg-name="CityNews Calgary" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Новини",CityNews Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-id="CityNewsEdmonton.ca@SD" tvg-name="CityNews Edmonton" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Новини",CityNews Edmonton
@@ -205,8 +193,6 @@ https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/a
 http://88.212.15.50/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar@HD" tvg-name="Cosmos Tv" tvg-logo="https://cdn4.fmcosmos.com/s4/2025/11/03/fmcosmos/images/15/92/159284_a18e887e336fef3bc6b188314a173ce10cbe5157966e839517e2b0428d7aed46/xs.webp" tvg-country="AR" tvg-language="spa" group-title="🌍 Новини",Cosmos Tv
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-id="COStv.us@SD" tvg-name="COStv" tvg-logo="https://i.imgur.com/IVqjCRE.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",COStv
-https://irctv.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="CruzTV.us@SD" tvg-name="Cruz TV" tvg-logo="https://i.imgur.com/qOO2SaH.png" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Новини",Cruz TV
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="CTNCourtFeed.us@SD" tvg-name="CT-N Court Feed" tvg-logo="https://i.imgur.com/pb0TFQt.jpeg" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CT-N Court Feed
@@ -225,8 +211,6 @@ https://video.oct.dc.gov/out/u/97_12.m3u8
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV17.us@SD" tvg-name="DerryTV 17" tvg-logo="https://i.imgur.com/MRR6UL3.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",DerryTV 17
 https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DetroitChannel10.us@SD" tvg-name="Detroit Channel 10" tvg-logo="https://i.imgur.com/zAdcg9m.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Detroit Channel 10
-https://reflect-detroit-vod.cablecast.tv/live-2/live/stream-6/live.m3u8
 #EXTINF:-1 tvg-id="DiTV.se@SD" tvg-name="Di TV" tvg-logo="https://i.imgur.com/zApTDWn.png" tvg-country="SE" tvg-language="swe" group-title="🌍 Новини",Di TV
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
 #EXTINF:-1 tvg-id="DidgahTV.us@SD" tvg-name="Didgah TV" tvg-logo="https://i.imgur.com/3SeAyBS.png" tvg-country="US" tvg-language="fas" group-title="🌍 Новини",Didgah TV
@@ -254,7 +238,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="deu" group-title="🌍 Новини",Euronews
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="Euronews English" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" tvg-country="FR" tvg-language="eng" group-title="🌍 Новини",Euronews English
-https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-name="Euronews French" tvg-logo="https://i.imgur.com/5A0Wnrv.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",Euronews French
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-country="GE" tvg-language="kat" group-title="🌍 Новини",Euronews Georgia
@@ -296,8 +280,6 @@ https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" tvg-name="Free Speech TV" tvg-logo="https://i.imgur.com/Qq6heRq.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Free Speech TV
 https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
-#EXTINF:-1 tvg-id="CMAC3.us@SD" tvg-name="Fresno CMAC 3 Government Channel" tvg-logo="https://i.imgur.com/ToZzguz.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Fresno CMAC 3 Government Channel
-https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel192.us@SD" tvg-name="Gillette Public Access Television Channel 192" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Gillette Public Access Television Channel 192
 https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
 #EXTINF:-1 tvg-id="CMAPChannel17.us@SD" tvg-name="Gilroy CMAP TV Channel 17" tvg-logo="https://i.imgur.com/wlYUEYc.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Gilroy CMAP TV Channel 17
@@ -310,8 +292,6 @@ https://edge-f.swagit.com/live/glendaleaz/live-1-a-1/playlist.m3u8
 https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8
 #EXTINF:-1 tvg-id="HamdardTV.ca@SD" tvg-name="Hamdard TV" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" tvg-country="CA" tvg-language="pan" group-title="🌍 Новини",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="HCTVGovernmentChannel.us@SD" tvg-name="HCTV Government Channel" tvg-logo="https://i.imgur.com/bVbpgiD.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",HCTV Government Channel
-https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="HillsboroughTV.us@SD" tvg-name="Hillsborough County TV HTV (Hillsborough County FL)" tvg-logo="https://i.imgur.com/fUne7FX.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Hillsborough County TV HTV (Hillsborough County FL)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.us@SD" tvg-name="HLN" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/HLN_2023.webp/960px-HLN_2023.webp" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Новини",HLN
@@ -526,8 +506,6 @@ https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="WELT.de@SD" tvg-name="WELT" tvg-logo="https://i.imgur.com/s4TZoxx.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Новини",WELT
 https://dash4.antik.sk/live/test_welt_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CityTVWhittier.us@SD" tvg-name="Whittier CityTV (Whittier CA)" tvg-logo="https://i.imgur.com/68n7ifH.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Whittier CityTV (Whittier CA)
-https://whittier.cablecast.tv/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us@SD" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="YouDotGov.us@SD" tvg-name="YouDotGov" tvg-logo="https://i.imgur.com/4Mc7baR.png" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Новини",YouDotGov

@@ -31,8 +31,8 @@ https://jmp2.uk/stvp-US490000330
 https://jmp2.uk/stvp-US11000020V
 #EXTINF:-1 tvg-chno="3205" tvg-id="USAJ3504502A" tvg-name="Anime All day" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20260421T141927SQUARE.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Anime All day
 https://jmp2.uk/stvp-USAJ3504502A
-#EXTINF:-1 tvg-chno="3209" tvg-id="US15000032I" tvg-name="ANIME x HIDIVE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US15000032I_20260421T141933SQUARE.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",ANIME x HIDIVE
-https://jmp2.uk/stvp-US15000032I
+#EXTINF:-1 tvg-chno="3210" tvg-id="US3500004M7" tvg-name="FilmRise Anime" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20260421T142034SQUARE.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",FilmRise Anime
+https://jmp2.uk/stvp-US3500004M7
 #EXTINF:-1 tvg-chno="3699" tvg-id="USBC44000072I" tvg-name="HappyKids" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20260414T005527SQUARE.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",HappyKids
 https://jmp2.uk/stvp-USBC44000072I
 #EXTINF:-1 tvg-chno="3702" tvg-id="US2900015RO" tvg-name="Kartoon Channel!" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900015RO_20260421T142016SQUARE.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Kartoon Channel!
@@ -41,6 +41,8 @@ https://jmp2.uk/stvp-US2900015RO
 https://jmp2.uk/plu-6a3c5fa46276c42ac6726b27.m3u8
 #EXTINF:-1 tvg-chno="4118" tvg-id="b5cde121f98257329346020e2a60295a" tvg-name="Moonbug Kids" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b5cde121f98257329346020e2a60295a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684954939211_MOONBUG_ROKU_LOGO_EPG_2023MONO.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Moonbug Kids
 https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
+#EXTINF:-1 tvg-chno="4122" tvg-id="GB500007VM" tvg-name="Family Feud" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB500007VM_20250513T005729SQUARE.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Дитячі",Family Feud
+https://jmp2.uk/stvp-GB500007VM
 #EXTINF:-1 tvg-chno="4189" tvg-id="DE2000011C5" tvg-name="AKIBA Anime" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE2000011C5_20260929T040358SQUARE.png" tvg-country="DE" tvg-language="" group-title="🌎 FAST Дитячі",AKIBA Anime
 https://jmp2.uk/stvp-DE2000011C5
 #EXTINF:-1 tvg-chno="4190" tvg-id="ES300029LP" tvg-name="Anime Visión" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300029LP_20250326T013525SQUARE.png" tvg-country="ES" tvg-language="" group-title="🌎 FAST Дитячі",Anime Visión
@@ -73,6 +75,8 @@ https://jmp2.uk/rok-ec2faed50af3503e934f0c342a7952fe.m3u8
 https://live-content.xumo.com/186/content/XM0L7UVSB22LWA/26092241/master.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-686452b8fbd6d9b449de2be3" tvg-name="Anime 24/7" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa882b26-2283-430c-8e7f-8468227ad362/anime247_logo_dark_-_Jason_Hwang.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Anime 24/7
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-686452b8fbd6d9b449de2be3/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf" tvg-name="ANIME x HIDIVE" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",ANIME x HIDIVE
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-632270e3e67cf9cd9011fce1" tvg-name="At Home with Family Handyman" tvg-logo="https://provider-static.plex.tv/epg/cms/production/32fbd65b-0339-4652-989a-de219133f7ec/at-home-w-fhm_logo_dark_1500x1000.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",At Home with Family Handyman
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-632270e3e67cf9cd9011fce1/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-69333216ac5b3f9f53442374" tvg-name="Baby Einstein" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e757f7e3-f3de-46f5-b6e0-9aa42bdb61d1/BabyEinstein_logo_1500x1000_light.png.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Дитячі",Baby Einstein
@@ -81,12 +85,8 @@ https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-69333216ac5b
 https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-60d4eddeb2fdec002c141137/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a" tvg-name="Classic Family Feud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4a755121-3503-4036-9727-5a301db01c17/Plex_Classic_Family_Feud_Logo_1500x1000-Full_Color_-_Patty_Gopez.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Classic Family Feud
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64b710b44612b1f48e9ad31a/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a2d1390b91165254efdb3e" tvg-name="Family Feud" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b3983fb-0a5d-4c5a-a7b7-bc9943847393/channel_logo_1500x1000_light.png__1_.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Family Feud
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66a2d1390b91165254efdb3e/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66a2b6ebf7180d8d2ca77f5e" tvg-name="Family Unscripted" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c0bfd35b-7713-4aa1-b1bc-622920924e77/FamilyUnscripted_Logo_Dark_1500x1000.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Family Unscripted
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66a2b6ebf7180d8d2ca77f5e/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
-#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae5819" tvg-name="FilmRise Anime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cff7361f-e0ba-4aeb-9251-9530f4eb1d80/FilmRise_Anime_1500x1000_Light_Logo.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",FilmRise Anime
-https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5819/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
+#EXTINF:-1 tvg-id="715948" tvg-name="Family Unscripted" tvg-logo="https://canvas-lb.tubitv.com/opts/g-TnN7dezapq7Q==/6ea6276d-0cdb-4348-a68f-5b6cc575c8cb/CHgQeDoFMS4xLjlAAQ==" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Family Unscripted
+https://live-manifest.production-public.tubi.io/live/f451ef60-2bf2-4f54-8833-5e3495b7ea16/playlist.m3u8
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff" tvg-name="FilmRise Kids" tvg-logo="https://provider-static.plex.tv/epg/cms/production/af1f69a0-3453-437e-afcb-d4403d0ff213/FilmRise_Kids_1500x1000_Dark_Logo.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",FilmRise Kids
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff/?X-Plex-Token=DAu12bGw1CQzcpzoBym3
 #EXTINF:-1 tvg-id="us-jansonmedia_kidstv_1" tvg-name="Kids TV" tvg-logo="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Дитячі",Kids TV

@@ -103,8 +103,6 @@ http://92.114.85.87:8018/play/a00h/index.m3u8
 http://92.114.85.87:8016/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-name="Euro Indie Music Chart TV" tvg-logo="https://i.imgur.com/lF0iofX.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Музика",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-id="FinestTV.de@SD" tvg-name="Finest TV" tvg-logo="https://i.imgur.com/1uoP10V.png" tvg-country="DE" tvg-language="deu;tur" group-title="🌍 Музика",Finest TV
-https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-name="Folx Music Television" tvg-logo="https://i.imgur.com/ze04puX.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Музика",Folx Music Television
 https://folxapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-name="FomixTV" tvg-logo="https://i.imgur.com/7SLYEMG.png" tvg-country="NL" tvg-language="nld" group-title="🌍 Музика",FomixTV
@@ -140,6 +138,8 @@ https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-name="LiveXLive" tvg-logo="https://i.imgur.com/KFzEoed.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-name="LRT Opus" tvg-logo="https://i.imgur.com/oLuZTMH.png" tvg-country="LT" tvg-language="lit" group-title="🌍 Музика",LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
 #EXTINF:-1 tvg-id="M1.lt@SD" tvg-name="M-1" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-country="LT" tvg-language="lit" group-title="🌍 Музика",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Музика",m2o TV
@@ -223,8 +223,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVibe.fr@HD" tvg-name="Persiana Vibe" tvg-logo="" tvg-country="FR" tvg-language="fas" group-title="🌍 Музика",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@CA" tvg-name="Pluto TV MTV Classic" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",Pluto TV MTV Classic
-https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-name="Pluto TV MTV Classic" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Музика",Pluto TV MTV Classic
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us@BR" tvg-name="Pluto TV Shows por Stingray" tvg-logo="https://i.imgur.com/TrG7Y84.png" tvg-country="US" tvg-language="por" group-title="🌍 Музика",Pluto TV Shows por Stingray
 https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 #EXTINF:-1 tvg-id="PolsatMusic.pl@SD" tvg-name="Polsat Music" tvg-logo="https://i.imgur.com/uXygf1l.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Музика",Polsat Music
@@ -472,8 +472,8 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es@SD" tvg-name="XPTV1" tvg-logo="https://i.imgur.com/Ty7GkoN.png" tvg-country="ES" tvg-language="eng" group-title="🌍 Музика",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 tvg-id="YoMTV.us@CA" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/hzNXDdY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",Yo! MTV
-https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us@SD" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/hzNXDdY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",Yo! MTV
+https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" tvg-name="Zwei Music Television" tvg-logo="https://i.imgur.com/RbdpCNf.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Музика",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz@SD" tvg-name="Óčko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Музика",Óčko

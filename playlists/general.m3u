@@ -83,6 +83,8 @@ https://sktv.mxnticek.eu/new/stream.php?ch=Nova
 https://stream.sundskanalen.se/live/view/index.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="sunshineradio.ie" tvg-name="Sunshine 106.8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/97/Sunshine_106.8_logo.png" tvg-country="IE" tvg-language="" group-title="🌍 Загальні",Sunshine 106.8
 https://playerservices.streamtheworld.com/api/livestream-redirect/SUNSHINE_106_8.mp3
+#EXTINF:-1 tvg-chno="10" tvg-id="BBCRadioAsianNetwork.uk" tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-country="GB" tvg-language="" group-title="🌍 Загальні",BBC Asian Network
+https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
 #EXTINF:-1 tvg-chno="10" tvg-id="ETB1.es" tvg-name="ETB1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/500px-ETB1_2022_logo.svg.png" tvg-country="ES" tvg-language="eus" group-title="🌍 Загальні",ETB1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="Kutonen.fi" tvg-name="Kutonen" tvg-logo="https://i.imgur.com/4giVyxb.png" tvg-country="FI" tvg-language="fin" group-title="🌍 Загальні",Kutonen
@@ -121,8 +123,6 @@ https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port
 https://videoserver.tmcreativos.com:19360/hkbpjryheu/hkbpjryheu.m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="" tvg-name="STVR :O" tvg-logo=" :" tvg-country="SK" tvg-language="" group-title="🌍 Загальні",STVR :O
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
-#EXTINF:-1 tvg-chno="18" tvg-id="La1Catalunya.es" tvg-name="La 1 (Catalunya)" tvg-logo="https://i.imgur.com/NbesiPn.png" tvg-country="ES" tvg-language="spa;cat" group-title="🌍 Загальні",La 1 (Catalunya)
-https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Eveo.fi" tvg-name="TapahtumaTV Eveo" tvg-logo="https://i.imgur.com/sR8nA8w.png" tvg-country="FI" tvg-language="fin" group-title="🌍 Загальні",TapahtumaTV Eveo
 https://live-fi.tvkaista.net/tapahtumatv-eveo/live.m3u8?src=freetv
 #EXTINF:-1 tvg-chno="19" tvg-id="" tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-country="CA" tvg-language="" group-title="🌍 Загальні",Global News
@@ -131,10 +131,6 @@ https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
 #EXTINF:-1 tvg-chno="20" tvg-id="La2Catalunya.es" tvg-name="La 2 (Catalunya)" tvg-logo="https://i.imgur.com/DmuTwDw.png" tvg-country="ES" tvg-language="cat;spa" group-title="🌍 Загальні",La 2 (Catalunya)
 https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="PrimaKrimi.cz" tvg-name="Prima Krimi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Загальні",Prima Krimi
-https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
-#EXTINF:-1 tvg-chno="20" tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" tvg-country="SK" tvg-language="slk" group-title="🌍 Загальні",TA3
-https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-chno="27" tvg-id="CFSKDT.ca" tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-country="CA" tvg-language="" group-title="🌍 Загальні",Global News Saskatoon
 https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="TV2000.va" tvg-name="TV 2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-country="IT" tvg-language="" group-title="🌍 Загальні",TV 2000
@@ -590,7 +586,7 @@ https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:-1 tvg-id="El33.es@Originals" tvg-name="El 33 Originals" tvg-logo="https://i.imgur.com/frKCBTN.png" tvg-country="ES" tvg-language="cat" group-title="🌍 Загальні",El 33 Originals
 https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us@SD" tvg-name="El Reino Infantil" tvg-logo="https://i.imgur.com/u7DOoBK.png" tvg-country="US" tvg-language="spa" group-title="🌍 Загальні",El Reino Infantil
-https://jmp2.uk/plu-5f4d3d06fb60d8000781fce8.m3u8
+https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es@SD" tvg-name="El Toro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",El Toro TV
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 #EXTINF:-1 tvg-id="Elche7TV.es@SD" tvg-name="Elche 7 TV" tvg-logo="https://i.imgur.com/tjI0dLx.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",Elche 7 TV
@@ -855,7 +851,7 @@ https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Medjugorje Italia Tv" tvg-logo="https://i.imgur.com/hkZScXf.png" tvg-country="IT" tvg-language="" group-title="🌍 Загальні",Medjugorje Italia Tv
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us@Spain" tvg-name="Melrose Place" tvg-logo="https://i.imgur.com/hXDj0fV.png" tvg-country="US" tvg-language="spa" group-title="🌍 Загальні",Melrose Place
-https://jmp2.uk/plu-6245c03922d9d4000760d205.m3u8
+https://jmp2.uk/plu-62a0ae0e4e47a30007fe21bb.m3u8
 #EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-name="Merwe TV" tvg-logo="https://i.imgur.com/JjB7U1q.png" tvg-country="NL" tvg-language="nld" group-title="🌍 Загальні",Merwe TV
 https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD" tvg-name="Midpen Media Center Government etc Channel 26" tvg-logo="https://i.imgur.com/aX1GkCD.png" tvg-country="US" tvg-language="eng" group-title="🌍 Загальні",Midpen Media Center Government etc Channel 26
@@ -1100,6 +1096,9 @@ http://88.212.15.50/live/prima_avc_25p/playlist.m3u8
 http://88.212.15.50/live/prima_cool_cz_avc/index.m3u8
 #EXTINF:-1 tvg-id="PrimaCoolSK.sk@SD" tvg-name="Prima Cool SK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Prima_COOL_SK_logo.png" tvg-country="SK" tvg-language="slk" group-title="🌍 Загальні",Prima Cool SK
 http://88.212.15.50/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaKrimi.cz@SD" tvg-name="Prima Krimi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Prima_Krimi.png/960px-Prima_Krimi.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Загальні",Prima Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.50/live/test_prima_krimi_cz/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaKrimiSK.sk@HD" tvg-name="Prima Krimi SK" tvg-logo="https://www.jojgroup.sk/wp-content/uploads/PRIMA-KRIMI-SK-2-scaled.png" tvg-country="SK" tvg-language="slk" group-title="🌍 Загальні",Prima Krimi SK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/prima_krimi_avc_25p/playlist.m3u8
@@ -1324,6 +1323,8 @@ http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Riigikogu.ee@SD" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/dJRGDt2.png" tvg-country="EE" tvg-language="est" group-title="🌍 Загальні",Riigikogu
 https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
+#EXTINF:-1 tvg-id="TVR.es@SD" tvg-name="Rioja Televisión" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",Rioja Televisión
+https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="RioniTV.ge@SD" tvg-name="Rioni TV" tvg-logo="https://i.imgur.com/ogMqmth.png" tvg-country="GE" tvg-language="kat" group-title="🌍 Загальні",Rioni TV
 https://video.rionitv.com/hls/live/rioni.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-name="RMC Decouverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Загальні",RMC Decouverte
@@ -1549,6 +1550,8 @@ https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/t18/t18-dm.m3u8
 #EXTINF:-1 tvg-id="T9.it@SD" tvg-name="T9" tvg-logo="https://i.imgur.com/kQKzpYj.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Загальні",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+#EXTINF:-1 tvg-id="TA3.sk@SD" tvg-name="TA3" tvg-logo="https://i.imgur.com/DFeWp93.png" tvg-country="SK" tvg-language="slk" group-title="🌍 Загальні",TA3
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-ta3/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="TAGTV.ca@SD" tvg-name="TAG TV" tvg-logo="https://i.imgur.com/4PA2adF.png" tvg-country="CA" tvg-language="hin" group-title="🌍 Загальні",TAG TV
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-name="Tagesschau 24" tvg-logo="https://i.imgur.com/LH0Gctv.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Загальні",Tagesschau 24
@@ -1993,8 +1996,6 @@ https://ed04.top-ix.org/avtvlive/videonovara/streaming/playlist.m3u8
 https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
 #EXTINF:-1 tvg-id="VidusdaugavasTelevizija.lv@SD" tvg-name="Vidusdaugavas Televīzija" tvg-logo="https://i.imgur.com/L5U3PQR.png" tvg-country="LV" tvg-language="lav" group-title="🌍 Загальні",Vidusdaugavas Televīzija
 https://straume.vdtv.lv/vdtv2/index.m3u8
-#EXTINF:-1 tvg-id="WHOHTV.us@SD" tvg-name="Village of Hastings-On-Hudson NY (WHOH-TV)" tvg-logo="https://i.imgur.com/jTD9nLE.png" tvg-country="US" tvg-language="eng" group-title="🌍 Загальні",Village of Hastings-On-Hudson NY (WHOH-TV)
-https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" tvg-country="IT" tvg-language="" group-title="🌍 Загальні",Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vision6TV.es@SD" tvg-name="Vision 6 TV" tvg-logo="https://i.imgur.com/TB1wMQ7.jpg" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",Vision 6 TV

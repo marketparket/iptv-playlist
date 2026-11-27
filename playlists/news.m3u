@@ -132,7 +132,7 @@ https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Новини",CBC News Network
 https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="CBSNews247.us@SD" tvg-name="CBS News 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/960px-CBS_News_247_logo.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News 24/7
-https://jmp2.uk/plu-6231ec93779a9d00079ba8e2.m3u8
+https://jmp2.uk/plu-6231ede1be5b460007f91bc1.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBaltimore.us@SD" tvg-name="CBS News Baltimore" tvg-logo="https://i.imgur.com/jy3UfCe.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Baltimore
 https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsBayArea.us@SD" tvg-name="CBS News Bay Area" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Bay Area
@@ -143,14 +143,16 @@ https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 https://jmp2.uk/plu-5eb1aeb2fd4b8a00076c2047.m3u8
 #EXTINF:-1 tvg-id="CBSNewsColorado.us@SD" tvg-name="CBS News Colorado" tvg-logo="https://i.imgur.com/2oyYwBw.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Colorado
 https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8
+#EXTINF:-1 tvg-id="CBSNewsDetroit.us@SD" tvg-name="CBS News Detroit" tvg-logo="https://i.imgur.com/cMels2Y.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Detroit
+https://jmp2.uk/plu-634f2610d5023700078f7dee.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us@SD" tvg-name="CBS News Los Angeles" tvg-logo="https://i.imgur.com/klULxMV.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Los Angeles
-https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
+https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us@SD" tvg-name="CBS News Miami" tvg-logo="https://i.imgur.com/DExbVa9.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Miami
 https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us@SD" tvg-name="CBS News Minnesota" tvg-logo="https://i.imgur.com/ubxwfMY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Minnesota
 https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us@SD" tvg-name="CBS News New York" tvg-logo="https://i.imgur.com/bpc4v0u.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News New York
-https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
+https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8
 #EXTINF:-1 tvg-id="CBSNewsPittsburgh.us@SD" tvg-name="CBS News Pittsburgh" tvg-logo="https://i.imgur.com/Un9IrUh.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Pittsburgh
 https://jmp2.uk/plu-5eb1b17aa5277e00083f6521.m3u8
 #EXTINF:-1 tvg-id="CBSNewsSacramento.us@SD" tvg-name="CBS News Sacramento" tvg-logo="https://i.imgur.com/0e1kSGX.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",CBS News Sacramento
@@ -248,7 +250,7 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="hun" group-title="🌍 Новини",Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-name="Euronews Portuguese" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="por" group-title="🌍 Новини",Euronews Portuguese
-https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png" tvg-country="FR" tvg-language="spa" group-title="🌍 Новини",Euronews Spanish
 https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr@HD" tvg-name="Europe 1 TV" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",Europe 1 TV
@@ -275,7 +277,7 @@ https://p14.usnlive.com/stream/foxnews.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-name="Fox News Radio" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Fox News Radio
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-name="France 24 Arabic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/France_24.png" tvg-country="FR" tvg-language="ara" group-title="🌍 Новини",France 24 Arabic
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-name="Franceinfo" tvg-logo="https://i.imgur.com/eITXz6A.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",Franceinfo
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV.us@SD" tvg-name="Free Speech TV" tvg-logo="https://i.imgur.com/Qq6heRq.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Free Speech TV
@@ -468,8 +470,6 @@ https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
 https://thefirst-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWeatherChannel.us@SD" tvg-name="The Weather Channel" tvg-logo="https://i.imgur.com/PIaNjfa.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
-#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" tvg-name="The Weather Network" tvg-logo="https://i.imgur.com/V6ZUwUY.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Новини",The Weather Network
-https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1 tvg-id="TheYoungTurks.us@SD" tvg-name="The Young Turks (TYT)" tvg-logo="https://i.imgur.com/XDNXJCl.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",The Young Turks (TYT)
 https://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TODAYAllDay.us@SD" tvg-name="TODAY All Day" tvg-logo="https://i.imgur.com/LhbQ8Mr.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",TODAY All Day

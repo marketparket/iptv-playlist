@@ -171,10 +171,10 @@ http://38.134.250.110:8000/play/a02m/index.m3u8
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/AOaZmlS.png" tvg-country="US" tvg-language="por" group-title="🌍 Музика",MTV Biggest Pop
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
-#EXTINF:-1 tvg-id="MTVFlowLatino.us@LatAm" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="🌍 Музика",MTV Flow Latino
-https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
-#EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-name="MTV Spankin’ New" tvg-logo="https://i.imgur.com/thbvJd1.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",MTV Spankin’ New
-https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+#EXTINF:-1 tvg-id="MTVFlowLatino.us@SD" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",MTV Flow Latino
+https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8
+#EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-name="MTV Spankin' New" tvg-logo="https://i.imgur.com/thbvJd1.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",MTV Spankin' New
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" tvg-country="CZ" tvg-language="eng" group-title="🌍 Музика",Music Box Classic
 http://88.212.15.50/live/mb_classic/index.m3u8
 #EXTINF:-1 tvg-id="MusicBoxDance.cz@SD" tvg-name="Music Box Dance" tvg-logo="https://musicboxdance.com/music_box_dance_logo.png" tvg-country="CZ" tvg-language="eng" group-title="🌍 Музика",Music Box Dance
@@ -472,8 +472,8 @@ https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1 tvg-id="XPTV1.es@SD" tvg-name="XPTV1" tvg-logo="https://i.imgur.com/Ty7GkoN.png" tvg-country="ES" tvg-language="eng" group-title="🌍 Музика",XPTV1
 https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 tvg-id="YoMTV.us@SD" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/hzNXDdY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",Yo! MTV
-https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us@CA" tvg-name="Yo! MTV" tvg-logo="https://i.imgur.com/hzNXDdY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",Yo! MTV
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD" tvg-name="Zwei Music Television" tvg-logo="https://i.imgur.com/RbdpCNf.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Музика",Zwei Music Television
 https://zweiapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz@SD" tvg-name="Óčko" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Музика",Óčko

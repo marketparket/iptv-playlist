@@ -3,6 +3,8 @@
 https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv
 #EXTINF:-1 tvg-chno="9" tvg-id="Jim.fi" tvg-name="Jim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png" tvg-country="FI" tvg-language="fin" group-title="🌍 Розваги",Jim
 https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv
+#EXTINF:-1 tvg-chno="65" tvg-id="AlmaTV.it" tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Розваги",Alma TV
+https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="HobbyMaker.uk" tvg-name="Hobby Maker" tvg-logo="https://i.imgur.com/VWHp5Tl.png" tvg-country="GB" tvg-language="eng" group-title="🌍 Розваги",Hobby Maker
 https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="13emeRue.fr@SD" tvg-name="13eme Rue" tvg-logo="https://i.imgur.com/k0DCMTL.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Розваги",13eme Rue
@@ -36,19 +38,19 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ALLBLKGems.us@SD" tvg-name="AMC: ALLBLK Gems" tvg-logo="https://i.imgur.com/gnkepQJ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",AMC: ALLBLK Gems
 https://amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AmericasNextTopModel.us@SD" tvg-name="America's Next Top Model" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",America's Next Top Model
-https://jmp2.uk/plu-68757c45759366af05b3b199.m3u8
-#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-name="America's Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",America's Test Kitchen
-https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
+#EXTINF:-1 tvg-id="AmericasNextTopModel.us@CA" tvg-name="America's Next Top Model" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",America's Next Top Model
+https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl@Poland" tvg-name="American Crime Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" tvg-country="PL" tvg-language="eng" group-title="🌍 Розваги",American Crime Channel
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-name="Americas Test Kitchen" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Americas Test Kitchen
+https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaHD.pl@SD" tvg-name="Antena HD" tvg-logo="https://i.imgur.com/obwYQZC.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Розваги",Antena HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 http://92.114.85.87:8010/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-name="Apna Punjab TV" tvg-logo="https://i.imgur.com/IM4D8Wz.png" tvg-country="CA" tvg-language="hin" group-title="🌍 Розваги",Apna Punjab TV
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
-#EXTINF:-1 tvg-id="AreYouTheOne.se@NO" tvg-name="Are You The One?" tvg-logo="https://i.imgur.com/cIt8UWE.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Розваги",Are You The One?
-https://jmp2.uk/plu-61c1db8ed6d97900076ea15c.m3u8
+#EXTINF:-1 tvg-id="AreYouTheOne.se@DK" tvg-name="Are You The One?" tvg-logo="https://i.imgur.com/cIt8UWE.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Розваги",Are You The One?
+https://jmp2.uk/plu-61c091c39863900007ac9e8f.m3u8
 #EXTINF:-1 tvg-id="arte.fr@SD" tvg-name="arte" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Розваги",arte
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/arte_fr/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="arte.de@HD" tvg-name="arte HD" tvg-logo="https://i.imgur.com/ecXMjNl.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Розваги",arte HD
@@ -75,8 +77,8 @@ https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-name="Best of Dr. Phil" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Best of Dr. Phil
 https://44afb29d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRHJQaGlsX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-id="BestofMTV.se@DK" tvg-name="Best of MTV" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Розваги",Best of MTV
-https://jmp2.uk/plu-632aff5e44111b00076ad9b1.m3u8
+#EXTINF:-1 tvg-id="BestofMTV.se@NO" tvg-name="Best of MTV" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Розваги",Best of MTV
+https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
 #EXTINF:-1 tvg-id="BestofParadiseHotelFinalveckan.se@SE" tvg-name="Best of Paradise Hotel: Finalveckan" tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Розваги",Best of Paradise Hotel: Finalveckan
 https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
 #EXTINF:-1 tvg-id="BestofParadiseHotelKyssarkarlek.se@SE" tvg-name="Best of Paradise Hotel: Kyssar & kärlek" tvg-logo="https://images.pluto.tv/channels/65b1077e0d9ab40008245b20/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Розваги",Best of Paradise Hotel: Kyssar & kärlek
@@ -285,8 +287,8 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalWorldTV.us@SD" tvg-name="GlobalWorldTV" tvg-logo="https://i.imgur.com/2u33Ayy.jpeg" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",GlobalWorldTV
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
-#EXTINF:-1 tvg-id="GoldTV.it@SD" tvg-name="Gold TV" tvg-logo="https://i.imgur.com/Yzc47k9.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Розваги",Gold TV
-https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Розваги",Gold Tv
+https://5f11919dca3bd.streamlock.net/goldtv/goldtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GordonRamsaysHellsKitchen.us@SD" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://i.imgur.com/WgN4T18.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 #EXTINF:-1 tvg-id="GreatEntertainmentTelevision.us@SD" tvg-name="Great Entertainment Television" tvg-logo="https://cdn01.cimediacloud.com/cifiles/782e35e908d4416091758c46aca4fae8/renditions/thumbnail.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NkbjAxLmNpbWVkaWFjbG91ZC5jb20vY2lmaWxlcy83ODJlMzVlOTA4ZDQ0MTYwOTE3NThjNDZhY2E0ZmFlOC9yZW5kaXRpb25zL3RodW1ibmFpbC5qcGciLCJDb25kaXRpb24iOnsiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NTgzMDQwMH19fV19&Signature=DiLjktG2J7VL8LOfmC0Dlc6Xv5LjyqAFz985TJNPEU0StighCSow8LDKct~xn7daQw7ejjc43Xr1H4xFFfPmOd-UBnA5xLgasQ5Cc0sUJX3O7VKerMWRatKzBJnTFHbj5-Crzn6yWL5Rf1ASzB3s~pw7Dt0129YcDqXM0AVL9a8_&Key-Pair-Id=APKAJNUSFH4IKQRZ44WA" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Great Entertainment Television
@@ -416,10 +418,10 @@ https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 https://ma.anixa.tv/clips/stream/mtv/playlist.php
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Розваги",MTV
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.us@East" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",MTV
-http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTV.nl@SD" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Розваги",MTV
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8342374230cdd9e7b7646
+#EXTINF:-1 tvg-id="MTV.us@East" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTVAva.fi@SD" tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/WxNCiAk.png" tvg-country="FI" tvg-language="fin" group-title="🌍 Розваги",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8
 #EXTINF:-1 tvg-id="MTVCatfish.us@BR" tvg-name="MTV Catfish" tvg-logo="https://i.imgur.com/y29cMbx.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",MTV Catfish
@@ -442,16 +444,16 @@ https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-id="MTVOriginals.de@ES" tvg-name="MTV Originals" tvg-logo="https://i.imgur.com/qWf8Zku.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Розваги",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
-#EXTINF:-1 tvg-id="MTVPlutoTV.us@BR" tvg-name="MTV Pluto TV" tvg-logo="https://i.imgur.com/WsQRCmZ.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",MTV Pluto TV
-https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-name="MTV Pluto TV" tvg-logo="https://i.imgur.com/WsQRCmZ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",MTV Pluto TV
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:-1 tvg-id="MTVReality.us@LatAm" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="🌍 Розваги",MTV Reality
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 tvg-id="MTVRidiculousness.us@LatAm" tvg-name="MTV Ridiculousness" tvg-logo="https://i.imgur.com/GIKkbjT.png" tvg-country="US" tvg-language="spa" group-title="🌍 Розваги",MTV Ridiculousness
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
 #EXTINF:-1 tvg-id="MTVRocks.us@BR" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",MTV Rocks
 https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
-#EXTINF:-1 tvg-id="MTVDrag.us@LatAm" tvg-name="MTV Rupaul's Drag Race Untucked" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="🌍 Розваги",MTV Rupaul's Drag Race Untucked
-https://jmp2.uk/plu-64510d3ad3fdde00080951f2.m3u8
+#EXTINF:-1 tvg-id="MTVDrag.us@BR" tvg-name="MTV Rupaul's Drag Race" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",MTV Rupaul's Drag Race
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
 #EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-name="MTV Shore" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",MTV Shore
 https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 #EXTINF:-1 tvg-id="MTVVerguenzaajena.de@ES" tvg-name="MTV Vergüenza ajena" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Розваги",MTV Vergüenza ajena
@@ -532,8 +534,8 @@ https://jmp2.uk/plu-5f8ed3892ed7bb000741a1d2.m3u8
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRealLife.de@IT" tvg-name="Pluto TV Real Life" tvg-logo="https://i.imgur.com/uvk27Fe.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Розваги",Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVReality.us@LatAm" tvg-name="Pluto TV Reality" tvg-logo="https://i.imgur.com/OvN7FCv.png" tvg-country="US" tvg-language="spa" group-title="🌍 Розваги",Pluto TV Reality
-https://jmp2.uk/plu-5dcde197f6591d0009839e04.m3u8
+#EXTINF:-1 tvg-id="PlutoTVReality.us@CA" tvg-name="Pluto TV Reality" tvg-logo="https://i.imgur.com/OvN7FCv.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Pluto TV Reality
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetro.us@BR" tvg-name="Pluto TV Retrô" tvg-logo="https://i.imgur.com/wztO3GM.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",Pluto TV Retrô
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVShore.de@IT" tvg-name="Pluto TV Shore" tvg-logo="https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Розваги",Pluto TV Shore
@@ -560,6 +562,8 @@ https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
 https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
 #EXTINF:-1 tvg-id="RakutenViki.us@Poland" tvg-name="Rakuten VIKI" tvg-logo="https://i.imgur.com/pbyd1g2.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Rakuten VIKI
 https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8
+#EXTINF:-1 tvg-id="RecipeTV.us@SD" tvg-name="Recipe.TV" tvg-logo="https://i.imgur.com/HcL4a8z.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Recipe.TV
+https://a-cdn.klowdtv.com/live2/recipetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="RemontyTV.pl@HD" tvg-name="Remonty TV" tvg-logo="https://remontytv.pl/wp-content/uploads/2026/01/Remonty_TV_logo-color1.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Розваги",Remonty TV
 https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="Revry.us@SD" tvg-name="Revry" tvg-logo="https://i.imgur.com/XuTUaq4.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Revry
@@ -575,7 +579,7 @@ https://jmp2.uk/plu-68dfa160cc3c6cd90404d798.m3u8
 #EXTINF:-1 tvg-id="RidiculousnessNyeepisoder.se@NO" tvg-name="Ridiculousness Nye episoder" tvg-logo="https://images.pluto.tv/channels/68dfa1a7fae18f8db6218222/colorLogoPNG_1762510989212.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Розваги",Ridiculousness Nye episoder
 https://jmp2.uk/plu-68dfa1a7fae18f8db6218222.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-name="RightNow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rWZ8kofdRtH5CJ-BobD1pdpwVAq8COHt6Q&s" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",RightNow TV
-https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
 #EXTINF:-1 tvg-id="RMCLife.fr@SD" tvg-name="RMC Life" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" tvg-country="FR" tvg-language="fra" group-title="🌍 Розваги",RMC Life
 https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-id="RobinsonEkspeditionen.se@DK" tvg-name="Robinson Ekspeditionen" tvg-logo="https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Розваги",Robinson Ekspeditionen
@@ -609,8 +613,8 @@ https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 #EXTINF:-1 tvg-id="SvenskaHollywoodfruar.se@SE" tvg-name="Svenska Hollywoodfruar" tvg-logo="https://images.pluto.tv/channels/61c1921610d254000727eebd/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Розваги",Svenska Hollywoodfruar
 https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
-#EXTINF:-1 tvg-id="SvenskaTruckers.se@NO" tvg-name="Svenske Truckers" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Розваги",Svenske Truckers
-https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8
+#EXTINF:-1 tvg-id="SvenskaTruckers.se@SE" tvg-name="Svenska Truckers" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Розваги",Svenska Truckers
+https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
 #EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/xP7Ehn8.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Tastemade
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-name="Tastemade" tvg-logo="https://i.imgur.com/FPy4zF4.png" tvg-country="US" tvg-language="por" group-title="🌍 Розваги",Tastemade
@@ -627,8 +631,8 @@ https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 https://televisioncaribe.com/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr@SD" tvg-name="TF1" tvg-logo="https://i.imgur.com/QxHt9NC.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Розваги",TF1
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="TheDailyShow.se@NO" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Розваги",The Daily Show
-https://jmp2.uk/plu-65c0973311ced7000808d255.m3u8
+#EXTINF:-1 tvg-id="TheDailyShow.se@DK" tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Розваги",The Daily Show
+https://jmp2.uk/plu-65c096d23ba51e0008305a75.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us@Poland" tvg-name="The Design Network" tvg-logo="https://i.imgur.com/J5YJ3r3.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVTheHills.se@DK" tvg-name="The Hills" tvg-logo="https://i.imgur.com/s1Rlj2a.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Розваги",The Hills
@@ -653,6 +657,8 @@ https://s6.hopslan.com/tlcX/index.m3u8
 http://79.127.238.228:14433
 #EXTINF:-1 tvg-id="ToughJobs.us@SD" tvg-name="Tough Jobs" tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",Tough Jobs
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
+#EXTINF:-1 tvg-id="Turbo.de@FR" tvg-name="Turbo" tvg-logo="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Розваги",Turbo
+https://jmp2.uk/plu-66f55c3955567d0008ef9b68.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.cz@SD" tvg-name="TV Paprika" tvg-logo="https://i.imgur.com/NSabYyT.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Розваги",TV Paprika
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
@@ -672,6 +678,8 @@ http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
 #EXTINF:-1 tvg-id="VH1QueensofReality.us@SD" tvg-name="VH1 Queens of Reality" tvg-logo="https://images.pluto.tv/channels/66abefe5d2d50d00082c7d12/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Розваги",VH1 Queens of Reality
 https://jmp2.uk/plu-66abefe5d2d50d00082c7d12.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-name="Vinh Long TV 3" tvg-logo="https://i.imgur.com/OQXEhqu.png" tvg-country="VN" tvg-language="vie" group-title="🌍 Розваги",Vinh Long TV 3
+https://dethich.pw/thvl3/index.m3u8
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es@FR" tvg-name="Voyages & Saveurs" tvg-logo="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png" tvg-country="ES" tvg-language="fra" group-title="🌍 Розваги",Voyages & Saveurs
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="W9.fr@SD" tvg-name="W9" tvg-logo="https://i.imgur.com/reYeMuE.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Розваги",W9

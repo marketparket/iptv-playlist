@@ -5,8 +5,6 @@ https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 https://jmp2.uk/plu-6a85bbcaad0d80253cb2a0df.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="69776ce979545c21a1220bff" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" tvg-country="DE" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: The Next Generation
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="60d3574e97f10800078455de" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG_1792573918778.png" tvg-country="ES" tvg-language="" group-title="🌎 FAST Серіали",Doctor Who
-https://jmp2.uk/plu-60d3574e97f10800078455de.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="6675c88da1d7ad00084762cb" tvg-name="Star Trek: The Motion Pictures" tvg-logo="https://images.pluto.tv/channels/6675c88da1d7ad00084762cb/colorLogoPNG.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: The Motion Pictures
 https://jmp2.uk/plu-6675c88da1d7ad00084762cb.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="5c363c2411c5ca053f198f97" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/colorLogoPNG.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Серіали",Pluto TV Comedy Movies
@@ -21,8 +19,6 @@ https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
 https://jmp2.uk/plu-6a315581df0b6d462c18397e.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="6a71f490f5f14c2045cd6118" tvg-name="Pluto TV TGIF Comedy" tvg-logo="https://images.pluto.tv/channels/6a71f490f5f14c2045cd6118/colorLogoPNG_1787779574370.png" tvg-country="CA" tvg-language="" group-title="🌎 FAST Серіали",Pluto TV TGIF Comedy
 https://jmp2.uk/plu-6a71f490f5f14c2045cd6118.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="615333098185f00008715a56" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-country="DE" tvg-language="" group-title="🌎 FAST Серіали",Pluto TV True Crime
-https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 #EXTINF:-1 tvg-chno="118" tvg-id="619b9f16b8fee4000832d447" tvg-name="El Detective Endeavour" tvg-logo="https://images.pluto.tv/channels/619b9f16b8fee4000832d447/colorLogoPNG.png" tvg-country="ES" tvg-language="" group-title="🌎 FAST Серіали",El Detective Endeavour
 https://jmp2.uk/plu-619b9f16b8fee4000832d447.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="678aa104680721c77c506746" tvg-name="The Walking Dead by AMC" tvg-logo="https://images.pluto.tv/channels/678aa104680721c77c506746/colorLogoPNG.png" tvg-country="BR" tvg-language="" group-title="🌎 FAST Серіали",The Walking Dead by AMC
@@ -45,6 +41,8 @@ https://jmp2.uk/plu-6a300571cdfd39da91df9159.m3u8
 https://jmp2.uk/plu-6a3160eae022927e1c9eb429.m3u8
 #EXTINF:-1 tvg-chno="212" tvg-id="6a43d781500fdfdb6975e97c" tvg-name="Star Trek: Discovery" tvg-logo="https://images.pluto.tv/channels/6a43d781500fdfdb6975e97c/colorLogoPNG_1786036798231.png" tvg-country="DE" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Discovery
 https://jmp2.uk/plu-6a43d781500fdfdb6975e97c.m3u8
+#EXTINF:-1 tvg-chno="222" tvg-id="69afee7a3bd16a4ed071080d" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee7a3bd16a4ed071080d/colorLogoPNG_1778675522972.png" tvg-country="SE" tvg-language="" group-title="🌎 FAST Серіали",From Dusk Till Dawn: The Series
+https://jmp2.uk/plu-69afee7a3bd16a4ed071080d.m3u8
 #EXTINF:-1 tvg-chno="234" tvg-id="61f93af0b253440007c54ad8" tvg-name="Ciné Star Trek by Pluto TV" tvg-logo="https://images.pluto.tv/channels/61f93af0b253440007c54ad8/colorLogoPNG_1750347902035.png" tvg-country="FR" tvg-language="" group-title="🌎 FAST Серіали",Ciné Star Trek by Pluto TV
 https://jmp2.uk/plu-61f93af0b253440007c54ad8.m3u8
 #EXTINF:-1 tvg-chno="247" tvg-id="5f1ac947dcd00d0007937c08" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" tvg-country="ES" tvg-language="" group-title="🌎 FAST Серіали",Pluto TV Cine Drama
@@ -59,26 +57,28 @@ https://jmp2.uk/plu-6a8dd1d49547fd4fecc14d86.m3u8
 https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
 #EXTINF:-1 tvg-chno="319" tvg-id="6964b8f64b352fda70edd4c2" tvg-name="Klassiske dramaserier fra Viafree" tvg-logo="https://images.pluto.tv/channels/6964b8f64b352fda70edd4c2/colorLogoPNG_1771833348752.png" tvg-country="DK" tvg-language="" group-title="🌎 FAST Серіали",Klassiske dramaserier fra Viafree
 https://jmp2.uk/plu-6964b8f64b352fda70edd4c2.m3u8
-#EXTINF:-1 tvg-chno="324" tvg-id="69afee21684d0f30872ca3e6" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee21684d0f30872ca3e6/colorLogoPNG_1778675384556.png" tvg-country="DK" tvg-language="" group-title="🌎 FAST Серіали",From Dusk Till Dawn: The Series
-https://jmp2.uk/plu-69afee21684d0f30872ca3e6.m3u8
 #EXTINF:-1 tvg-chno="355" tvg-id="65cb73d33ba51e00084cabad" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" tvg-country="IT" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1 tvg-chno="366" tvg-id="66ba1e23d2d50d00084a1e57" tvg-name="Crimes That Shook Britain" tvg-logo="https://images.pluto.tv/channels/66ba1e23d2d50d00084a1e57/colorLogoPNG.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Серіали",Crimes That Shook Britain
 https://jmp2.uk/plu-66ba1e23d2d50d00084a1e57.m3u8
+#EXTINF:-1 tvg-chno="400" tvg-id="66d9ab4bf0f17500084e9b7e" tvg-name="Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png" tvg-country="IT" tvg-language="" group-title="🌎 FAST Серіали",Pluto TV True Crime
+https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8
 #EXTINF:-1 tvg-chno="509" tvg-id="65ddec1ef7f0af0008be4b65" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" tvg-country="ES" tvg-language="" group-title="🌎 FAST Серіали",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1 tvg-chno="515" tvg-id="6703a96763292d000836b4fa" tvg-name="Crime Up Close" tvg-logo="https://images.pluto.tv/channels/6703a96763292d000836b4fa/colorLogoPNG.png" tvg-country="CA" tvg-language="" group-title="🌎 FAST Серіали",Crime Up Close
 https://jmp2.uk/plu-6703a96763292d000836b4fa.m3u8
-#EXTINF:-1 tvg-chno="586" tvg-id="6a426f26fa7175aa69844a67" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/6a426f26fa7175aa69844a67/colorLogoPNG_1782738767303.png" tvg-country="SE" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Deep Space Nine
-https://jmp2.uk/plu-6a426f26fa7175aa69844a67.m3u8
 #EXTINF:-1 tvg-chno="592" tvg-id="6a4279d93a25d6cec631d16a" tvg-name="Star Trek: The Klingon Logs" tvg-logo="https://images.pluto.tv/channels/6a4279d93a25d6cec631d16a/colorLogoPNG_1787902291454.png" tvg-country="SE" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: The Klingon Logs
 https://jmp2.uk/plu-6a4279d93a25d6cec631d16a.m3u8
 #EXTINF:-1 tvg-chno="593" tvg-id="6a427c9b539f6cfa9ccaa4e8" tvg-name="Star Trek: Fansens favoriter" tvg-logo="https://images.pluto.tv/channels/6a427c9b539f6cfa9ccaa4e8/colorLogoPNG_1788177721856.png" tvg-country="SE" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Fansens favoriter
 https://jmp2.uk/plu-6a427c9b539f6cfa9ccaa4e8.m3u8
+#EXTINF:-1 tvg-chno="605" tvg-id="62023ab069d34500074b4ee5" tvg-name="Doctor Who" tvg-logo="https://images.pluto.tv/channels/62023ab069d34500074b4ee5/colorLogoPNG.png" tvg-country="SE" tvg-language="" group-title="🌎 FAST Серіали",Doctor Who
+https://jmp2.uk/plu-62023ab069d34500074b4ee5.m3u8
 #EXTINF:-1 tvg-chno="645" tvg-id="62fb9ade112ca70007d8441d" tvg-name="Nonstop Drama" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" tvg-country="CA" tvg-language="" group-title="🌎 FAST Серіали",Nonstop Drama
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8
-#EXTINF:-1 tvg-chno="646" tvg-id="6a427cd153ad8a71107749cc" tvg-name="Star Trek: Fanfavoritter" tvg-logo="https://images.pluto.tv/channels/6a427cd153ad8a71107749cc/colorLogoPNG_1782742538396.png" tvg-country="NO" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Fanfavoritter
-https://jmp2.uk/plu-6a427cd153ad8a71107749cc.m3u8
+#EXTINF:-1 tvg-chno="652" tvg-id="6a426e053a96e5056db52261" tvg-name="Star Trek: Deep Space Nine" tvg-logo="https://images.pluto.tv/channels/6a426e053a96e5056db52261/colorLogoPNG_1782738570404.png" tvg-country="DK" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Deep Space Nine
+https://jmp2.uk/plu-6a426e053a96e5056db52261.m3u8
+#EXTINF:-1 tvg-chno="664" tvg-id="689221db83c26b27fdabe995" tvg-name="Star Trek: Fanfavoritter" tvg-logo="https://images.pluto.tv/channels/689221db83c26b27fdabe995/colorLogoPNG-1757069068335.png" tvg-country="DK" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Fanfavoritter
+https://jmp2.uk/plu-689221db83c26b27fdabe995.m3u8
 #EXTINF:-1 tvg-chno="714" tvg-id="64268f52b065d900085eb42b" tvg-name="Crime Scene Solvers" tvg-logo="https://images.pluto.tv/channels/64268f52b065d900085eb42b/colorLogoPNG.png" tvg-country="SE" tvg-language="" group-title="🌎 FAST Серіали",Crime Scene Solvers
 https://jmp2.uk/plu-64268f52b065d900085eb42b.m3u8
 #EXTINF:-1 tvg-chno="848" tvg-id="695c32671ca20bb8ca7fd8f7" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/695c32671ca20bb8ca7fd8f7/colorLogoPNG_1768440939423.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Star Trek: Enterprise
@@ -109,6 +109,8 @@ https://jmp2.uk/stvp-IN8000171I
 https://jmp2.uk/plu-6ac5067030fb504db0658842.m3u8
 #EXTINF:-1 tvg-chno="1270" tvg-id="6ad79f775db95e3dac2ae44c" tvg-name="Crime Scenes" tvg-logo="https://images.pluto.tv/channels/6ad79f775db95e3dac2ae44c/colorLogoPNG_1793381685424.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Crime Scenes
 https://jmp2.uk/plu-6ad79f775db95e3dac2ae44c.m3u8
+#EXTINF:-1 tvg-chno="1310" tvg-id="654930a8346f420008d3b0b8" tvg-name="Oxygen True Crime Archives" tvg-logo="https://images.pluto.tv/channels/654930a8346f420008d3b0b8/colorLogoPNG.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Oxygen True Crime Archives
+https://jmp2.uk/plu-654930a8346f420008d3b0b8.m3u8
 #EXTINF:-1 tvg-chno="1310" tvg-id="IN1600001OG" tvg-name="Pitaara Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20260930T010437SQUARE.png" tvg-country="IN" tvg-language="" group-title="🌎 FAST Серіали",Pitaara Comedy
 https://jmp2.uk/stvp-IN1600001OG
 #EXTINF:-1 tvg-chno="1330" tvg-id="6000a5a9e767980007b497ca" tvg-name="A&E Crime 360" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG_1767745470551.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",A&E Crime 360
@@ -261,6 +263,8 @@ https://jmp2.uk/stvp-FRBD39000064E
 https://jmp2.uk/stvp-GBBD50000320
 #EXTINF:-1 tvg-chno="4459" tvg-id="6732499ce40c4a0008bb9894" tvg-name="Crimen" tvg-logo="https://images.pluto.tv/channels/6732499ce40c4a0008bb9894/colorLogoPNG.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Crimen
 https://jmp2.uk/plu-6732499ce40c4a0008bb9894.m3u8
+#EXTINF:-1 tvg-chno="4906" tvg-id="GB2600020OP" tvg-name="Comedy Movies - Rakuten TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2600020OP_20260707T052017SQUARE.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Серіали",Comedy Movies - Rakuten TV
+https://jmp2.uk/stvp-GB2600020OP
 #EXTINF:-1 tvg-chno="4909" tvg-id="DE1200001JW" tvg-name="Free Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE1200001JW_20250107T024838SQUARE.png" tvg-country="DE" tvg-language="" group-title="🌎 FAST Серіали",Free Comedy
 https://jmp2.uk/stvp-DE1200001JW
 #EXTINF:-1 tvg-chno="4945" tvg-id="DE3800001CR" tvg-name="Horror Comedy" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3800001CR_20251111T013957SQUARE.png" tvg-country="DE" tvg-language="" group-title="🌎 FAST Серіали",Horror Comedy
@@ -325,8 +329,8 @@ https://amg00658-amg00658c13-lg-us-7400.playouts.now.amagi.tv/playlist/amg00658-
 https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-63068b870bbec3b06755a0ee/?X-Plex-Token=yEUWnYwvxGy_CApaeHzN
 #EXTINF:-1 tvg-id="coldcasefiles_aeccf_US" tvg-name="Cold Case Files" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Cold Case Files
 https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="64305451fc3be5947773c339-5efe1de5e0b3f5003f5d9f76" tvg-name="Comedy Dynamics" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/92ece91992893ff338b2f45016877c9c.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Серіали",Comedy Dynamics
-https://epg.provider.plex.tv/library/parts/64305451fc3be5947773c339-5efe1de5e0b3f5003f5d9f76/?X-Plex-Token=yEUWnYwvxGy_CApaeHzN
+#EXTINF:-1 tvg-id="647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76" tvg-name="Comedy Dynamics" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/92ece91992893ff338b2f45016877c9c.png" tvg-country="CA" tvg-language="" group-title="🌎 FAST Серіали",Comedy Dynamics
+https://epg.provider.plex.tv/library/parts/647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f76/?X-Plex-Token=yEUWnYwvxGy_CApaeHzN
 #EXTINF:-1 tvg-id="comedyplus_amg02042c5eng_US" tvg-name="Comedy Plus" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/comedy-plus/Comedy%20Plus%20White%20transparent%20logo.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Comedy Plus
 https://amg02042-ottstudio-amg02042c5-lg-us-1052.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_courttv_4" tvg-name="Court TV" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Court TV
@@ -467,8 +471,6 @@ https://amg00658-amg00658c99-lg-us-7506.playouts.now.amagi.tv/playlist/amg00658-
 https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="99951250" tvg-name="OuterSphere by Lionsgate" tvg-logo="https://image.xumo.com/v1/channels/channel/99951250/168x168.png?type=color_onBlack" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",OuterSphere by Lionsgate
 https://dbrb49pjoymg4.cloudfront.net/10001/99951250/hls/playlist.m3u8?includeAssetTags=true&ads.xumo_channelId=99951250&ads.xumo_streamId=99951250&ads.channelId=99951250&ads.channelName=LionsgateOuterSphere&ads.caid=LionsgateOuterSphere&ads.csid=xumo_web_LionsgateOuterSphere_ssai&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_coppa=0&ads.xumo_contentId=3954&ads.xumo_contentName=LionsgateOuterSphere&ads.xumo_providerId=3954&ads.xumo_providerName=LionsgateOuterSphere&ads.asnw=&ads.xumo_channelName=LionsgateOuterSphere&ads._fw_h_x_country=US&ads._fw_ifa_type=&ads._fw_did=cb99ac96-24e8-4b2d-9f5e-df9a5ebcaf55&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.xumo_platform=web&ads.site_id=&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads.appName=xumo
-#EXTINF:-1 tvg-id="99951466" tvg-name="Oxygen True Crime Archives" tvg-logo="https://image.xumo.com/v1/channels/channel/99951466/168x168.png?type=color_onBlack" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Oxygen True Crime Archives
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951466/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99951466&ads.xumo_streamId=99951466&ads.channelId=99951466&ads.asnw=535279&ads.afid=440665815&ads.sfid=23858601&ads.csid=xumo_web_versantoxygentruecrimearchives_ssai_cro&ads._fw_coppa=0&ads.xumo_contentId=4300&ads.xumo_contentName=VersantOxygenTrueCrime&ads.xumo_providerId=4300&ads.xumo_providerName=VersantOxygenTrueCrime&ads.caid=&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_did=81d19d90-7d59-4c41-be4a-129ca7b57096&ads._fw_vcid2=512116:81d19d90-7d59-4c41-be4a-129ca7b57096&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads._fw_ifa_type=&ads.appName=XumoPlay&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=
 #EXTINF:-1 tvg-id="paranormal-chronicles-en" tvg-name="Paranormal Chronicles" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/7423c2af-dad2-402a-a9e1-289c58937b20.png" tvg-country="GB" tvg-language="" group-title="🌎 FAST Серіали",Paranormal Chronicles
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=crime%2Cmystery&ads._fw_content_language=uk&ads._fw_content_rating=tv-14&ads._fw_deviceMake&ads._fw_device_model&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent&ads._fw_is_lat=1&ads._ifa_type&ads.amznbrmid&ads.amznregion&ads.amznslots&ads.appName=RakutenTV&ads.app_version&ads.brand_name&ads.caid=filmriseparanormalchronicles&ads.content_livestream=0&ads.csid=zeus_uk_filmriseparanormalchronicles_ssai&ads.extra_eids&ads.gam_correlator&ads.google_ad_manager_nonce&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=8372&ads.rakuten_streaming_id=d05a7974-1ce6-4b0f-b78d-d038bdf0bb06&ads.rakuten_user_type=visitor&ads.rtv_channel_name=paranormal-chronicles-en_uk&ads.tivo_devcountry&ads.tivo_devmakedate&ads.tivo_mvpd&ads.tivo_platform&ads.tivo_usid&ads.tivo_uxloc&ads.xumo_channelId=88883174&ads.xumo_channel_id=88883174&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_ifa&ads.xumo_ifaType=ppid&ads.xumo_providerId=260&ads.xumo_providerName=paranormchronicles-eng-rakutentv&ads.xumo_streamId=88883174
 #EXTINF:-1 tvg-id="99991769" tvg-name="Paranormal Files" tvg-logo="https://image.xumo.com/v1/channels/channel/99991769/168x168.png?type=color_onBlack" tvg-country="US" tvg-language="" group-title="🌎 FAST Серіали",Paranormal Files

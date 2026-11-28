@@ -89,6 +89,8 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2LatinAmerica.us@Colombia" tvg-name="ESPN 2 Latin America Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Спорт",ESPN 2 Latin America Colombia
 http://38.211.118.56:50002/play/a0fa/index.m3u8
+#EXTINF:-1 tvg-id="ESPN5LatinAmerica.us@South" tvg-name="ESPN 5 Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Спорт",ESPN 5 Latin America
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",ESPN HD
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Colombia" tvg-name="ESPN Latin America Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Спорт",ESPN Latin America Colombia
@@ -150,7 +152,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="HBCUGOSports.us@SD" tvg-name="HBCU-GO Sports" tvg-logo="https://i.imgur.com/TY6sx5W.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",HBCU-GO Sports
 https://a-cdn.klowdtv.com/live3/hbcugo_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it@SD" tvg-name="Horse TV" tvg-logo="https://i.imgur.com/nK4UUX4.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Спорт",Horse TV
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
 #EXTINF:-1 tvg-id="InterTV.it@SD" tvg-name="Inter TV" tvg-logo="https://i.imgur.com/FUTqh2L.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Спорт",Inter TV
 https://d3k8wzt41aflvx.cloudfront.net/INTERTV/Live.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-name="INTROUBLE" tvg-logo="https://cdn.uc.assets.prezly.com/28ebc4a6-cfda-4bb1-9b9c-14e2c3da67a8/InTrouble_portraitOrange.png" tvg-country="NL" tvg-language="eng" group-title="🌍 Спорт",INTROUBLE
@@ -224,6 +226,8 @@ https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHandboldLive.se@DK" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Спорт",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMotor.de@ES" tvg-name="Pluto TV Motor" tvg-logo="https://i.imgur.com/LSrfnpB.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Спорт",Pluto TV Motor
+https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMotor.se@DK" tvg-name="Pluto TV Motor" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Спорт",Pluto TV Motor
 https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se@DK" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Спорт",Pluto TV Snooker 900
@@ -238,6 +242,10 @@ https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 #EXTINF:-1 tvg-id="PokerGo.us@US" tvg-name="PokerGO" tvg-logo="https://i.imgur.com/1603HED.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",PokerGO
 https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl@SD" tvg-name="Polsat Sport Premium 1" tvg-logo="https://i.imgur.com/hy1SKE0.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Спорт",Polsat Sport Premium 1
+http://46.149.222.219:18002/polsatsportpremium1
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl@SD" tvg-name="Polsat Sport Premium 2" tvg-logo="https://i.imgur.com/myyWeXY.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Спорт",Polsat Sport Premium 2
+http://46.149.222.219:18002/polsatsportpremium2
 #EXTINF:-1 tvg-id="PowerNationTV.us@SD" tvg-name="PowerNation" tvg-logo="https://i.imgur.com/jguTO8E.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",PowerNation
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimaSportCzechia.cz@SD" tvg-name="Prima Sport Czechia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Prima_Sport_%28Czech_Republic%29.svg/revision/latest?cb=20260728085614" tvg-country="CZ" tvg-language="cze" group-title="🌍 Спорт",Prima Sport Czechia
@@ -258,7 +266,7 @@ http://88.212.15.50/live/real_madrid_tv/index.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-name="Red Bull TV AU" tvg-logo="https://i.postimg.cc/8c78JM28/image.png" tvg-country="AT" tvg-language="eng" group-title="🌍 Спорт",Red Bull TV AU
 https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RightNowTV.us@SD" tvg-name="RightNow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rWZ8kofdRtH5CJ-BobD1pdpwVAq8COHt6Q&s" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",RightNow TV
-https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/rightnowtv.m3u8
+https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SetantaSports3.ge@SD" tvg-name="Setanta Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Setanta_Sports_3_2023.svg/revision/latest?cb=20230804060013" tvg-country="GE" tvg-language="kat" group-title="🌍 Спорт",Setanta Sports 3
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1 tvg-id="SetantaSportsPlusGeorgia.ge@SD" tvg-name="Setanta Sports+ Georgia" tvg-logo="https://i.imgur.com/ZtoZQUV.png" tvg-country="GE" tvg-language="eng;kat" group-title="🌍 Спорт",Setanta Sports+ Georgia
@@ -301,6 +309,8 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" tvg-country="CA" tvg-language="eng" group-title="🌍 Спорт",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:-1 tvg-id="TVPSport.pl@SD" tvg-name="TVP Sport" tvg-logo="https://i.imgur.com/JUZDOCO.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Спорт",TVP Sport
+http://91.226.96.110:5555/tvpsport/index.m3u8
 #EXTINF:-1 tvg-id="TVSBowlingNetwork.us@SD" tvg-name="TVS Bowling Network" tvg-logo="https://www.watchyour.tv/channels/logo/tvs-bowling-network.jpg" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",TVS Bowling Network
 https://rpn.bozztv.com/gusa/gusa-tvsbowling/index.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us@SD" tvg-name="TVS Boxing" tvg-logo="https://i.imgur.com/30ZoF75.png" tvg-country="US" tvg-language="eng" group-title="🌍 Спорт",TVS Boxing

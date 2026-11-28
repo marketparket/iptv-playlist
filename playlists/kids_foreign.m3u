@@ -51,6 +51,10 @@ http://92.114.85.87:8017/play/a004/index.m3u8
 http://antm.dynu.net:14285/rtp/232.84.3.200:11122
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD" tvg-name="Christian Youth Channel (CYC)" tvg-logo="https://i.imgur.com/61eV77C.png" tvg-country="US" tvg-language="eng" group-title="🌍 Дитячі | EN",Christian Youth Channel (CYC)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Crunchyroll.us@SD" tvg-name="Crunchyroll" tvg-logo="https://i.imgur.com/2FlIQUO.png" tvg-country="US" tvg-language="eng;jap" group-title="🌍 Дитячі | EN",Crunchyroll
+https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.fr@SD" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="FR" tvg-language="fra;eng" group-title="🌍 Дитячі | EN",Disney Channel
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 #EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="JP" tvg-language="jpn;eng" group-title="🌍 Дитячі | EN",Disney Channel
 http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Дитячі | EN",Disney Channel
@@ -58,8 +62,6 @@ http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/UxrAiAe.png" tvg-country="BG" tvg-language="bul;eng" group-title="🌍 Дитячі | EN",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a059
-#EXTINF:-1 tvg-id="DisneyChannel.fr@SD" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="FR" tvg-language="fra;eng" group-title="🌍 Дитячі | EN",Disney Channel
-https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Дитячі | EN",Disney XD
 http://89.187.179.148:826/1368/gXwiagaXda/1672
 #EXTINF:-1 tvg-id="DoraTV.us@CA" tvg-name="Dora TV" tvg-logo="https://i.imgur.com/zJuSbmU.png" tvg-country="US" tvg-language="eng" group-title="🌍 Дитячі | EN",Dora TV
@@ -124,7 +126,7 @@ http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ro@SD" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" tvg-country="RO" tvg-language="eng" group-title="🌍 Дитячі | EN",Nick Jr.
 http://91.235.165.117:8001/play/a038/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.us@East" tvg-name="Nick Jr." tvg-logo="https://i.imgur.com/KT4tdQs.png" tvg-country="US" tvg-language="eng" group-title="🌍 Дитячі | EN",Nick Jr.
-http://212.5.144.156:8080/nickjr/index.m3u8
+https://chunk.tvnow247.today/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiIzMjkiLCJjaGFpbiI6InIyIiwidHMiOjE3OTU1Mzc2NjY0OTZ9
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-name="Nick Jr. Pluto TV" tvg-logo="https://i.imgur.com/8DAe8wr.png" tvg-country="US" tvg-language="eng" group-title="🌍 Дитячі | EN",Nick Jr. Pluto TV
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@SD" tvg-name="Nick/Comedy Central +1" tvg-logo="https://i.imgur.com/08ZUI9k.png" tvg-country="DE" tvg-language="deu;eng" group-title="🌍 Дитячі | EN",Nick/Comedy Central +1
@@ -165,8 +167,6 @@ https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 https://toy.vcdn.fyi/placid/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimation.de@GB" tvg-name="Pluto TV Animation" tvg-logo="https://i.imgur.com/HT0hv7F.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Дитячі | EN",Pluto TV Animation
 https://jmp2.uk/plu-612f761008a9e50007984ba0.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.us@CA" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-country="US" tvg-language="eng;jap" group-title="🌍 Дитячі | EN",Pluto TV Anime
-https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeMovies.us@SD" tvg-name="Pluto TV Anime Movies" tvg-logo="https://images.pluto.tv/channels/67ed8f7e443f0671bc2b2368/colorLogoPNG.png" tvg-country="US" tvg-language="eng;jap" group-title="🌍 Дитячі | EN",Pluto TV Anime Movies
 https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se@DK" tvg-name="Pluto TV Juniorklubben" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Дитячі | EN",Pluto TV Juniorklubben
@@ -205,8 +205,8 @@ https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
 #EXTINF:-1 tvg-id="SouthParkRockinOut.se@DK" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Дитячі | EN",South Park Rockin' Out
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
-#EXTINF:-1 tvg-id="SouthParkButtersCollection.se@DK" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Дитячі | EN",South Park: Butters Collection
-https://jmp2.uk/plu-65d87a66ec9fda0008a5ac11.m3u8
+#EXTINF:-1 tvg-id="SouthParkButtersCollection.se@SE" tvg-name="South Park: Butters Collection" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Дитячі | EN",South Park: Butters Collection
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
 #EXTINF:-1 tvg-id="SouthParkCartmanCollection.us@CA" tvg-name="South Park: Cartman Collection" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Дитячі | EN",South Park: Cartman Collection
 https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
 #EXTINF:-1 tvg-id="SouthParkIntotheStars.se@DK" tvg-name="South Park: Into the Stars" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Дитячі | EN",South Park: Into the Stars
@@ -326,6 +326,8 @@ http://92.114.85.87:8019/play/a003/index.m3u8
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae@SD" tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png" tvg-country="AE" tvg-language="ara" group-title="🌍 Дитячі | Інші мови",Cartoon Network Arabic
 http://149.100.11.252:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Romania" tvg-name="Cartoon Network CEE Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="UK" tvg-language="ron" group-title="🌍 Дитячі | Інші мови",Cartoon Network CEE Romania
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/cartun/usergenrx2xfzol0q.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@NorthAtlantic" tvg-name="Cartoon Network Latin America North Atlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Дитячі | Інші мови",Cartoon Network Latin America North Atlantic
 http://45.173.12.70:8000/play/a0fj
 #EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk@Portugal" tvg-name="Cartoon Network Western Europe Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="UK" tvg-language="por" group-title="🌍 Дитячі | Інші мови",Cartoon Network Western Europe Portugal
@@ -367,6 +369,8 @@ https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu@SD" tvg-name="Disney Channel" tvg-logo="https://i.imgur.com/aOa73uT.png" tvg-country="HU" tvg-language="hun;ces" group-title="🌍 Дитячі | Інші мови",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/disney_channel_hun/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="RO" tvg-language="ron" group-title="🌍 Дитячі | Інші мови",Disney Channel
+https://rundle.tv/proxy5.php?src=https://galandriel1.thobias001.cfd/dysnee/usergendx0k2rnd.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-country="PL" tvg-language="pol" group-title="🌍 Дитячі | Інші мови",Disney Channel HD
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Center" tvg-name="Disney Channel Latin America Center" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" tvg-country="AR" tvg-language="spa" group-title="🌍 Дитячі | Інші мови",Disney Channel Latin America Center
@@ -384,12 +388,14 @@ https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-name="Dreiko TV" tvg-logo="https://i.imgur.com/k8U0e0b.png" tvg-country="PA" tvg-language="spa" group-title="🌍 Дитячі | Інші мови",Dreiko TV
 https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="DuckTV.ro@SD" tvg-name="Duck TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Duck_TV.svg/revision/latest?cb=20191212111607" tvg-country="RO" tvg-language="ron" group-title="🌍 Дитячі | Інші мови",Duck TV
+https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/duk/usergenz9ak7fxt.m3u8
 #EXTINF:-1 tvg-id="ducktvPLUS.sk@SD" tvg-name="ducktv PLUS" tvg-logo="https://i.imgur.com/RFhxfOx.png" tvg-country="SK" tvg-language="slk" group-title="🌍 Дитячі | Інші мови",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-name="DumDum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-country="BR" tvg-language="por" group-title="🌍 Дитячі | Інші мови",DumDum
 http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-name="Duronto TV" tvg-logo="https://i.imgur.com/gXsddRK.png" tvg-country="BD" tvg-language="ben" group-title="🌍 Дитячі | Інші мови",Duronto TV
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="EBSKids.kr@SD" tvg-name="EBS kids" tvg-logo="https://i.imgur.com/62oo8Bx.png" tvg-country="KR" tvg-language="kor" group-title="🌍 Дитячі | Інші мови",EBS kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EKids.bg@SD" tvg-name="EKids" tvg-logo="" tvg-country="BG" tvg-language="bul" group-title="🌍 Дитячі | Інші мови",EKids
@@ -527,16 +533,18 @@ https://ncdn.telewebion.ir/omid/live/playlist.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-name="ON Kids" tvg-logo="https://i.ibb.co/RGsg8XfM/IMG-2512.webp" tvg-country="VN" tvg-language="vie" group-title="🌍 Дитячі | Інші мови",ON Kids
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="OnePiece.us@CA" tvg-name="One Piece" tvg-logo="https://i.imgur.com/XsvbAWR.png" tvg-country="US" tvg-language="jap" group-title="🌍 Дитячі | Інші мови",One Piece
-https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@BR" tvg-name="One Piece" tvg-logo="https://i.imgur.com/XsvbAWR.png" tvg-country="US" tvg-language="jap" group-title="🌍 Дитячі | Інші мови",One Piece
+https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 tvg-id="PequesTV.pe@SD" tvg-name="Peques TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png" tvg-country="PE" tvg-language="spa" group-title="🌍 Дитячі | Інші мови",Peques TV
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr@SD" tvg-name="Persiana Junior" tvg-logo="https://i.imgur.com/zeKHZYG.png" tvg-country="FR" tvg-language="fas" group-title="🌍 Дитячі | Інші мови",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar@SD" tvg-name="Plim Plim" tvg-logo="https://i.imgur.com/MYc8srh.png" tvg-country="AR" tvg-language="spa" group-title="🌍 Дитячі | Інші мови",Plim Plim
-http://45.70.168.162:1503/play/a02a/index.m3u8
+http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdultAnimation.de@DACH" tvg-name="Pluto TV Adult Animation" tvg-logo="https://images.pluto.tv/channels/67f68bd2135aeda9ddf0ef54/colorLogoPNG_1746816413112.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Дитячі | Інші мови",Pluto TV Adult Animation
 https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@BR" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" tvg-country="US" tvg-language="por" group-title="🌍 Дитячі | Інші мови",Pluto TV Anime
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnimeAcao.us@BR" tvg-name="Pluto TV Anime Ação" tvg-logo="https://i.imgur.com/d8PpfB3.png" tvg-country="US" tvg-language="por" group-title="🌍 Дитячі | Інші мови",Pluto TV Anime Ação
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.us@BR" tvg-name="Pluto TV Junior" tvg-logo="https://i.imgur.com/7sApMZS.png" tvg-country="US" tvg-language="por" group-title="🌍 Дитячі | Інші мови",Pluto TV Junior
@@ -656,6 +664,8 @@ https://crtvg-xabarinr3-schlive.flumotion.cloud/crtvglive/smil:channel8PRG.smil/
 https://crtvg-xabarinr1-schlive.flumotion.cloud/crtvglive/smil:channel6PRG.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UniqueTV.in@SD" tvg-name="Unique TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" tvg-country="IN" tvg-language="hin" group-title="🌍 Дитячі | Інші мови",Unique TV
 http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+#EXTINF:-1 tvg-id="VTV.id@HD" tvg-name="VTV HD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" tvg-country="ID" tvg-language="ind" group-title="🌍 Дитячі | Інші мови",VTV HD
+http://202.150.172.59/VTVHD/index.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in@Hindi" tvg-name="WOW Kidz" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" tvg-country="IN" tvg-language="hin" group-title="🌍 Дитячі | Інші мови",WOW Kidz
 https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-name="Xtrema Cartoons" tvg-logo="https://i.imgur.com/X2d8y4e.png" tvg-country="AR" tvg-language="spa" group-title="🌍 Дитячі | Інші мови",Xtrema Cartoons

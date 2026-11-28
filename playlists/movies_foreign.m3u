@@ -21,6 +21,8 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-name="Allo Cine" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" tvg-country="CM" tvg-language="fre;eng" group-title="🌍 Фільми | EN",Allo Cine
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="AMCEurope.uk@Romania" tvg-name="AMC Europe Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="UK" tvg-language="eng" group-title="🌍 Фільми | EN",AMC Europe Romania
+https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/amece/usergenrx3oq1kr.m3u8
 #EXTINF:-1 tvg-id="AMCThrillers.us@SD" tvg-name="AMC Thrillers" tvg-logo="https://i.imgur.com/EVD0aIt.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericanHorrors.us@SD" tvg-name="American Horrors" tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",American Horrors
@@ -35,6 +37,8 @@ https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
 #EXTINF:-1 tvg-id="AXNBlack.us@Hungary" tvg-name="AXN Black Hungary" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",AXN Black Hungary
 http://141.94.193.53/axn_black/index.m3u8
+#EXTINF:-1 tvg-id="AXNCEE.es@RomaniaHD" tvg-name="AXN CEE Romania HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="ES" tvg-language="eng" group-title="🌍 Фільми | EN",AXN CEE Romania HD
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 #EXTINF:-1 tvg-id="AXNCrime.us@SD" tvg-name="AXN Crime" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/AXNCRIME_2026_V_WHITE_VIOLET_RGB_HERO_01.svg/revision/latest?cb=20260808120407" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",AXN Crime
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/viasat_film/index.m3u8
@@ -188,6 +192,8 @@ https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
 https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCrimeMovies.us@SD" tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/SJcqknt.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Crime Movies
 https://jmp2.uk/plu-5f4d8594eb979c0007706de7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCultFilms.de@GB" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Cult Films
+https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCultFilms.us@US" tvg-name="Pluto TV Cult Films" tvg-logo="https://i.imgur.com/xoaIAus.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Cult Films
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDrama.us@US" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/PvhbHTZ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Drama
@@ -198,12 +204,12 @@ https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
 https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFantasyHorror.de@GB" tvg-name="Pluto TV Fantasy & Horror" tvg-logo="https://images.pluto.tv/channels/685041d936c9361b1921c26c/colorLogoPNG_1753696741486.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Fantasy & Horror
 https://jmp2.uk/plu-685041d936c9361b1921c26c.m3u8
-#EXTINF:-1 tvg-id="PlutoTVFilm.se@NO" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Фільми | EN",Pluto TV Film
-https://jmp2.uk/plu-61c1e1e55deef000075aed0c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFilm.se@DK" tvg-name="Pluto TV Film" tvg-logo="https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Фільми | EN",Pluto TV Film
+https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFranchiseFavorites.us@SD" tvg-name="Pluto TV Franchise Favorites" tvg-logo="https://images.pluto.tv/channels/68fbf8101d26140175db8b58/colorLogoPNG_1762383685562.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Franchise Favorites
 https://jmp2.uk/plu-68fbf8101d26140175db8b58.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHarlequin.se@NO" tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Фільми | EN",Pluto TV Harlequin
-https://jmp2.uk/plu-68c01b9a6bdcf3b9a64febcc.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHarlequin.se@DK" tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Фільми | EN",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/k6qttca.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Horror
 https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 #EXTINF:-1 tvg-id="PlutoTVIcons.us@SD" tvg-name="Pluto TV Icons" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Icons
@@ -212,8 +218,8 @@ https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKomedi.se@SE" tvg-name="Pluto TV Komedi" tvg-logo="https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Фільми | EN",Pluto TV Komedi
 https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
-#EXTINF:-1 tvg-id="PlutoTVKultfilmer.se@NO" tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Фільми | EN",Pluto TV Kultfilmer
-https://jmp2.uk/plu-63dbe80f60bc8f0008aa7c78.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKultfilmer.se@SE" tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Фільми | EN",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReaction.us@SD" tvg-name="Pluto TV Reaction" tvg-logo="https://i.imgur.com/H9k3OXN.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Reaction
 https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us@CA" tvg-name="Pluto TV Retro Action Movies" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Retro Action Movies
@@ -238,6 +244,8 @@ https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 https://jmp2.uk/plu-5c6dc88fcd232425a6e0f06e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVThrillers.us@US" tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/ULKvDN7.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Thrillers
 https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrendingNow.us@SD" tvg-name="Pluto TV Trending Now" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Trending Now
+https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-name="Pluto TV Westerns" tvg-logo="https://i.imgur.com/biepi4A.png" tvg-country="US" tvg-language="eng" group-title="🌍 Фільми | EN",Pluto TV Westerns
 https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWildWest.se@DK" tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Фільми | EN",Pluto TV Wild West
@@ -401,9 +409,6 @@ https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-name="Alterna TV" tvg-logo="https://tv.alterna.ar/alternatv.png" tvg-country="AR" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Alterna TV
 https://tv.alterna.ar/stream/hls/live.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Bulgary" tvg-name="AMC Europe Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="UK" tvg-language="bul" group-title="🌍 Фільми | Інші мови",AMC Europe Bulgary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-name="AMC Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",AMC Latin America
 http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Andromeda – Pluto TV" tvg-logo="https://i.imgur.com/2HFhwX9.png" tvg-country="" tvg-language="" group-title="🌍 Фільми | Інші мови",Andromeda – Pluto TV
@@ -437,9 +442,6 @@ http://125.227.210.55:4050/VideoInput/play.ts
 #EXTINF:-1 tvg-id="AXNBlack.de@SD" tvg-name="AXN Black" tvg-logo="https://i.imgur.com/Peo1QiZ.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Фільми | Інші мови",AXN Black
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://46.244.99.71:8181/stream/35/index.m3u8
-#EXTINF:-1 tvg-id="AXNCEE.es@CzechRepublic" tvg-name="AXN CEE Czech Republic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="ES" tvg-language="ces" group-title="🌍 Фільми | Інші мови",AXN CEE Czech Republic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.50/live/test_axn/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-name="AXN Latin America Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",AXN Latin America Andes
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" tvg-country="PT" tvg-language="por" group-title="🌍 Фільми | Інші мови",AXN Movies
@@ -486,8 +488,6 @@ http://213.91.179.28:8000/play/a05i
 https://cafefhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CanalCineDios.co@SD" tvg-name="Canal Cine Dios" tvg-logo="https://i.imgur.com/S4xqZgV.png" tvg-country="CO" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Canal Cine Dios
 https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Austria" tvg-name="Canal+ Action Europe Austria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" tvg-country="NL" tvg-language="ger" group-title="🌍 Фільми | Інші мови",Canal+ Action Europe Austria
-https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3856042964fb24f530c4bc
 #EXTINF:-1 tvg-id="" tvg-name="Car Chase – Pluto TV" tvg-logo="https://i.imgur.com/F1jXkhK.png" tvg-country="" tvg-language="" group-title="🌍 Фільми | Інші мови",Car Chase – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65a939fad77d450008863835/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="Case Pazzesche – Pluto TV" tvg-logo="https://i.imgur.com/v8IDWwX.png" tvg-country="" tvg-language="" group-title="🌍 Фільми | Інші мови",Case Pazzesche – Pluto TV
@@ -532,8 +532,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d83
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.cz@Czechia" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Фільми | Інші мови",Cinemax
 http://88.212.15.50/live/test_cinemax_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Cinemax2.cz@Czechia" tvg-name="Cinemax 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-country="CZ" tvg-language="ces" group-title="🌍 Фільми | Інші мови",Cinemax 2
-http://88.212.15.50/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.cz@Romania" tvg-name="Cinemax 2 Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" tvg-country="CZ" tvg-language="ron" group-title="🌍 Фільми | Інші мови",Cinemax 2 Romania
+https://rundle.tv/proxy5.php?src=https://cronos.mangora1.cfd/xmas2/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1 tvg-id="CinemaxLatinAmerica.us@SD" tvg-name="Cinemax Latin America" tvg-logo="https://i.imgur.com/cZWoJWD.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Cinemax Latin America
 https://streaming.onnethn.com/CINEMAX/playlist.m3u8
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg@SD" tvg-name="CineStar 1 Bulgaria" tvg-logo="https://i.imgur.com/t9vVTLH.png" tvg-country="BG" tvg-language="bul" group-title="🌍 Фільми | Інші мови",CineStar 1 Bulgaria
@@ -544,6 +544,8 @@ http://213.91.179.28:8000/play/a06b
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="Cine666byPlutoTV.de@FR" tvg-name="Ciné 666 by Pluto TV" tvg-logo="https://images.pluto.tv/channels/6823648580b2665220d9e69a/colorLogoPNG-1757404141.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné 666 by Pluto TV
 https://jmp2.uk/plu-6823648580b2665220d9e69a.m3u8
+#EXTINF:-1 tvg-id="CineActionbyPlutoTV.de@FR" tvg-name="Ciné Action by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG_1752228138963.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné Action by Pluto TV
+https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
 #EXTINF:-1 tvg-id="CinebyPlutoTV.de@FR" tvg-name="Ciné by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG_1775048900088.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné by Pluto TV
 https://jmp2.uk/plu-5f8ed0f17564a300082b676a.m3u8
 #EXTINF:-1 tvg-id="CineCatastrophebyPlutoTV.de@FR" tvg-name="Ciné Catastrophe by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65a69ef53af63d000825e0ee/colorLogoPNG_1751272916058.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné Catastrophe by Pluto TV
@@ -556,6 +558,8 @@ https://jmp2.uk/plu-66e1978babec540008ce41ac.m3u8
 https://jmp2.uk/plu-60812fc8539963000707d1e1.m3u8
 #EXTINF:-1 tvg-id="CineRetrobyPlutoTV.de@FR" tvg-name="Ciné Rétro by Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG_1751272859383.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné Rétro by Pluto TV
 https://jmp2.uk/plu-5f8ed168f72fcd0007e56269.m3u8
+#EXTINF:-1 tvg-id="CineSciFibyPlutoTV.de@FR" tvg-name="Ciné Sci-Fi by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné Sci-Fi by Pluto TV
+https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
 #EXTINF:-1 tvg-id="CineThrillersbyPlutoTV.de@FR" tvg-name="Ciné Thrillers by Pluto TV" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG_1751272093012.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné Thrillers by Pluto TV
 https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
 #EXTINF:-1 tvg-id="CineWesternbyPlutoTV.de@FR" tvg-name="Ciné Western by Pluto TV" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG_1751272826143.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Ciné Western by Pluto TV
@@ -572,8 +576,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="ColorsCineplex.in@SD" tvg-name="Colors Cineplex" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=720x540" tvg-country="IN" tvg-language="hin" group-title="🌍 Фільми | Інші мови",Colors Cineplex
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.imgur.com/EbHSQAJ.png" tvg-country="IN" tvg-language="hin" group-title="🌍 Фільми | Інші мови",Colors Cineplex Bollywood
-http://163.61.226.31:9981/stream/channelid/1709941389?profile=pass
 #EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" tvg-name="Colors Cineplex Superhits" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ColorsCineplexSuperhit.png" tvg-country="IN" tvg-language="hin" group-title="🌍 Фільми | Інші мови",Colors Cineplex Superhits
 http://163.61.226.31:9981/stream/channelid/2039746374?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="Consulenze illegali – Pluto TV" tvg-logo="https://i.imgur.com/AoOiYJX.png" tvg-country="" tvg-language="" group-title="🌍 Фільми | Інші мови",Consulenze illegali – Pluto TV
@@ -696,6 +698,8 @@ http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/2e3muOJ.png" tvg-country="PL" tvg-language="pol" group-title="🌍 Фільми | Інші мови",HBO 2
 http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.ro@SD" tvg-name="HBO 2" tvg-logo="https://i.imgur.com/53mBgZI.png" tvg-country="RO" tvg-language="ron" group-title="🌍 Фільми | Інші мови",HBO 2
+https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-name="HBO 2 Latin America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",HBO 2 Latin America HD
 http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-name="HBO 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" tvg-country="CZ" tvg-language="ces" group-title="🌍 Фільми | Інші мови",HBO 3
@@ -918,12 +922,14 @@ https://jmp2.uk/plu-5f1ac8099c49f600076579b2.m3u8
 https://jmp2.uk/plu-5f12101f0b12f00007844c7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-name="Pluto TV Cine Comédia Romântica" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Comédia Romântica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineCrime.us@BR" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Crime
+https://jmp2.uk/plu-6479ff764f5ba5000878dfe2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineCrimen.us@LatAm" tvg-name="Pluto TV Cine Crimen" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Crimen
 https://jmp2.uk/plu-624af40c004f8000079b784d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCinedeautor.de@ES" tvg-name="Pluto TV Cine de autor" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Pluto TV Cine de autor
 https://jmp2.uk/plu-60cc807324d60a0007708dc8.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@BR" tvg-name="Pluto TV Cine Drama" tvg-logo="https://i.imgur.com/AQBtheU.png" tvg-country="US" tvg-language="por" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Drama
-https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.us@LatAm" tvg-name="Pluto TV Cine Drama" tvg-logo="https://i.imgur.com/AQBtheU.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Drama
+https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineEstelar.us@LatAm" tvg-name="Pluto TV Cine Estelar" tvg-logo="https://i.imgur.com/v3BO4nW.png" tvg-country="US" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Estelar
 https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineFamilia.us@BR" tvg-name="Pluto TV Cine Família" tvg-logo="https://i.imgur.com/r9UhBfV.png" tvg-country="US" tvg-language="por" group-title="🌍 Фільми | Інші мови",Pluto TV Cine Família
@@ -946,6 +952,8 @@ https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCinemaOrientale.de@IT" tvg-name="Pluto TV Cinema Orientale" tvg-logo="https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Фільми | Інші мови",Pluto TV Cinema Orientale
 https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComediasRomanticas.de@ES" tvg-name="Pluto TV Comedias Románticas" tvg-logo="https://images.pluto.tv/channels/655b5d865812e80008843bd1/colorLogoPNG_1747044085522.png" tvg-country="DE" tvg-language="spa" group-title="🌍 Фільми | Інші мови",Pluto TV Comedias Románticas
+https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" tvg-country="" tvg-language="" group-title="🌍 Фільми | Інші мови",Pluto TV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="PlutoTVComediesCultes.de@FR" tvg-name="Pluto TV Comédies Cultes" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" tvg-country="DE" tvg-language="fra" group-title="🌍 Фільми | Інші мови",Pluto TV Comédies Cultes

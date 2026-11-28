@@ -103,6 +103,8 @@ http://92.114.85.87:8018/play/a00h/index.m3u8
 http://92.114.85.87:8016/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD" tvg-name="Euro Indie Music Chart TV" tvg-logo="https://i.imgur.com/lF0iofX.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Музика",Euro Indie Music Chart TV
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de@SD" tvg-name="Finest TV" tvg-logo="https://i.imgur.com/1uoP10V.png" tvg-country="DE" tvg-language="deu;tur" group-title="🌍 Музика",Finest TV
+https://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD" tvg-name="Folx Music Television" tvg-logo="https://i.imgur.com/ze04puX.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Музика",Folx Music Television
 https://folxapp.b-cdn.net/1080p/index.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-name="FomixTV" tvg-logo="https://i.imgur.com/7SLYEMG.png" tvg-country="NL" tvg-language="nld" group-title="🌍 Музика",FomixTV
@@ -138,8 +140,6 @@ https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-name="LiveXLive" tvg-logo="https://i.imgur.com/KFzEoed.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-name="LRT Opus" tvg-logo="https://i.imgur.com/oLuZTMH.png" tvg-country="LT" tvg-language="lit" group-title="🌍 Музика",LRT Opus
-https://stream-live.lrt.lt/opus/master.m3u8
 #EXTINF:-1 tvg-id="M1.lt@SD" tvg-name="M-1" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-country="LT" tvg-language="lit" group-title="🌍 Музика",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Музика",m2o TV
@@ -173,6 +173,8 @@ https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.ism
 https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us@LatAm" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="🌍 Музика",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",MTV Live
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-name="MTV Spankin’ New" tvg-logo="https://i.imgur.com/thbvJd1.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",MTV Spankin’ New
 https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="MusicBoxClassic.cz@SD" tvg-name="Music Box Classic" tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" tvg-country="CZ" tvg-language="eng" group-title="🌍 Музика",Music Box Classic

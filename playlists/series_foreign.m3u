@@ -41,8 +41,8 @@ https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 #EXTINF:-1 tvg-id="Awkward.se@DK" tvg-name="Awkward" tvg-logo="https://images.pluto.tv/channels/61c0925c738ecd000882450a/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Awkward
 https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
-#EXTINF:-1 tvg-id="BarRescue.us@SD" tvg-name="Bar Rescue" tvg-logo="https://i.imgur.com/WFgWGPb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Bar Rescue
-https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+#EXTINF:-1 tvg-id="BarRescue.us@CA" tvg-name="Bar Rescue" tvg-logo="https://i.imgur.com/WFgWGPb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Bar Rescue
+https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
 #EXTINF:-1 tvg-id="BattlestarGalactica.us@SD" tvg-name="Battlestar Galactica" tvg-logo="https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 tvg-id="Baywatch.us@US" tvg-name="Baywatch" tvg-logo="https://i.imgur.com/c2esKHg.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Baywatch
@@ -69,16 +69,16 @@ https://jmp2.uk/plu-61b3b8c645b45d0007a9bb8d.m3u8
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1 tvg-id="BritainsNextTopModel.se@DK" tvg-name="Britain's Next Top Model" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Britain's Next Top Model
 https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
-#EXTINF:-1 tvg-id="BroadCity.se@DK" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Broad City
-https://jmp2.uk/plu-65cba73611ced700082123bc.m3u8
+#EXTINF:-1 tvg-id="BroadCity.se@SE" tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Серіали | EN",Broad City
+https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
 #EXTINF:-1 tvg-id="Bull.se@DK" tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Bull
 https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
 #EXTINF:-1 tvg-id="CagneyLacey.de@GB" tvg-name="Cagney & Lacey" tvg-logo="https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/colorLogoPNG_1767949823270.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Серіали | EN",Cagney & Lacey
 https://jmp2.uk/plu-6960c5a906d76f50db2816dc.m3u8
 #EXTINF:-1 tvg-id="CameraSmileTV.us@SD" tvg-name="Camera Smile" tvg-logo="https://i.imgur.com/V5h4R83.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Camera Smile
 https://rpn.bozztv.com/gusa/gusa-camerasmile/index.m3u8
-#EXTINF:-1 tvg-id="CarolineintheCity.se@DK" tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Caroline in the City
-https://jmp2.uk/plu-66a7aa44cd0d31000843942b.m3u8
+#EXTINF:-1 tvg-id="CarolineintheCity.se@NO" tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",Caroline in the City
+https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8
 #EXTINF:-1 tvg-id="ChappellesShow.se@DK" tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Chappelle's Show
 https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
 #EXTINF:-1 tvg-id="Cheers.us@CA" tvg-name="Cheers" tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Cheers
@@ -146,7 +146,7 @@ https://jmp2.uk/plu-63a1cab19ab2df0007bf1c8b.m3u8
 #EXTINF:-1 tvg-id="FamilyTies.us@SD" tvg-name="Family Ties" tvg-logo="https://i.imgur.com/WJEkKCb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Family Ties
 https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8
 #EXTINF:-1 tvg-id="Farscape.us@SD" tvg-name="Farscape" tvg-logo="https://i.imgur.com/2WH4lSc.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Farscape
-https://jmp2.uk/plu-699c1b4c9c3b075ecd513139.m3u8
+https://jmp2.uk/plu-699c1bd39a3f3bb4887e045e.m3u8
 #EXTINF:-1 tvg-id="FBoyIsland.se@DK" tvg-name="FBoy Island" tvg-logo="https://images.pluto.tv/channels/6790d6c7bc03978b9bfbfd44/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",FBoy Island
 https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
 #EXTINF:-1 tvg-id="FearFactor.us@US" tvg-name="Fear Factor" tvg-logo="https://i.imgur.com/CIYnLWz.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Fear Factor
@@ -158,7 +158,7 @@ https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="FunnyAF.us@SD" tvg-name="Funny AF" tvg-logo="https://i.imgur.com/UCwjdtQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Funny AF
 https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 #EXTINF:-1 tvg-id="GhostDimension.us@UK" tvg-name="Ghost Dimension" tvg-logo="https://i.imgur.com/a0jOxez.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Ghost Dimension
-https://jmp2.uk/plu-619e259fd8b672000729b1d7.m3u8
+https://jmp2.uk/plu-619e1bb3e9af5a0007f235ad.m3u8
 #EXTINF:-1 tvg-id="GhostHunters.us@UK" tvg-name="Ghost Hunters" tvg-logo="https://i.imgur.com/KdBr6rG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Ghost Hunters
 https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gunsmoke.us@SD" tvg-name="Gunsmoke" tvg-logo="https://i.imgur.com/OxUS1Hq.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Gunsmoke
@@ -191,8 +191,8 @@ https://jmp2.uk/plu-66a105f4a79dea0008aa5e0f.m3u8
 https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8
 #EXTINF:-1 tvg-id="JohnnyCarsonTV.us@SD" tvg-name="Johnny Carson TV" tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Johnny Carson TV
 https://vizioaaaa-johnnycarson-vizio-8fyqr.amagi.tv/playlist/vizioAAAA-johnnycarson-vizio/playlist.m3u8
-#EXTINF:-1 tvg-id="JudgeJudy.se@NO" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",Judge Judy
-https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
+#EXTINF:-1 tvg-id="JudgeJudy.se@DK" tvg-name="Judge Judy" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Judge Judy
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
 #EXTINF:-1 tvg-id="JudgeNosey.us@US" tvg-name="Judge Nosey" tvg-logo="https://i.imgur.com/S4r98AB.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Judge Nosey
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us@SD" tvg-name="Just for Laughs Gags" tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Just for Laughs Gags
@@ -217,8 +217,8 @@ https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00
 https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
 #EXTINF:-1 tvg-id="MidsomerMurders.us@SD" tvg-name="Midsomer Murders" tvg-logo="https://i.imgur.com/VFqfyfY.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Midsomer Murders
 https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MissionImpossible.us@CA" tvg-name="Mission Impossible" tvg-logo="https://i.imgur.com/QS5lg0t.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Mission Impossible
-https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.us@SD" tvg-name="Mission Impossible" tvg-logo="https://i.imgur.com/QS5lg0t.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
 #EXTINF:-1 tvg-id="MorePlutoTVComedy.us@CA" tvg-name="More Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",More Pluto TV Comedy
 https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1 tvg-id="MoreTrueCrime.us@SD" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",More True Crime
@@ -297,6 +297,8 @@ https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomance.us@US" tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/GJBxfyf.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Pluto TV Romance
 https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" tvg-name="Pluto TV Sci-fi" tvg-logo="https://i.imgur.com/vSzd5m7.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Pluto TV Sci-fi
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScifiSeries.de@GB" tvg-name="Pluto TV Sci-fi Series" tvg-logo="https://i.imgur.com/Ubj8sEU.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Серіали | EN",Pluto TV Sci-fi Series
 https://jmp2.uk/plu-619247c34a270700077c8415.m3u8
 #EXTINF:-1 tvg-id="PlutoTVToughJobs.de@GB" tvg-name="Pluto TV Tough Jobs" tvg-logo="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Серіали | EN",Pluto TV Tough Jobs
@@ -315,17 +317,17 @@ https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
 https://jmp2.uk/plu-6996296087742204bff43147.m3u8
 #EXTINF:-1 tvg-id="RiffTrax.us@US" tvg-name="RiffTrax" tvg-logo="https://i.imgur.com/hM4yKMn.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",RiffTrax
 https://wurlrifftrax.global.transmit.live/hls/68222b9cbe836edbe6f39e74/playlist.m3u8
+#EXTINF:-1 tvg-id="SabrinatheTeenageWitch.se@NO" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",Sabrina the Teenage Witch
+https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 #EXTINF:-1 tvg-id="SabrinaTheTeenageWitch.de@GB" tvg-name="Sabrina The Teenage Witch" tvg-logo="https://images.pluto.tv/channels/66276091cee0d900085fe053/colorLogoPNG.png" tvg-country="DE" tvg-language="eng" group-title="🌍 Серіали | EN",Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
-#EXTINF:-1 tvg-id="SabrinatheTeenageWitch.se@DK" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Sabrina the Teenage Witch
-https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSanctuary.us@SD" tvg-name="Sanctuary" tvg-logo="https://i.imgur.com/Fu2jn2t.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Sanctuary
 https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
 #EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-name="Sci Fi" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-country="RS" tvg-language="srp;eng" group-title="🌍 Серіали | EN",Sci Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
-#EXTINF:-1 tvg-id="Scorpion.se@DK" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Scorpion
-https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
+#EXTINF:-1 tvg-id="Scorpion.se@NO" tvg-name="Scorpion" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",Scorpion
+https://jmp2.uk/plu-63a1c959d9dd51000825d659.m3u8
 #EXTINF:-1 tvg-id="SitcomLegends.us@SD" tvg-name="Sitcom Legends" tvg-logo="https://images.pluto.tv/channels/633354b63df9700007f6a1b7/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Sitcom Legends
 https://jmp2.uk/plu-633354b63df9700007f6a1b7.m3u8
 #EXTINF:-1 tvg-id="SketchyAF.us@SD" tvg-name="Sketchy AF" tvg-logo="https://images.pluto.tv/channels/67882c1c7b11714b795c2008/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Sketchy AF
@@ -336,8 +338,8 @@ https://jmp2.uk/plu-643810f2e8a4aa0008ccf575.m3u8
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993017/hls/master.m3u8?ads.xumo_channelId=99993017
 #EXTINF:-1 tvg-id="SouthPark.us@CA" tvg-name="South Park" tvg-logo="https://i.imgur.com/qA3KsTh.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",South Park
 https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
-#EXTINF:-1 tvg-id="SouthParkArmageddon.se@NO" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",South Park Armageddon
-https://jmp2.uk/plu-660bff5724e1d000085b7c07.m3u8
+#EXTINF:-1 tvg-id="SouthParkArmageddon.se@DK" tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",South Park Armageddon
+https://jmp2.uk/plu-660bff28516d260008479e23.m3u8
 #EXTINF:-1 tvg-id="SouthParkEnFrancais.us@CA" tvg-name="South Park En Français" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",South Park En Français
 https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
 #EXTINF:-1 tvg-id="SouthParkRockinOut.se@DK" tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",South Park Rockin' Out
@@ -360,8 +362,8 @@ https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.us@SD" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Star Trek: The Next Generation
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
-#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se@NO" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",Star Trek: The Original Series
-https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
+#EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.se@DK" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Star Trek: The Original Series
+https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1 tvg-id="StarTrekVoyager.us@SD" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 #EXTINF:-1 tvg-id="StarzComedy.us@East" tvg-name="Starz Comedy" tvg-logo="https://i.imgur.com/JpKvjZe.png" tvg-country="US" tvg-language="eng;spa" group-title="🌍 Серіали | EN",Starz Comedy
@@ -396,12 +398,12 @@ https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@SD" tvg-name="The Judge Judy Channel" tvg-logo="https://i.imgur.com/RhD7gIW.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",The Judge Judy Channel
 https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8
-#EXTINF:-1 tvg-id="TheLWord.se@NO" tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-country="SE" tvg-language="eng;nor" group-title="🌍 Серіали | EN",The L Word
-https://jmp2.uk/plu-693ae4b616c2bba998852c21.m3u8
+#EXTINF:-1 tvg-id="TheLWord.se@DK" tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",The L Word
+https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
 #EXTINF:-1 tvg-id="TheLoop.us@SD" tvg-name="The Loop" tvg-logo="https://i.imgur.com/iyYLuJj.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",The Loop
 https://tgn.bozztv.com/watc57/watc57-theloop/watc57-theloop/index.m3u8
-#EXTINF:-1 tvg-id="TheNewDetectives.us@US" tvg-name="The New Detectives" tvg-logo="https://i.imgur.com/GLXg9ge.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",The New Detectives
-https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.us@CA" tvg-name="The New Detectives" tvg-logo="https://i.imgur.com/GLXg9ge.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",The New Detectives
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1 tvg-id="TheRifleman.us@SD" tvg-name="The Rifleman" tvg-logo="https://i.imgur.com/60YejJs.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD" tvg-name="The Twilight Zone" tvg-logo="https://i.imgur.com/FiIRQAR.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",The Twilight Zone
@@ -440,10 +442,10 @@ https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 #EXTINF:-1 tvg-id="WildatHeart.us@UK" tvg-name="Wild at Heart" tvg-logo="https://i.imgur.com/kyVB8Ik.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
-#EXTINF:-1 tvg-id="Wildfire.se@DK" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Серіали | EN",Wildfire
-https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
+#EXTINF:-1 tvg-id="Wildfire.se@SE" tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Серіали | EN",Wildfire
+https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVWipeout.us@SD" tvg-name="Wipeout" tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Wipeout
-https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8
 #EXTINF:-1 tvg-id="XPTVUS.es@SD" tvg-name="XPTV US" tvg-logo="https://i.imgur.com/1m7kDmc.png" tvg-country="ES" tvg-language="eng" group-title="🌍 Серіали | EN",XPTV US
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
 #EXTINF:-1 tvg-id="ZNation.us@SD" tvg-name="Z Nation" tvg-logo="https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png" tvg-country="US" tvg-language="eng" group-title="🌍 Серіали | EN",Z Nation
@@ -468,8 +470,8 @@ https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7" tvg-logo="https://i.imgur.com/X5g6gXS.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
-#EXTINF:-1 tvg-id="Andromeda.us@Italy" tvg-name="Andromeda Italy" tvg-logo="https://i.imgur.com/6ot2lmd.png" tvg-country="US" tvg-language="ita" group-title="🌍 Серіали | Інші мови",Andromeda Italy
-https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
+#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-name="Andromeda" tvg-logo="https://i.imgur.com/6ot2lmd.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",Andromeda
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir@SD" tvg-name="AVA Series" tvg-logo="https://i.imgur.com/8AfAfZE.png" tvg-country="IR" tvg-language="fas" group-title="🌍 Серіали | Інші мови",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Awkward.de@DACH" tvg-name="Awkward" tvg-logo="https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Серіали | Інші мови",Awkward
@@ -529,8 +531,8 @@ https://jmp2.uk/plu-61f1d27a189ed10007b7393e.m3u8
 https://jmp2.uk/plu-5f9992c685a2a80007fa414a.m3u8
 #EXTINF:-1 tvg-id="ElComisario.us@Spain" tvg-name="El Comisario" tvg-logo="https://i.imgur.com/XYt8utn.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",El Comisario
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
-#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-name="El Encantador de Perros" tvg-logo="https://i.imgur.com/hYqjQ1n.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",El Encantador de Perros
-https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
+#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-name="El encantador de perros" tvg-logo="https://i.imgur.com/hYqjQ1n.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",El encantador de perros
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
 #EXTINF:-1 tvg-id="Empenosalobestia.us@Spain" tvg-name="Empeños a lo bestia" tvg-logo="https://i.imgur.com/EOttSdW.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",Empeños a lo bestia
 https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Italy" tvg-name="Failarmy" tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-country="US" tvg-language="ita" group-title="🌍 Серіали | Інші мови",Failarmy
@@ -693,8 +695,6 @@ https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScherzierisate.de@IT" tvg-name="Pluto TV Scherzi e risate" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Серіали | Інші мови",Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVSciFi.us@LatAm" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://i.imgur.com/vSzd5m7.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",Pluto TV Sci-Fi
-https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerie.de@DACH" tvg-name="Pluto TV Serie" tvg-logo="https://i.imgur.com/u3c80e8.png" tvg-country="DE" tvg-language="deu" group-title="🌍 Серіали | Інші мови",Pluto TV Serie
 https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSerieCrime.de@IT" tvg-name="Pluto TV Serie Crime" tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png" tvg-country="DE" tvg-language="ita" group-title="🌍 Серіали | Інші мови",Pluto TV Serie Crime
@@ -723,8 +723,8 @@ https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
 https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.se@DK" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" tvg-country="SE" tvg-language="dan" group-title="🌍 Серіали | Інші мови",Pluto TV Star Trek
 https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
-#EXTINF:-1 tvg-id="StarTrek.us@BR" tvg-name="Pluto TV Star Trek" tvg-logo="https://i.imgur.com/8cvXYiT.png" tvg-country="US" tvg-language="por" group-title="🌍 Серіали | Інші мови",Pluto TV Star Trek
-https://jmp2.uk/plu-5f99ac4fded33000078f29ab.m3u8
+#EXTINF:-1 tvg-id="StarTrek.us@LatAm" tvg-name="Pluto TV Star Trek" tvg-logo="https://i.imgur.com/8cvXYiT.png" tvg-country="US" tvg-language="spa" group-title="🌍 Серіали | Інші мови",Pluto TV Star Trek
+https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesAcao.us@BR" tvg-name="Pluto TV Séries Ação" tvg-logo="https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png" tvg-country="US" tvg-language="por" group-title="🌍 Серіали | Інші мови",Pluto TV Séries Ação
 https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us@BR" tvg-name="Pluto TV Séries Comédia" tvg-logo="https://i.imgur.com/INcTSkj.png" tvg-country="US" tvg-language="por" group-title="🌍 Серіали | Інші мови",Pluto TV Séries Comédia
@@ -822,7 +822,7 @@ http://92.114.85.87:8001/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-name="Viva Telenovelas" tvg-logo="https://static.g-cdn.app/streams/viva-il.png" tvg-country="IL" tvg-language="heb" group-title="🌍 Серіали | Інші мови",Viva Telenovelas
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="WalkerTexasRanger.us@France" tvg-name="Walker Texas Ranger" tvg-logo="https://i.imgur.com/0N7EhuD.png" tvg-country="US" tvg-language="fra" group-title="🌍 Серіали | Інші мови",Walker Texas Ranger
-https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
+https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-name="Zylo Fréquence Novelas" tvg-logo="https://i.imgur.com/fEjNAps.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Серіали | Інші мови",Zylo Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="TodoNovelas.es@SD" tvg-name="Zylo Todo Novelas" tvg-logo="https://i.imgur.com/NuYwGok.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Серіали | Інші мови",Zylo Todo Novelas

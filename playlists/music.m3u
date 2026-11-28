@@ -140,6 +140,8 @@ https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-name="LiveXLive" tvg-logo="https://i.imgur.com/KFzEoed.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",LiveXLive
 https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-id="LRTOpus.lt@SD" tvg-name="LRT Opus" tvg-logo="https://i.imgur.com/oLuZTMH.png" tvg-country="LT" tvg-language="lit" group-title="🌍 Музика",LRT Opus
+https://stream-live.lrt.lt/opus/master.m3u8
 #EXTINF:-1 tvg-id="M1.lt@SD" tvg-name="M-1" tvg-logo="https://i.ibb.co/gb4NmNHT/M1-2025.png" tvg-country="LT" tvg-language="lit" group-title="🌍 Музика",M-1
 https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it@SD" tvg-name="m2o TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/500px-Radio_m2o_-_Logo_2019.svg.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Музика",m2o TV
@@ -169,8 +171,8 @@ http://181.78.12.119:16123/play/ch54/index.m3u8
 http://38.134.250.110:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="MNM.be@SD" tvg-name="MNM" tvg-logo="https://i.imgur.com/L4cD18H.png" tvg-country="BE" tvg-language="nld" group-title="🌍 Музика",MNM
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us@LatAm" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/AOaZmlS.png" tvg-country="US" tvg-language="spa" group-title="🌍 Музика",MTV Biggest Pop
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-name="MTV Biggest Pop" tvg-logo="https://i.imgur.com/AOaZmlS.png" tvg-country="US" tvg-language="por" group-title="🌍 Музика",MTV Biggest Pop
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us@LatAm" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png" tvg-country="US" tvg-language="spa" group-title="🌍 Музика",MTV Flow Latino
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us@SD" tvg-name="MTV Live" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-country="US" tvg-language="eng" group-title="🌍 Музика",MTV Live

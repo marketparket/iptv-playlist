@@ -904,8 +904,6 @@ https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playl
 https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 tvg-id="MerweTV.nl@SD" tvg-name="Merwe TV" tvg-logo="https://i.imgur.com/JjB7U1q.png" tvg-country="NL" tvg-language="nld" group-title="🌍 Загальні",Merwe TV
 https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel26.us@SD" tvg-name="Midpen Media Center Government etc Channel 26" tvg-logo="https://i.imgur.com/aX1GkCD.png" tvg-country="US" tvg-language="eng" group-title="🌍 Загальні",Midpen Media Center Government etc Channel 26
-https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD" tvg-name="Mijas 3.40TV" tvg-logo="https://i.imgur.com/RH1zLLs.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",Mijas 3.40TV
 https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Minformo Tv" tvg-logo="https://i.imgur.com/VJNtnZM.jpg" tvg-country="IT" tvg-language="" group-title="🌍 Загальні",Minformo Tv
@@ -1376,8 +1374,6 @@ http://88.212.7.14/live/test_ric_international_avc_25p/playlist.m3u8
 https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Riigikogu.ee@SD" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/dJRGDt2.png" tvg-country="EE" tvg-language="est" group-title="🌍 Загальні",Riigikogu
 https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
-#EXTINF:-1 tvg-id="TVR.es@SD" tvg-name="Rioja Televisión" tvg-logo="https://i.ibb.co/nRq3YfT/Logo-Rioja-Televisi-n-S-A.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",Rioja Televisión
-https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="RioniTV.ge@SD" tvg-name="Rioni TV" tvg-logo="https://i.imgur.com/ogMqmth.png" tvg-country="GE" tvg-language="kat" group-title="🌍 Загальні",Rioni TV
 https://video.rionitv.com/hls/live/rioni.m3u8
 #EXTINF:-1 tvg-id="RMCDecouverte.fr@SD" tvg-name="RMC Decouverte" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/960px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Загальні",RMC Decouverte
@@ -1801,8 +1797,8 @@ https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 #EXTINF:-1 tvg-id="TheHillTV.us@SD" tvg-name="The Hill TV" tvg-logo="https://i.imgur.com/Ioh5xbx.png" tvg-country="US" tvg-language="eng" group-title="🌍 Загальні",The Hill TV
 https://linear-1178.frequency.stream/mt/vizio/1178/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TheMillers.se@DK" tvg-name="The Millers" tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png" tvg-country="SE" tvg-language="eng;dan" group-title="🌍 Загальні",The Millers
-https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+#EXTINF:-1 tvg-id="TheMillers.se@SE" tvg-name="The Millers" tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png" tvg-country="SE" tvg-language="eng;swe" group-title="🌍 Загальні",The Millers
+https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
 #EXTINF:-1 tvg-id="TheNanny.us@UK" tvg-name="The Nanny" tvg-logo="https://i.imgur.com/1caOriu.png" tvg-country="US" tvg-language="eng" group-title="🌍 Загальні",The Nanny
 https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
 #EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-name="The Q India" tvg-logo="https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540" tvg-country="US" tvg-language="hin" group-title="🌍 Загальні",The Q India
@@ -1940,9 +1936,6 @@ https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/pl
 https://tv3v.live-kd.com/live/tv3v/livestream/index.m3u8
 #EXTINF:-1 tvg-id="TV4LaVall.es@SD" tvg-name="TV4 La Vall" tvg-logo="https://i.imgur.com/NqjFVHp.png" tvg-country="ES" tvg-language="spa" group-title="🌍 Загальні",TV4 La Vall
 https://valldeuxo.gestec-video.com/hls/lavall.m3u8
-#EXTINF:-1 tvg-id="TV5QuebecCanada.ca@SD" tvg-name="TV5 Quebec Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/960px-TV5_%28logo%29.svg.png" tvg-country="CA" tvg-language="fra" group-title="🌍 Загальні",TV5 Quebec Canada
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://192.99.186.30/stream/192/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-name="TV5Monde Africa" tvg-logo="https://i.imgur.com/0N64Ddn.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Загальні",TV5Monde Africa
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-name="TV5Monde Asia" tvg-logo="https://i.imgur.com/FRsRXRR.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Загальні",TV5Monde Asia

@@ -255,20 +255,20 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 tvg-id="Euronews.pl@FAST" tvg-name="Euronews" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/bc84c3b7-6008-4ee3-8f6a-e4bb4365f082-width200-quality90.jpeg" tvg-country="PL" tvg-language="pol" group-title="🌍 Новини",Euronews
 https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="deu" group-title="🌍 Новини",Euronews
-https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-name="Euronews English" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/extras/1080_logo.png" tvg-country="FR" tvg-language="eng" group-title="🌍 Новини",Euronews English
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-name="Euronews French" tvg-logo="https://i.imgur.com/5A0Wnrv.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",Euronews French
 https://2f6c5bf4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGeorgia.ge@SD" tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-country="GE" tvg-language="kat" group-title="🌍 Новини",Euronews Georgia
 http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="EuronewsGerman.fr@SD" tvg-name="Euronews German" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="deu" group-title="🌍 Новини",Euronews German
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsGreek.fr@SD" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="ell" group-title="🌍 Новини",Euronews Greek
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsHungarian.fr@SD" tvg-name="Euronews Hungarian" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="hun" group-title="🌍 Новини",Euronews Hungarian
 https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-name="Euronews Portuguese" tvg-logo="https://i.imgur.com/8t9mdg9.png" tvg-country="FR" tvg-language="por" group-title="🌍 Новини",Euronews Portuguese
-https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
+https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-name="Euronews Spanish" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png" tvg-country="FR" tvg-language="spa" group-title="🌍 Новини",Euronews Spanish
 https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-id="Europe1TV.fr@HD" tvg-name="Europe 1 TV" tvg-logo="https://i.ibb.co/rGqB5FcH/Europe1-TV.png" tvg-country="FR" tvg-language="fra" group-title="🌍 Новини",Europe 1 TV
@@ -364,8 +364,6 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MBTV.us@SD" tvg-name="Miami Beach Tv (MBTV) (Miami Beach FL)" tvg-logo="https://i.imgur.com/LyqFr9E.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Miami Beach Tv (MBTV) (Miami Beach FL)
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel29.us@SD" tvg-name="Midpen Media Center Government etc Channel 29" tvg-logo="https://i.imgur.com/RPJiolQ.png" tvg-country="US" tvg-language="eng" group-title="🌍 Новини",Midpen Media Center Government etc Channel 29
-https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MinformoTV.it@SD" tvg-name="Minformo TV" tvg-logo="https://i.imgur.com/9Oq6fLw.png" tvg-country="IT" tvg-language="ita" group-title="🌍 Новини",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleChannel.se@SD" tvg-name="Miracle TV" tvg-logo="https://i.imgur.com/rc68GZJ.png" tvg-country="SE" tvg-language="ara" group-title="🌍 Новини",Miracle TV
